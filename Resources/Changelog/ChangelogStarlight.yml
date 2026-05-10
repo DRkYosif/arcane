@@ -1,13 +1,6 @@
 Entries:
 - author: Caws
   changes:
-  - message: (Saltern) Replaced firelocks that overlapped turnstiles with edge firelocks.
-    type: Fix
-  id: 404465
-  time: '2026-04-21T11:18:06.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4220
-- author: Caws
-  changes:
   - message: (Saltern) Duplicate air sensor in the TEG chamber.
     type: Fix
   id: 404466
@@ -2799,4 +2792,11 @@ Entries:
   id: 404864
   time: '2026-05-10T07:12:47.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4377
+- author: CrazyPhantom
+  changes:
+  - message: Vox and Vulps can now use the correct colours.
+    type: Fix
+  id: 404865
+  time: '2026-05-10T09:08:54.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4409
 Order: -1
