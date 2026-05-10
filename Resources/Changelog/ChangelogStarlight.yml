@@ -1,13 +1,6 @@
 Entries:
 - author: Rinary
   changes:
-  - message: Fixed power cell slot missing on paramed void suit.
-    type: Fix
-  id: 404501
-  time: '2026-04-21T20:52:23.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4224
-- author: Rinary
-  changes:
   - message: Fixed power cell drain when helmet unfolded.
     type: Fix
   id: 404502
@@ -2799,4 +2792,11 @@ Entries:
   id: 404900
   time: '2026-05-10T10:58:54.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4346
+- author: Scarlet Lightweaver
+  changes:
+  - message: The syndicate has had budget costs, the syndicate mail trunk no longer can reflect, mailtechs wheep.
+    type: Tweak
+  id: 404901
+  time: '2026-05-10T18:26:55.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4414
 Order: -1
