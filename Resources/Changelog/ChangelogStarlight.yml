@@ -1,13 +1,6 @@
 Entries:
 - author: wonderfulnewworld
   changes:
-  - message: Security/Internal Affairs Windoors.
-    type: Add
-  id: 404544
-  time: '2026-04-23T12:02:35.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4237
-- author: wonderfulnewworld
-  changes:
   - message: Internal Affairs Windoors.
     type: Add
   id: 404545
@@ -2799,4 +2792,11 @@ Entries:
   id: 404943
   time: '2026-05-13T07:24:02.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4403
+- author: Caws
+  changes:
+  - message: Tourniquets no longer deal 5 brute damage when applied to someone. This also means that tourniquets no longer inadvertently make you bleed (due to dealing brute damage to you on application).
+    type: Tweak
+  id: 404944
+  time: '2026-05-13T07:53:05.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4430
 Order: -1
