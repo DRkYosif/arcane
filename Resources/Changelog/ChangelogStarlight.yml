@@ -1,20 +1,6 @@
 Entries:
 - author: Cujo
   changes:
-  - message: (Lagan) Prisoner EVA storages and the new boxing ring ropes have been added to Genpop.
-    type: Add
-  id: 404610
-  time: '2026-04-26T07:03:47.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4235
-- author: Cujo
-  changes:
-  - message: (Lagan) Shutters added to the AI upload room to prevent turret collateral of those innocent passersby in the hallways.
-    type: Tweak
-  id: 404611
-  time: '2026-04-26T07:03:47.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4235
-- author: Cujo
-  changes:
   - message: (Lagan) Made a cosmetic pass of each head-of-staff office; all consoles, document printers, paper trays accounted for where practical or necessary.
     type: Tweak
   id: 404612
@@ -2799,4 +2785,18 @@ Entries:
   id: 405009
   time: '2026-05-15T12:03:58.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4411
+- author: Unknown
+  changes:
+  - message: Added 49 new clothing items between cloaks, jumpsuits and coats.
+    type: Add
+  id: 405010
+  time: '2026-05-15T12:04:00.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4436
+- author: Unknown
+  changes:
+  - message: fixed ntr wig not showing up in the loadout preview and being equipped as outer clothing at round start.
+    type: Fix
+  id: 405011
+  time: '2026-05-15T12:04:00.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4436
 Order: -1
