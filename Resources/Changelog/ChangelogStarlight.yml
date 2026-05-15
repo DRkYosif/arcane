@@ -1,13 +1,6 @@
 Entries:
 - author: Cujo
   changes:
-  - message: (Lagan) 2 t-ray devices have been added to the utility belts in artifact to aid any confusing pipe situations.
-    type: Tweak
-  id: 404613
-  time: '2026-04-26T07:03:47.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4235
-- author: Cujo
-  changes:
   - message: (Lagan) Brigmed beds swapped around.
     type: Tweak
   id: 404614
@@ -2799,4 +2792,11 @@ Entries:
   id: 405012
   time: '2026-05-15T12:04:03.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4431
+- author: Scarlet Lightweaver, Teapotterror, Conflee.
+  changes:
+  - message: Added the NTSF headsman axe, revs wheep.
+    type: Add
+  id: 405013
+  time: '2026-05-15T12:04:07.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4424
 Order: -1
