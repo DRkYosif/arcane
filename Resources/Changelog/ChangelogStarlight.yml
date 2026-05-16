@@ -1,13 +1,6 @@
 Entries:
 - author: Cujo
   changes:
-  - message: (Lagan) HoS has separate hardsuit and normal lockers now.
-    type: Fix
-  id: 404631
-  time: '2026-04-26T07:03:47.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4235
-- author: Cujo
-  changes:
   - message: (Lagan) Any distro/waste pipes underlying a booze/soda dispenser have been fixed.
     type: Fix
   id: 404632
@@ -2799,4 +2792,11 @@ Entries:
   id: 405030
   time: '2026-05-16T15:25:09.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4451
+- author: Caws
+  changes:
+  - message: Revolutionaries will now win as intended if all living members of Command abandon the station (e.g. hiding in space, on a shuttle, on the ATS, etc.).
+    type: Fix
+  id: 405031
+  time: '2026-05-16T15:44:32.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4456
 Order: -1
