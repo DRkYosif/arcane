@@ -1,13 +1,6 @@
 Entries:
 - author: Cvlancer.
   changes:
-  - message: (ORWELL) Changed the theatre room to use the new platforms.
-    type: Tweak
-  id: 404690
-  time: '2026-04-28T09:18:07.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4269
-- author: Cvlancer.
-  changes:
   - message: (ORWELL) Changed ai core to draw power from station and not be self sufficient.
     type: Tweak
   id: 404691
@@ -2799,4 +2792,11 @@ Entries:
   id: 405089
   time: '2026-05-17T17:01:39.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4391
+- author: Swonki
+  changes:
+  - message: Low Velocity Immovable Rod.
+    type: Add
+  id: 405090
+  time: '2026-05-17T17:32:09.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4464
 Order: -1
