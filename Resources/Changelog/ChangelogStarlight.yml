@@ -1,27 +1,6 @@
 Entries:
 - author: Cvlancer.
   changes:
-  - message: (ORWELL) Changed ai core to draw power from station and not be self sufficient.
-    type: Tweak
-  id: 404691
-  time: '2026-04-28T09:18:07.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4269
-- author: Cvlancer.
-  changes:
-  - message: (ORWELL) Changed outside ai core by removing cameras and adding layer another of reinforced walls. (2->3).
-    type: Tweak
-  id: 404692
-  time: '2026-04-28T09:18:07.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4269
-- author: Cvlancer.
-  changes:
-  - message: (ORWELL) Fixed freezer in kitchen not being set to the correct tempature also made it activate at shift start.
-    type: Fix
-  id: 404693
-  time: '2026-04-28T09:18:07.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4269
-- author: Cvlancer.
-  changes:
   - message: (ORWELL) Fixed a firelock that started closed at shift start.
     type: Fix
   id: 404694
@@ -2799,4 +2778,25 @@ Entries:
   id: 405090
   time: '2026-05-17T17:32:09.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4464
+- author: StrangerOfParadiseOG
+  changes:
+  - message: Added recipes for diluted ammonia blood to be centrifuged and stirred.
+    type: Add
+  id: 405091
+  time: '2026-05-17T18:12:19.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4386
+- author: StrangerOfParadiseOG
+  changes:
+  - message: Fixed avali and resomi body parts giving the wrong types of blood when grinded.
+    type: Fix
+  id: 405092
+  time: '2026-05-17T18:12:19.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4386
+- author: StrangerOfParadiseOG
+  changes:
+  - message: Fixed avali being poisoned from ammonia gas.
+    type: Fix
+  id: 405093
+  time: '2026-05-17T18:12:19.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4386
 Order: -1
