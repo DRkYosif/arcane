@@ -1,18 +1,4 @@
 Entries:
-- author: Caws
-  changes:
-  - message: The detective armored trenchcoat and noir armored trenchcoat now correctly provide armor again.
-    type: Fix
-  id: 404756
-  time: '2026-05-01T10:16:03.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4314
-- author: wonderfulnewworld, alexalexmax
-  changes:
-  - message: Added a nuke that doesn't end the round to the spawn menu.
-    type: Add
-  id: 404757
-  time: '2026-05-01T10:16:04.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4308
 - author: wonderfulnewworld, alexalexmax
   changes:
   - message: The (normal) nuke going off now starts the end of round sequence, regardless of gamemode.
@@ -2799,4 +2785,18 @@ Entries:
   id: 405155
   time: '2026-05-21T13:07:45.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4492
+- author: StrangerOfParadiseOG
+  changes:
+  - message: Added a new mutation to the apple tree, the devilish apple tree!
+    type: Add
+  id: 405156
+  time: '2026-05-21T16:02:35.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4497
+- author: StrangerOfParadiseOG
+  changes:
+  - message: Added a new toxin and a new cellular medicine related to the new devilish apple fruit.
+    type: Add
+  id: 405157
+  time: '2026-05-21T16:02:35.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4497
 Order: -1
