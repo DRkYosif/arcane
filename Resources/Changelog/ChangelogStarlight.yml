@@ -1,32 +1,4 @@
 Entries:
-- author: Scarlet Lightweaver.
-  changes:
-  - message: Changed ParticleDecelerator to deal 10 rad damage.
-    type: Tweak
-  id: 404849
-  time: '2026-05-09T09:11:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4396
-- author: EWanderer
-  changes:
-  - message: You can now compost biomass for ammonia.
-    type: Add
-  id: 404850
-  time: '2026-05-09T10:23:03.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4347
-- author: EWanderer
-  changes:
-  - message: Ammonia can now be electrolysed into nitrogen and hydrogen.
-    type: Add
-  id: 404851
-  time: '2026-05-09T10:23:03.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4347
-- author: EWanderer
-  changes:
-  - message: You now need to heat nitrogen and hydrogen to get ammonia.
-    type: Tweak
-  id: 404852
-  time: '2026-05-09T10:23:03.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4347
 - author: bynddark8
   changes:
   - message: Adds new sprites for the Captain's command tablet.
@@ -2799,4 +2771,32 @@ Entries:
   id: 405248
   time: '2026-05-22T12:31:48.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4494
+- author: wonderfulnewworld
+  changes:
+  - message: Added a diamond pickaxe. It's faster than the normal pickaxe, does more structural damage, and has a slightly higher range.
+    type: Add
+  id: 405249
+  time: '2026-05-22T13:35:57.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4499
+- author: wonderfulnewworld
+  changes:
+  - message: You can now buy diamond pickaxes from the mining vendor.
+    type: Add
+  id: 405250
+  time: '2026-05-22T13:35:57.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4499
+- author: wonderfulnewworld
+  changes:
+  - message: You can no longer buy Clarkes from mining vendor.
+    type: Remove
+  id: 405251
+  time: '2026-05-22T13:35:57.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4499
+- author: wonderfulnewworld
+  changes:
+  - message: The Dark Gygax and Mauler missiles cost roughly 50% more energy now.
+    type: Tweak
+  id: 405252
+  time: '2026-05-22T13:35:57.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4499
 Order: -1
