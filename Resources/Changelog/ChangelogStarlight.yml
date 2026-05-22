@@ -1,13 +1,6 @@
 Entries:
 - author: Caws
   changes:
-  - message: (Serpentcrest) Lawyer Office.
-    type: Add
-  id: 404802
-  time: '2026-05-05T07:11:06.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4350
-- author: Caws
-  changes:
   - message: (Serpentcrest) IAA and Magistrate signs.
     type: Add
   id: 404803
@@ -2799,4 +2792,11 @@ Entries:
   id: 405201
   time: '2026-05-22T09:45:27.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4504
+- author: R3v3l4t1on
+  changes:
+  - message: A fire in NanoTrasen's data stores has led to the exotic mech reactors once more becoming unknown technology for only salvage to find.
+    type: Remove
+  id: 405202
+  time: '2026-05-22T10:29:29.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4442
 Order: -1
