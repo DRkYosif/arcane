@@ -1,104 +1,6 @@
 Entries:
 - author: Cvlancer
   changes:
-  - message: (Ming) Added air canisters and other stored items into xeniobio as if it was being used as storage. This can be easily reverted once xeniobio is finished.
-    type: Add
-  id: 404963
-  time: '2026-05-13T08:14:53.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4421
-- author: Cvlancer
-  changes:
-  - message: (Ming) Added solitary to gen pop.
-    type: Add
-  id: 404964
-  time: '2026-05-13T08:14:53.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4421
-- author: Cvlancer
-  changes:
-  - message: (Ming) Added playing cards to several game tables.
-    type: Add
-  id: 404965
-  time: '2026-05-13T08:14:53.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4421
-- author: Cvlancer
-  changes:
-  - message: (Ming) Added fireaxe to bridge and atsmo.
-    type: Add
-  id: 404966
-  time: '2026-05-13T08:14:53.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4421
-- author: Cvlancer
-  changes:
-  - message: (Ming) Added some more med kits to medical and moved the radiation and toxic med kit out of chemist room.
-    type: Add
-  id: 404967
-  time: '2026-05-13T08:14:53.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4421
-- author: Cvlancer
-  changes:
-  - message: (Ming) Added a donut to maints turnstiles trap.
-    type: Add
-  id: 404968
-  time: '2026-05-13T08:14:53.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4421
-- author: Cvlancer
-  changes:
-  - message: (Ming) Added a monkey and a plushie to virology.
-    type: Add
-  id: 404969
-  time: '2026-05-13T08:14:53.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4421
-- author: Cvlancer
-  changes:
-  - message: (Ming) Added button frames to.... some buttons.
-    type: Add
-  id: 404970
-  time: '2026-05-13T08:14:53.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4421
-- author: Cvlancer
-  changes:
-  - message: (Ming) Added a cargo breakroom and 6 cargo tech lockers to cargo.
-    type: Add
-  id: 404971
-  time: '2026-05-13T08:14:53.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4421
-- author: Cvlancer
-  changes:
-  - message: (Ming) Added golden appraisal tool to qms office.
-    type: Add
-  id: 404972
-  time: '2026-05-13T08:14:53.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4421
-- author: Cvlancer
-  changes:
-  - message: (Ming) Changed named zookeeper cameras.
-    type: Tweak
-  id: 404973
-  time: '2026-05-13T08:14:53.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4421
-- author: Cvlancer
-  changes:
-  - message: (Ming) Changed mail room to mail access also added two mail tech closet to mail room.
-    type: Tweak
-  id: 404974
-  time: '2026-05-13T08:14:53.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4421
-- author: Cvlancer
-  changes:
-  - message: (Ming) Changed wiring on Ipc repair bay doors to toggle hold.
-    type: Tweak
-  id: 404975
-  time: '2026-05-13T08:14:53.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4421
-- author: Cvlancer
-  changes:
-  - message: (Ming) Fixed "Cleanade box" by changing it into a clean nade cartridge due to it causing errors.
-    type: Fix
-  id: 404976
-  time: '2026-05-13T08:14:53.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4421
-- author: Cvlancer
-  changes:
   - message: (Ming) Fixed distro piping in chemist being broken due to chemaster having piping now.
     type: Fix
   id: 404977
@@ -2799,4 +2701,102 @@ Entries:
   id: 405362
   time: '2026-05-24T13:42:03.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4542
+- author: Caws
+  changes:
+  - message: (Silica) Lawyers.
+    type: Add
+  id: 405363
+  time: '2026-05-24T13:42:05.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4529
+- author: Caws
+  changes:
+  - message: (Silica) New Lawyer office.
+    type: Add
+  id: 405364
+  time: '2026-05-24T13:42:05.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4529
+- author: Caws
+  changes:
+  - message: (Silica) New office for IAA.
+    type: Add
+  id: 405365
+  time: '2026-05-24T13:42:05.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4529
+- author: Caws
+  changes:
+  - message: (Silica) New Magistrate room.
+    type: Add
+  id: 405366
+  time: '2026-05-24T13:42:05.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4529
+- author: Caws
+  changes:
+  - message: (Silica) New Evac waiting area.
+    type: Add
+  id: 405367
+  time: '2026-05-24T13:42:05.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4529
+- author: Caws
+  changes:
+  - message: (Silica) NTR sign added to NTR room.
+    type: Add
+  id: 405368
+  time: '2026-05-24T13:42:05.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4529
+- author: Caws
+  changes:
+  - message: (Silica) New maintenance areas by Evac.
+    type: Add
+  id: 405369
+  time: '2026-05-24T13:42:05.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4529
+- author: Caws
+  changes:
+  - message: (Silica) New exterior airlock, south of Evac.
+    type: Add
+  id: 405370
+  time: '2026-05-24T13:42:05.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4529
+- author: Caws
+  changes:
+  - message: (Silica) Added an IPC repair area outside Robotics.
+    type: Add
+  id: 405371
+  time: '2026-05-24T13:42:05.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4529
+- author: Caws
+  changes:
+  - message: (Silica) GenPop's windows are now electrified by LV.
+    type: Fix
+  id: 405372
+  time: '2026-05-24T13:42:05.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4529
+- author: Caws
+  changes:
+  - message: (Silica) Firelocks outside of Robotics are now linked.
+    type: Fix
+  id: 405373
+  time: '2026-05-24T13:42:05.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4529
+- author: Caws
+  changes:
+  - message: (Silica) Missing floor tiles under Medical's front desk.
+    type: Fix
+  id: 405374
+  time: '2026-05-24T13:42:05.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4529
+- author: Caws
+  changes:
+  - message: (Silica) Removed vestigial disposal pipes in Security Maintenance.
+    type: Fix
+  id: 405375
+  time: '2026-05-24T13:42:05.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4529
+- author: Caws
+  changes:
+  - message: (Silica) Tiles with grass no longer cook animals during weather events.
+    type: Fix
+  id: 405376
+  time: '2026-05-24T13:42:05.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4529
 Order: -1
