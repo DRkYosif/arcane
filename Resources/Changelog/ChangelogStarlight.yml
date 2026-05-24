@@ -1,41 +1,6 @@
 Entries:
 - author: wonderfulnewworld
   changes:
-  - message: You can now disable the Changeling Augmented Eyesight ability. (And you need to disable it to use the other Eyesight abilities.) It also costs 1 less evo point.
-    type: Tweak
-  id: 404883
-  time: '2026-05-10T10:36:28.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4313
-- author: wonderfulnewworld
-  changes:
-  - message: Changelings now have a consistent "Tier" Progression, similar to Vampires. (Almost) All of their Evolution upgrades that had organic requirements before now require 2, 4, or 6 organics respectively.
-    type: Tweak
-  id: 404884
-  time: '2026-05-10T10:36:28.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4313
-- author: wonderfulnewworld
-  changes:
-  - message: Dissonant Shriek and Chitinous Armor now require 2 organics.
-    type: Tweak
-  id: 404885
-  time: '2026-05-10T10:36:28.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4313
-- author: wonderfulnewworld
-  changes:
-  - message: The evolution menu can now be used while unconscious.
-    type: Tweak
-  id: 404886
-  time: '2026-05-10T10:36:28.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4313
-- author: wonderfulnewworld
-  changes:
-  - message: Resonant Shriek no longer requires organics, and costs 25 chemicals instead of 30. It's useless against a lot of people, and still flashes you/can't be used when you have night/thermal vision, so it's really not that special. It's the Tier 1 to Dissonant Shriek's Tier 2.
-    type: Tweak
-  id: 404887
-  time: '2026-05-10T10:36:28.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4313
-- author: wonderfulnewworld
-  changes:
   - message: Bone Shards now deal less damage, but deal a lot more stamina damage, making them ideal for fleeing.
     type: Tweak
   id: 404888
@@ -2799,4 +2764,39 @@ Entries:
   id: 405282
   time: '2026-05-24T08:00:04.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4519
+- author: wonderfulnewworld
+  changes:
+  - message: Most coats, softsuits, and scarves now give some degree of Cold resist, to make it not true damage, and to give them a niche for that.
+    type: Tweak
+  id: 405283
+  time: '2026-05-24T08:44:48.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4523
+- author: wonderfulnewworld
+  changes:
+  - message: The Magistrate's Longcoat now has equal stats to NT Representative's Jacket.
+    type: Tweak
+  id: 405284
+  time: '2026-05-24T08:44:48.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4523
+- author: wonderfulnewworld
+  changes:
+  - message: The NT Representative's Jacket and Magistrate's Longcoat are now NanoTrasen contraband.
+    type: Tweak
+  id: 405285
+  time: '2026-05-24T08:44:48.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4523
+- author: wonderfulnewworld
+  changes:
+  - message: Suit of Life and Skirt of Life now show their zombification resist.
+    type: Fix
+  id: 405286
+  time: '2026-05-24T08:44:48.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4523
+- author: wonderfulnewworld
+  changes:
+  - message: Winter Coat hoods now give Cold resist.
+    type: Fix
+  id: 405287
+  time: '2026-05-24T08:44:48.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4523
 Order: -1
