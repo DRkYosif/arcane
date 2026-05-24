@@ -1,32 +1,4 @@
 Entries:
-- author: Caws
-  changes:
-  - message: (Elkridge) Fixed the entire mail system.
-    type: Fix
-  id: 404957
-  time: '2026-05-13T07:53:08.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4429
-- author: Bigfoot Bravo
-  changes:
-  - message: Amoxla's OD now correctly works. Don't OD the birds with Amoxla!
-    type: Fix
-  id: 404958
-  time: '2026-05-13T08:14:51.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4416
-- author: Cvlancer
-  changes:
-  - message: (Ming) Added reporter and reporter room (Located near psychologist).
-    type: Add
-  id: 404959
-  time: '2026-05-13T08:14:53.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4421
-- author: Cvlancer
-  changes:
-  - message: (Ming) Added A LOT of televisions all over the station.
-    type: Add
-  id: 404960
-  time: '2026-05-13T08:14:53.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4421
 - author: Cvlancer
   changes:
   - message: (Ming) Added inflatable wall box to science artifact room.
@@ -2799,4 +2771,32 @@ Entries:
   id: 405356
   time: '2026-05-24T13:18:31.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4531
+- author: wonderfulnewworld, deathride58, pcaessayrs
+  changes:
+  - message: Grappling hooks are now physics based.
+    type: Tweak
+  id: 405357
+  time: '2026-05-24T13:18:32.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4536
+- author: wonderfulnewworld, deathride58, pcaessayrs
+  changes:
+  - message: The chain sickle has been renamed to kusarigama, and now functions as it was originally supposed to, capable of dragging people over swiftly.
+    type: Tweak
+  id: 405358
+  time: '2026-05-24T13:18:32.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4536
+- author: wonderfulnewworld, deathride58, pcaessayrs
+  changes:
+  - message: You can no longer clip through things with grappling hooks/sticky hands.
+    type: Fix
+  id: 405359
+  time: '2026-05-24T13:18:32.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4536
+- author: wonderfulnewworld, deathride58, pcaessayrs
+  changes:
+  - message: Grappling hooks now longer make you immortal when being used before entering a portal.
+    type: Fix
+  id: 405360
+  time: '2026-05-24T13:18:32.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4536
 Order: -1
