@@ -1,13 +1,6 @@
 Entries:
 - author: Conflee
   changes:
-  - message: Added Small Stairs (Steel and Wood), for use where previously stage stairs would have been used. 1 wide, step up.
-    type: Add
-  id: 404871
-  time: '2026-05-10T10:03:36.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4364
-- author: Conflee
-  changes:
   - message: Added Gramophone and Vinyl Player, reskins of the Jukebox that sit on top of tables, opening up more decorating options.
     type: Add
   id: 404872
@@ -2799,4 +2792,11 @@ Entries:
   id: 405270
   time: '2026-05-24T07:59:54.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4530
+- author: wonderfulnewworld, korczoczek
+  changes:
+  - message: Xenoborgs can no longer have more than 1 weapon/hypo module at a time.
+    type: Tweak
+  id: 405271
+  time: '2026-05-24T07:59:55.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4532
 Order: -1
