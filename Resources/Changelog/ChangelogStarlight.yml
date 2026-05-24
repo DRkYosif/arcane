@@ -1,27 +1,6 @@
 Entries:
 - author: Cvlancer & Ohelig
   changes:
-  - message: (Kiloton) Added a bluespace harvester to engineering.
-    type: Add
-  id: 404984
-  time: '2026-05-15T06:58:06.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4440
-- author: Cvlancer & Ohelig
-  changes:
-  - message: (Kiloton) Added a laser tag arena to maints below the new nuclear reactor.(@Ohelig).
-    type: Add
-  id: 404985
-  time: '2026-05-15T06:58:06.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4440
-- author: Cvlancer & Ohelig
-  changes:
-  - message: (Kiloton) Added a lot of maints east of atsmo to link nuclear reactor with the rest of station.
-    type: Add
-  id: 404986
-  time: '2026-05-15T06:58:06.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4440
-- author: Cvlancer & Ohelig
-  changes:
   - message: (Kiloton) Added lawyer and lawyers office.
     type: Add
   id: 404987
@@ -2799,4 +2778,25 @@ Entries:
   id: 405383
   time: '2026-05-24T14:47:37.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4541
+- author: Squagg
+  changes:
+  - message: Added the Vulpkanin Down Husky tail marking, including wagging sprites.
+    type: Add
+  id: 405384
+  time: '2026-05-24T14:47:39.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4534
+- author: Squagg
+  changes:
+  - message: Down Husky tail coloring now uses two color options, matching other husky-style tails.
+    type: Tweak
+  id: 405385
+  time: '2026-05-24T14:47:39.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4534
+- author: Squagg
+  changes:
+  - message: Down Husky tail sprites now layer correctly behind the body where obscured.
+    type: Fix
+  id: 405386
+  time: '2026-05-24T14:47:39.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4534
 Order: -1
