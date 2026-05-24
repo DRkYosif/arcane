@@ -1,25 +1,4 @@
 Entries:
-- author: Conflee
-  changes:
-  - message: Rebuilt the Automated Trade Station from the ground up. It is now larger, more industrial looking, has 3 docks instead of 2, and the entire back area is reworked into a Salvage Base with bunks, docks of their own, equipment to process ores and scrap, and a tiny basic kitchen-bar and triage room for medical emergencies. Station Anchor and Gravity Generator are still reinforced and guarded by a turret.
-    type: Tweak
-  id: 404877
-  time: '2026-05-10T10:03:37.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4387
-- author: Unknown
-  changes:
-  - message: changed Lagomorphs to look more bunny-like.
-    type: Tweak
-  id: 404878
-  time: '2026-05-10T10:36:26.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4353
-- author: wonderfulnewworld
-  changes:
-  - message: 'Adds 7 new abilities to Changelings: Night Vision, Thermal Vision, Desoxyephedrine Overdose, Amalgam Overdose, Bloodburn Sting, Draining Sting, and True Arm Blade.'
-    type: Add
-  id: 404879
-  time: '2026-05-10T10:36:28.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4313
 - author: wonderfulnewworld
   changes:
   - message: Changelings can now appear in Zombies and Zombieteors! (Similar to Vampires, they have that client-side visual bug when they get converted, still showing their own abilities, but they are not functional.).
@@ -2799,4 +2778,25 @@ Entries:
   id: 405276
   time: '2026-05-24T07:59:58.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4525
+- author: Cvlancer
+  changes:
+  - message: (PLASMA) Added a nuclear reactor north of teg.
+    type: Add
+  id: 405277
+  time: '2026-05-24T08:00:00.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4526
+- author: Cvlancer
+  changes:
+  - message: (PLASMA) Added a poster inside robotics.
+    type: Add
+  id: 405278
+  time: '2026-05-24T08:00:00.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4526
+- author: Cvlancer
+  changes:
+  - message: (PLASMA) Removed the solars north of teg.
+    type: Remove
+  id: 405279
+  time: '2026-05-24T08:00:00.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4526
 Order: -1
