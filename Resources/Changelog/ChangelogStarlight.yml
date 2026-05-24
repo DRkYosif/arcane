@@ -1,39 +1,4 @@
 Entries:
-- author: Cvlancer
-  changes:
-  - message: (Ming) Fixed distro piping in chemist being broken due to chemaster having piping now.
-    type: Fix
-  id: 404977
-  time: '2026-05-13T08:14:53.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4421
-- author: Cvlancer
-  changes:
-  - message: (Ming) Added the keycard authentication device back from accidently using the wrong version when starting my changes.(Woops).
-    type: Fix
-  id: 404978
-  time: '2026-05-13T08:14:53.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4421
-- author: Kirb
-  changes:
-  - message: Cat-like crew members (shadekin and felionoid) are no longer acid proof.
-    type: Fix
-  id: 404979
-  time: '2026-05-13T17:29:25.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4434
-- author: Conflee
-  changes:
-  - message: Fixed credits in 3 .mta files.
-    type: Fix
-  id: 404980
-  time: '2026-05-14T05:13:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4438
-- author: CrazyPhantom
-  changes:
-  - message: Updates Robust Toolbox, potentially fixing the lag issue.
-    type: Fix
-  id: 404981
-  time: '2026-05-14T13:46:43.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4441
 - author: Way
   changes:
   - message: (Bagel) Fixed various entities, revamped decals & tiles in some spots, slightly more trash in genpop. NTR/BSO Combined room. Evac shuttle now has defibs.
@@ -2799,4 +2764,39 @@ Entries:
   id: 405376
   time: '2026-05-24T13:42:05.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4529
+- author: wonderfulnewworld
+  changes:
+  - message: Added a midround event, ParadoxCrisis. It's ParadoxClone scaling as it was before this pr. Has half the spawn weight of Paradox clone.
+    type: Add
+  id: 405377
+  time: '2026-05-24T14:24:33.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4518
+- author: wonderfulnewworld
+  changes:
+  - message: Ninja can now call Terror Spiders (chance between lone op and backup ninja) and SubXenoborgs (chance half of that of Ninja spawning a Wizard, which is about 2%, so this is 1%).
+    type: Add
+  id: 405378
+  time: '2026-05-24T14:24:33.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4518
+- author: wonderfulnewworld
+  changes:
+  - message: LoneOps, Paradox Clones, and Dragons no longer scale.
+    type: Remove
+  id: 405379
+  time: '2026-05-24T14:24:33.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4518
+- author: wonderfulnewworld
+  changes:
+  - message: ParadoxClone spawn weight -1.
+    type: Tweak
+  id: 405380
+  time: '2026-05-24T14:24:33.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4518
+- author: wonderfulnewworld
+  changes:
+  - message: The already existing Xenoborgs midround now uses SubXenoborgs instead.
+    type: Tweak
+  id: 405381
+  time: '2026-05-24T14:24:33.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4518
 Order: -1
