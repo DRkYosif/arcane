@@ -1,13 +1,6 @@
 Entries:
 - author: Caws
   changes:
-  - message: (Elkridge) Added a new door for Cargo's front desk.
-    type: Tweak
-  id: 404954
-  time: '2026-05-13T07:53:08.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4429
-- author: Caws
-  changes:
   - message: (Elkridge) Moved NCT office to where the Engineering SEC checkpoint was.
     type: Tweak
   id: 404955
@@ -2799,4 +2792,11 @@ Entries:
   id: 405353
   time: '2026-05-24T09:52:36.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4503
+- author: Arkanic
+  changes:
+  - message: Disallow Terminator damnation for now, until I either rework or remove it - too many terminator spam rounds when devil is playtested.
+    type: Remove
+  id: 405354
+  time: '2026-05-24T10:22:02.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4528
 Order: -1
