@@ -1,32 +1,4 @@
 Entries:
-- author: Unknown
-  changes:
-  - message: fixed ntr wig not showing up in the loadout preview and being equipped as outer clothing at round start.
-    type: Fix
-  id: 405011
-  time: '2026-05-15T12:04:00.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4436
-- author: Caws
-  changes:
-  - message: The Central Administrative Division has rolled out a new program to ensure all stations are spelling "NanoTrasen" correctly. Please report any further misspelling (e.g. "Nanotrasen") to your local CAD officer at your earliest convenience.
-    type: Fix
-  id: 405012
-  time: '2026-05-15T12:04:03.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4431
-- author: Scarlet Lightweaver, Teapotterror, Conflee.
-  changes:
-  - message: Added the NTSF headsman axe, revs wheep.
-    type: Add
-  id: 405013
-  time: '2026-05-15T12:04:07.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4424
-- author: Swonki
-  changes:
-  - message: Borgi Sprite.
-    type: Add
-  id: 405014
-  time: '2026-05-15T12:37:10.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4433
 - author: kirb
   changes:
   - message: restores some previously removed animal themed trinkets.
@@ -2799,4 +2771,32 @@ Entries:
   id: 405410
   time: '2026-05-25T14:04:50.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4544
+- author: DevCS-CP
+  changes:
+  - message: Added Disabler textures to energy shotgun.
+    type: Add
+  id: 405411
+  time: '2026-05-25T14:36:27.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4543
+- author: DevCS-CP
+  changes:
+  - message: Added generic inhand, wield, and clothing textures.
+    type: Add
+  id: 405412
+  time: '2026-05-25T14:36:27.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4543
+- author: DevCS-CP
+  changes:
+  - message: Added Disabler and Lethal textures to inhand and wield (Not implemented in prototype).
+    type: Add
+  id: 405413
+  time: '2026-05-25T14:36:27.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4543
+- author: DevCS-CP
+  changes:
+  - message: Added Empty Texture to energy shotgun.
+    type: Add
+  id: 405414
+  time: '2026-05-25T14:36:27.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4543
 Order: -1
