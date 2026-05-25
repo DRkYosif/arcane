@@ -1,27 +1,6 @@
 Entries:
 - author: Caws
   changes:
-  - message: (Fland, Kiloton, Lagan, Manor, Ming, Orwell, Sepultum, Space Mall, Starboard) Salvage teams has been standardized to 1 lead + 4 salvage specialists.
-    type: Tweak
-  id: 405002
-  time: '2026-05-15T06:58:11.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4437
-- author: Caws
-  changes:
-  - message: (Fland, Kiloton, Lagan, Manor, Ming, Orwell, Sepultum, Space Mall, Starboard) Mining teams has been standardized to 4 mining specialists.
-    type: Tweak
-  id: 405003
-  time: '2026-05-15T06:58:11.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4437
-- author: Caws
-  changes:
-  - message: (Other Maps) Salvage teams have been standardized to 1 lead + 3 salvage specialists.
-    type: Tweak
-  id: 405004
-  time: '2026-05-15T06:58:11.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4437
-- author: Caws
-  changes:
   - message: (Other Maps) Salvage teams have been standardized to 3 mining specialists.
     type: Tweak
   id: 405005
@@ -2799,4 +2778,25 @@ Entries:
   id: 405401
   time: '2026-05-25T14:04:42.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4547
+- author: wonderfulnewworld
+  changes:
+  - message: Added a NanoTrasen Career Trainer locker.
+    type: Add
+  id: 405402
+  time: '2026-05-25T14:04:44.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4540
+- author: wonderfulnewworld
+  changes:
+  - message: The NanoTrasen Representative and Blueshield Officer's lockers now match the Magistrate/Internal Affairs Agents' lockers.
+    type: Tweak
+  id: 405403
+  time: '2026-05-25T14:04:44.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4540
+- author: wonderfulnewworld
+  changes:
+  - message: Tweaks some shading on the Magistrate's locker. (4 pixels).
+    type: Tweak
+  id: 405404
+  time: '2026-05-25T14:04:44.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4540
 Order: -1
