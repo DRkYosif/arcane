@@ -1,13 +1,6 @@
 Entries:
 - author: Unknown
   changes:
-  - message: Added 49 new clothing items between cloaks, jumpsuits and coats.
-    type: Add
-  id: 405010
-  time: '2026-05-15T12:04:00.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4436
-- author: Unknown
-  changes:
   - message: fixed ntr wig not showing up in the loadout preview and being equipped as outer clothing at round start.
     type: Fix
   id: 405011
@@ -2799,4 +2792,11 @@ Entries:
   id: 405409
   time: '2026-05-25T14:04:47.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4537
+- author: NcDuve
+  changes:
+  - message: Turnstiles now take Structural Damage.
+    type: Tweak
+  id: 405410
+  time: '2026-05-25T14:04:50.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4544
 Order: -1
