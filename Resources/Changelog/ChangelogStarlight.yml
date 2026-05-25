@@ -1,18 +1,4 @@
 Entries:
-- author: Citrea
-  changes:
-  - message: Humans may now have cosmetic gene splicing done to add bunny ears to themselves as a marking.
-    type: Add
-  id: 405000
-  time: '2026-05-15T06:58:08.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4432
-- author: Citrea
-  changes:
-  - message: Cat Ears for humans are no longer a special marking, you will find them in the HeadTop category instead.
-    type: Tweak
-  id: 405001
-  time: '2026-05-15T06:58:08.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4432
 - author: Caws
   changes:
   - message: (Fland, Kiloton, Lagan, Manor, Ming, Orwell, Sepultum, Space Mall, Starboard) Salvage teams has been standardized to 1 lead + 4 salvage specialists.
@@ -2799,4 +2785,18 @@ Entries:
   id: 405399
   time: '2026-05-24T16:06:56.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4516
+- author: Conflee
+  changes:
+  - message: Edited the shading of the Tallborgs to be lower contrast, have a most consistent outline, and reduce redundant hues in shading. Overall their new look matches more closely with other Cyborg chassis options.
+    type: Tweak
+  id: 405400
+  time: '2026-05-25T14:04:42.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4547
+- author: Conflee
+  changes:
+  - message: Fixed Tallborg's legs clipping severely through walls below them. Pressed as close to the wall as possible, now only their feet clip, about 4 pixels vs the prior 12ish pixels.
+    type: Fix
+  id: 405401
+  time: '2026-05-25T14:04:42.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4547
 Order: -1
