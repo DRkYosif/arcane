@@ -1,88 +1,4 @@
 Entries:
-- author: CrazyPhantom
-  changes:
-  - message: Fixed an issue where bullets would not hit the Mothership Core.
-    type: Fix
-  id: 405037
-  time: '2026-05-17T15:07:35.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4471
-- author: Cvlancer
-  changes:
-  - message: (SPACEMALL) Added gas turbine monitor and reactor monitor to nuclear office room.
-    type: Add
-  id: 405038
-  time: '2026-05-17T15:33:13.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4447
-- author: Cvlancer
-  changes:
-  - message: (SPACEMALL) Added fax machine and docupritner for nuclear office room.
-    type: Add
-  id: 405039
-  time: '2026-05-17T15:33:13.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4447
-- author: Cvlancer
-  changes:
-  - message: (SPACEMALL) Added decaling to nuclear office room.
-    type: Add
-  id: 405040
-  time: '2026-05-17T15:33:13.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4447
-- author: Cvlancer
-  changes:
-  - message: (SPACEMALL) Added a pair of insulated gloves to nuclear reactor.
-    type: Add
-  id: 405041
-  time: '2026-05-17T15:33:13.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4447
-- author: Cvlancer
-  changes:
-  - message: (SPACEMALL) Added shipyard console to captains room. This device requires captains access and spends cargos money to purchase shuttles.
-    type: Add
-  id: 405042
-  time: '2026-05-17T15:33:13.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4447
-- author: Cvlancer
-  changes:
-  - message: (SPACEMALL) Added one more security jetpack to armory. 4 to 5.
-    type: Add
-  id: 405043
-  time: '2026-05-17T15:33:13.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4447
-- author: Cvlancer
-  changes:
-  - message: (SPACEMALL) Added coffee dispenser and mugs to sec,science, sepia room.
-    type: Add
-  id: 405044
-  time: '2026-05-17T15:33:13.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4447
-- author: Cvlancer
-  changes:
-  - message: (SPACEMALL) Added a lot of televisions all over the station.
-    type: Add
-  id: 405045
-  time: '2026-05-17T15:33:13.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4447
-- author: Cvlancer
-  changes:
-  - message: (SPACEMALL) Added a Nct dispatch machine to nuclear reactor chamber although they most likely down know it yet.
-    type: Add
-  id: 405046
-  time: '2026-05-17T15:33:13.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4447
-- author: Cvlancer
-  changes:
-  - message: (SPACEMALL) Added a dim light and a light switch to interrogation room.
-    type: Add
-  id: 405047
-  time: '2026-05-17T15:33:13.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4447
-- author: Cvlancer
-  changes:
-  - message: (SPACEMALL) Added lawyer and IAA beacons to their rooms respectively.
-    type: Add
-  id: 405048
-  time: '2026-05-17T15:33:13.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4447
 - author: Cvlancer
   changes:
   - message: (SPACEMALL) Removed one of the Cerekite fuel rods from nuclear reactor going from 3 to 2 total.
@@ -2799,4 +2715,88 @@ Entries:
   id: 405436
   time: '2026-05-26T22:01:54.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4548
+- author: Rinary
+  changes:
+  - message: Fixed bug when cocoons glow in dark.
+    type: Fix
+  id: 405437
+  time: '2026-05-26T22:19:09.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4552
+- author: Rinary
+  changes:
+  - message: Changed terror spiders health, more in PR.
+    type: Tweak
+  id: 405438
+  time: '2026-05-26T22:19:09.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4552
+- author: Rinary
+  changes:
+  - message: Changed terror spiders blood restore stats, more in PR.
+    type: Tweak
+  id: 405439
+  time: '2026-05-26T22:19:09.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4552
+- author: Rinary
+  changes:
+  - message: Spiders now can replace their webs, if it has different type, this doesn't change evolution progress.
+    type: Tweak
+  id: 405440
+  time: '2026-05-26T22:19:09.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4552
+- author: Rinary
+  changes:
+  - message: Spiderlings now will keep idle near webs instead of going away.
+    type: Tweak
+  id: 405441
+  time: '2026-05-26T22:19:09.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4552
+- author: Rinary
+  changes:
+  - message: Spiderlings "move from" NPC logic was increased, now they are smarter.
+    type: Tweak
+  id: 405442
+  time: '2026-05-26T22:19:09.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4552
+- author: Rinary
+  changes:
+  - message: Terror spiders appear in game as preset instead of station event(Like Nukeops/Revolution).
+    type: Tweak
+  id: 405443
+  time: '2026-05-26T22:19:09.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4552
+- author: Rinary
+  changes:
+  - message: Changed prying configuration for terror spiders, more in PR.
+    type: Tweak
+  id: 405444
+  time: '2026-05-26T22:19:09.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4552
+- author: Rinary
+  changes:
+  - message: Added thick web for Purple terror spider(also for Prince because of evolution).
+    type: Add
+  id: 405445
+  time: '2026-05-26T22:19:09.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4552
+- author: Rinary
+  changes:
+  - message: Added airtight web for Terror Princess to close space.
+    type: Add
+  id: 405446
+  time: '2026-05-26T22:19:09.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4552
+- author: Rinary
+  changes:
+  - message: Added ammonia generator for terror princess.
+    type: Add
+  id: 405447
+  time: '2026-05-26T22:19:09.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4552
+- author: Rinary
+  changes:
+  - message: Fixed bug when terror spiders can collide with spiderlings web(They shouldn't).
+    type: Fix
+  id: 405448
+  time: '2026-05-26T22:19:09.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4552
 Order: -1
