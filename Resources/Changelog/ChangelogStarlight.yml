@@ -1,53 +1,4 @@
 Entries:
-- author: Rhetorica
-  changes:
-  - message: '#RobotGang graffito, for those special times when borgs and IPCs adopt bots as friends.'
-    type: Add
-  id: 405023
-  time: '2026-05-15T18:25:44.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4455
-- author: Rhetorica
-  changes:
-  - message: MERGE NEOMOTH'S PR graffito.
-    type: Add
-  id: 405024
-  time: '2026-05-15T18:25:44.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4455
-- author: Rhetorica
-  changes:
-  - message: 11 aielith dark magic runes as graffiti.
-    type: Add
-  id: 405025
-  time: '2026-05-15T18:25:44.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4455
-- author: Conflee
-  changes:
-  - message: Added text to the Corporate Law page granted Salvage jurisdiction to defend the ATS, within the bounds of their SOP.
-    type: Add
-  id: 405026
-  time: '2026-05-16T08:03:59.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4454
-- author: Conflee
-  changes:
-  - message: Added text to Salvage SOP detailing their responsibilities with defending and maintaining the ATS, permitting them to engage direct active threats to the ATS and making them responsible for repairing it and preventing it from being misused or moved without very good reason.
-    type: Add
-  id: 405027
-  time: '2026-05-16T08:03:59.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4454
-- author: Conflee
-  changes:
-  - message: Changed the ATS back room to be slightly more reinforced, with a QM locked Blast Door, plastitanium windows, and riveted interior walls. **Being able to move the ATS is intentional, but doing so without very good reason may be considered self-antag or powergaming**.
-    type: Tweak
-  id: 405028
-  time: '2026-05-16T08:03:59.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4454
-- author: CrazyPhantom
-  changes:
-  - message: Fixed Rolebans.
-    type: Fix
-  id: 405029
-  time: '2026-05-16T14:12:44.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4460
 - author: DocMoth
   changes:
   - message: Added Bunny Gang Outfit to fashion vend.
@@ -2799,4 +2750,53 @@ Entries:
   id: 405422
   time: '2026-05-26T15:23:34.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4560
+- author: Shades
+  changes:
+  - message: Added Xenomind, Carpmind as a Hivemind.
+    type: Add
+  id: 405423
+  time: '2026-05-26T20:33:06.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4511
+- author: Shades
+  changes:
+  - message: Terror Spider can use Xenomind and fix where they somehow could speak/understand DarkTongue.
+    type: Tweak
+  id: 405424
+  time: '2026-05-26T20:33:06.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4511
+- author: Shades
+  changes:
+  - message: Some Languages Prefix has been changed.
+    type: Tweak
+  id: 405425
+  time: '2026-05-26T20:33:06.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4511
+- author: Shades
+  changes:
+  - message: Collective Mind has been fully changed, you might see small changes but its works exactly the same as before.
+    type: Tweak
+  id: 405426
+  time: '2026-05-26T20:33:06.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4511
+- author: Shades
+  changes:
+  - message: Language prefix changed from ^ to +.
+    type: Tweak
+  id: 405427
+  time: '2026-05-26T20:33:06.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4511
+- author: Shades
+  changes:
+  - message: Nexus can now be jammed by radio jammers.
+    type: Add
+  id: 405428
+  time: '2026-05-26T20:33:06.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4511
+- author: Shades
+  changes:
+  - message: Diona, Cluwn and Spider Hivemind are removed.
+    type: Remove
+  id: 405429
+  time: '2026-05-26T20:33:06.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4511
 Order: -1
