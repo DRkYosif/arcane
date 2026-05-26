@@ -1,25 +1,4 @@
 Entries:
-- author: Caws
-  changes:
-  - message: Revolutionaries will now win as intended if all living members of Command abandon the station (e.g. hiding in space, on a shuttle, on the ATS, etc.).
-    type: Fix
-  id: 405031
-  time: '2026-05-16T15:44:32.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4456
-- author: CrazyPhantom
-  changes:
-  - message: VGroid will now spawn with ore again.
-    type: Fix
-  id: 405032
-  time: '2026-05-16T21:12:28.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4449
-- author: CrazyPhantom
-  changes:
-  - message: Grids should no longer be embedded inside VGroid.
-    type: Fix
-  id: 405033
-  time: '2026-05-16T21:12:28.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4449
 - author: Way
   changes:
   - message: '"Magistrates longcoat" is now an actual jacket instead of an entire jumpsuit, additionally it now has the benefits of a winter coat.'
@@ -2799,4 +2778,25 @@ Entries:
   id: 405430
   time: '2026-05-26T21:16:48.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4563
+- author: FeralCreature
+  changes:
+  - message: 6 more achievements.
+    type: Add
+  id: 405431
+  time: '2026-05-26T21:16:51.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4505
+- author: FeralCreature
+  changes:
+  - message: Two existing achievements are now hidden achievements.
+    type: Tweak
+  id: 405432
+  time: '2026-05-26T21:16:51.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4505
+- author: FeralCreature
+  changes:
+  - message: Liver Failure achievement now only requires a more reasonable amount of ethanol metabolized.
+    type: Tweak
+  id: 405433
+  time: '2026-05-26T21:16:51.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4505
 Order: -1
