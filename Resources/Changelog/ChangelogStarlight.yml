@@ -1,13 +1,6 @@
 Entries:
 - author: wonderfulnewworld
   changes:
-  - message: Derelict Xenoborgs (and a new Derelict Xenoborgi) can now rarely spawn in the derelict cyborg spawn event.
-    type: Add
-  id: 405069
-  time: '2026-05-17T17:01:39.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4391
-- author: wonderfulnewworld
-  changes:
   - message: Removed the Changeling gamemode from rotation, due to being generally uninteresting, and diluting the pool.
     type: Remove
   id: 405070
@@ -2799,4 +2792,11 @@ Entries:
   id: 405468
   time: '2026-05-29T09:25:44.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4571
+- author: Ohelig
+  changes:
+  - message: Added some more spam mail.
+    type: Add
+  id: 405469
+  time: '2026-05-29T20:23:10.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4572
 Order: -1
