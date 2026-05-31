@@ -1,13 +1,6 @@
 Entries:
 - author: wonderfulnewworld
   changes:
-  - message: Derelict Borgs now scale at a rate of 1:80, with a max of 2.
-    type: Tweak
-  id: 405077
-  time: '2026-05-17T17:01:39.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4391
-- author: wonderfulnewworld
-  changes:
   - message: Dragons now scale at a rate of 1:95, with a max of 3.
     type: Tweak
   id: 405078
@@ -2799,4 +2792,11 @@ Entries:
   id: 405476
   time: '2026-05-30T09:41:05.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4597
+- author: STARLIGHT TEAM
+  changes:
+  - message: Multiple improvements to the in game hub.
+    type: Tweak
+  id: 405477
+  time: '2026-05-31T17:12:06.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4606
 Order: -1
