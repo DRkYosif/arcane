@@ -1,13 +1,6 @@
 Entries:
 - author: wonderfulnewworld
   changes:
-  - message: Dragons now scale at a rate of 1:95, with a max of 3.
-    type: Tweak
-  id: 405078
-  time: '2026-05-17T17:01:39.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4391
-- author: wonderfulnewworld
-  changes:
   - message: Paradox Clones now scale at a rate of 1:70, with a max of 4. They're really not that impactful, and they make good RP, so I feel this is fine.
     type: Tweak
   id: 405079
@@ -2799,4 +2792,11 @@ Entries:
   id: 405477
   time: '2026-05-31T17:12:06.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4606
+- author: STARLIGHT TEAM
+  changes:
+  - message: With cryo, items are preserved. When latejoining after cryo, all items except the ID card and PDA are now issued.
+    type: Tweak
+  id: 405478
+  time: '2026-05-31T17:12:08.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4602
 Order: -1
