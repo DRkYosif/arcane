@@ -1,34 +1,6 @@
 Entries:
 - author: wonderfulnewworld
   changes:
-  - message: Paradox Clones now scale at a rate of 1:70, with a max of 4. They're really not that impactful, and they make good RP, so I feel this is fine.
-    type: Tweak
-  id: 405079
-  time: '2026-05-17T17:01:39.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4391
-- author: wonderfulnewworld
-  changes:
-  - message: Lone Ops now scale at a rate of 1:75, with a max of 3.
-    type: Tweak
-  id: 405080
-  time: '2026-05-17T17:01:39.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4391
-- author: wonderfulnewworld
-  changes:
-  - message: Brighteyes now scale at a rate of 1:70, with a max of 3.
-    type: Tweak
-  id: 405081
-  time: '2026-05-17T17:01:39.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4391
-- author: wonderfulnewworld
-  changes:
-  - message: ShitStation now has another scheduler attached to it, ShitGameRulesTable. These rules are all harmless, but fit the theme of "this station sucks ass", alongside a slightly more frequent IonStorm (IonStormPlus), to match the original intent of ShitStation having IonStorm on round start.
-    type: Tweak
-  id: 405082
-  time: '2026-05-17T17:01:39.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4391
-- author: wonderfulnewworld
-  changes:
   - message: SELF can now show up in most gamemodes, instead of being left out of like, 70% of them. They will not show up in Revs/Cosmic Cult.
     type: Tweak
   id: 405083
@@ -2799,4 +2771,32 @@ Entries:
   id: 405478
   time: '2026-05-31T17:12:08.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4602
+- author: AllisonKaur and Rhetorica
+  changes:
+  - message: Irish Bool now grants 90% stamina damage reduction in addition to its previous stun-reducing and knockdown-reducing effects. You will need at least 3 batongs to take down an Irish Bool Dwarf, who will be able to just walk away after a second or two anyway.
+    type: Tweak
+  id: 405479
+  time: '2026-05-31T17:35:28.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4595
+- author: AllisonKaur and Rhetorica
+  changes:
+  - message: Irish Bool now shows an alert icon at the side of the screen while its effects are active.
+    type: Add
+  id: 405480
+  time: '2026-05-31T17:35:28.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4595
+- author: AllisonKaur and Rhetorica
+  changes:
+  - message: Dwarf drink sound effects are louder.
+    type: Tweak
+  id: 405481
+  time: '2026-05-31T17:35:28.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4595
+- author: AllisonKaur and Rhetorica
+  changes:
+  - message: Added more descriptive names for drink status effects so they read better in the guidebook.
+    type: Tweak
+  id: 405482
+  time: '2026-05-31T17:35:28.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4595
 Order: -1
