@@ -1,34 +1,6 @@
 Entries:
 - author: STARLIGHT TEAM
   changes:
-  - message: Added wrap action for spiders, now they can wrap humanoids(this prevents rot process).
-    type: Add
-  id: 405104
-  time: '2026-05-18T18:59:31.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4025
-- author: STARLIGHT TEAM
-  changes:
-  - message: Changed lay eggs ability, now it works only on wrapped humanoids.
-    type: Tweak
-  id: 405105
-  time: '2026-05-18T18:59:31.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4025
-- author: STARLIGHT TEAM
-  changes:
-  - message: Changed regular attack animations(punch, bite...) to be more smooth and fancy.
-    type: Tweak
-  id: 405106
-  time: '2026-05-18T18:59:31.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4025
-- author: STARLIGHT TEAM
-  changes:
-  - message: Changed lunge animation(swing animation on attack) to be more smooth and fancy.
-    type: Tweak
-  id: 405107
-  time: '2026-05-18T18:59:31.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4025
-- author: STARLIGHT TEAM
-  changes:
   - message: Changed slash attack animation to be more smooth.(Idk how to make it more fancy, effect bad itself).
     type: Tweak
   id: 405108
@@ -2799,4 +2771,32 @@ Entries:
   id: 405503
   time: '2026-06-01T11:39:21.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4579
+- author: wonderfulnewworld
+  changes:
+  - message: Pun Pun now spawns with a PDA.
+    type: Add
+  id: 405504
+  time: '2026-06-01T12:22:14.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4617
+- author: wonderfulnewworld
+  changes:
+  - message: Rarely, advanced Monkeys and Kobolds will spawn in place of Monkeys and Kobolds. They have 2 hands, a pocket, a belt slot, a glove slot, and cannot vent crawl. Pun Pun, however, is always advanced. Syndicate monkeys and kobolds will never be advanced.
+    type: Add
+  id: 405505
+  time: '2026-06-01T12:22:14.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4617
+- author: wonderfulnewworld
+  changes:
+  - message: Added Advanced Monkey, Kobold, and Advanced Kobold spawners.
+    type: Add
+  id: 405506
+  time: '2026-06-01T12:22:14.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4617
+- author: wonderfulnewworld
+  changes:
+  - message: Removed Pun Pun ability to vent crawl.
+    type: Remove
+  id: 405507
+  time: '2026-06-01T12:22:14.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4617
 Order: -1
