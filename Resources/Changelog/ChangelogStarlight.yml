@@ -1,11 +1,4 @@
 Entries:
-- author: CringeCursed
-  changes:
-  - message: Added 6 new Bluespace Harvester reward pools.
-    type: Add
-  id: 405101
-  time: '2026-05-18T16:20:44.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4475
 - author: STARLIGHT TEAM
   changes:
   - message: WE WANT TO ANNOUNCE TERROR ON OUR SECTOR!(Terror spiders).
@@ -2799,4 +2792,11 @@ Entries:
   id: 405500
   time: '2026-06-01T11:39:16.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4581
+- author: DevCS-CP
+  changes:
+  - message: Updated dragon devour to apply caustic damage if entity devoured is not dead.
+    type: Tweak
+  id: 405501
+  time: '2026-06-01T11:39:18.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4565
 Order: -1
