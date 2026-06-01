@@ -1,11 +1,4 @@
 Entries:
-- author: Swonki
-  changes:
-  - message: Low Velocity Immovable Rod.
-    type: Add
-  id: 405090
-  time: '2026-05-17T17:32:09.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4464
 - author: StrangerOfParadiseOG
   changes:
   - message: Added recipes for diluted ammonia blood to be centrifuged and stirred.
@@ -2799,4 +2792,11 @@ Entries:
   id: 405489
   time: '2026-06-01T03:43:19.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4614
+- author: Arkanic
+  changes:
+  - message: Fix low fps when changing character size in the profile editor.
+    type: Fix
+  id: 405490
+  time: '2026-06-01T08:21:14.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4615
 Order: -1
