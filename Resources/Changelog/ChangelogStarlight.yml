@@ -1,13 +1,6 @@
 Entries:
 - author: Caws
   changes:
-  - message: (Leth) Brand new Library.
-    type: Add
-  id: 405169
-  time: '2026-05-22T09:11:03.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4506
-- author: Caws
-  changes:
   - message: (Leth) Lawyers.
     type: Add
   id: 405170
@@ -2799,4 +2792,11 @@ Entries:
   id: 405568
   time: '2026-06-02T13:23:00.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4621
+- author: wonderfulnewworld
+  changes:
+  - message: Proto-Reptilians now have their intended 15% heat resist instead of 50%.
+    type: Fix
+  id: 405569
+  time: '2026-06-02T20:15:05.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4637
 Order: -1
