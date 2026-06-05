@@ -1,74 +1,4 @@
 Entries:
-- author: Rinary
-  changes:
-  - message: Fixed bug when cocoon drawn under webs, so you can't inject eggs.
-    type: Fix
-  id: 405234
-  time: '2026-05-22T12:31:46.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4488
-- author: wonderfulnewworld, ScarKy0, Samuka-C, august-sun
-  changes:
-  - message: (NanoTrasen, MedTak, and NT Derelict) Cyborgs can now pry unpowered doors without the need for a crowbar.
-    type: Add
-  id: 405235
-  time: '2026-05-22T12:31:48.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4494
-- author: wonderfulnewworld, ScarKy0, Samuka-C, august-sun
-  changes:
-  - message: Entities that can pry things innately (zombies, spiders, etc) now have an alert telling them so.
-    type: Add
-  id: 405236
-  time: '2026-05-22T12:31:48.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4494
-- author: wonderfulnewworld, ScarKy0, Samuka-C, august-sun
-  changes:
-  - message: The Mothership can now create a Jump Module for the Scout Xenoborg, allowing it to be more evasive.
-    type: Add
-  id: 405237
-  time: '2026-05-22T12:31:48.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4494
-- author: wonderfulnewworld, ScarKy0, Samuka-C, august-sun
-  changes:
-  - message: The Mothership can now create a Tile Gun Module for the Engineering Xenoborg, allowing it to shoot tiles at its enemies. They're not that strong, but they make for good suppressive fire.
-    type: Add
-  id: 405238
-  time: '2026-05-22T12:31:48.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4494
-- author: wonderfulnewworld, ScarKy0, Samuka-C, august-sun
-  changes:
-  - message: The Mothership can now make a Tier 3 Module for the Heavy Xenoborg, giving it access to a Bitterfrost Cannon.
-    type: Add
-  id: 405239
-  time: '2026-05-22T12:31:48.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4494
-- author: wonderfulnewworld, ScarKy0, Samuka-C, august-sun
-  changes:
-  - message: The Mothership can now make a Tier 3 Module for the Scout Xenoborg, giving it access to a real Energy Sword and a very weak, but unbreakable, Energy Shield, acting as an armor upgrade.
-    type: Add
-  id: 405240
-  time: '2026-05-22T12:31:48.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4494
-- author: wonderfulnewworld, ScarKy0, Samuka-C, august-sun
-  changes:
-  - message: The Mothership can now make an advanced Hypo Module for the Stealth Xenoborg, giving it some more Nocturine, in addition to Tazinide and Mute Toxin Hypos. (It costs the same as the Tier 3 Modules due to how useful this is.).
-    type: Add
-  id: 405241
-  time: '2026-05-22T12:31:48.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4494
-- author: wonderfulnewworld, ScarKy0, Samuka-C, august-sun
-  changes:
-  - message: You can now use hypos as a really bad weapon, dealing only 5 damage. It does transfer liquid inside of them, however...
-    type: Add
-  id: 405242
-  time: '2026-05-22T12:31:48.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4494
-- author: wonderfulnewworld, ScarKy0, Samuka-C, august-sun
-  changes:
-  - message: The Hypo Module now also comes with a Licoxide Hypo.
-    type: Tweak
-  id: 405243
-  time: '2026-05-22T12:31:48.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4494
 - author: wonderfulnewworld, ScarKy0, Samuka-C, august-sun
   changes:
   - message: The Scout and Engineer Xenoborgs now have an extra module slot.
@@ -2799,4 +2729,74 @@ Entries:
   id: 405633
   time: '2026-06-05T03:48:16.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4662
+- author: wonderfulnewworld
+  changes:
+  - message: Added functionality for allowing clothing slots to depend on multiple clothing slots alternatively.
+    type: Add
+  id: 405634
+  time: '2026-06-05T03:48:18.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4649
+- author: wonderfulnewworld
+  changes:
+  - message: The Nyx-Class Protogen frame can now equip an item to your suit storage slot.
+    type: Add
+  id: 405635
+  time: '2026-06-05T03:48:18.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4649
+- author: wonderfulnewworld
+  changes:
+  - message: Added functionality for barotrauma protection to accept alternative clothing slots.
+    type: Add
+  id: 405636
+  time: '2026-06-05T03:48:18.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4649
+- author: wonderfulnewworld
+  changes:
+  - message: Hitscan weapons can now deal extra damage to people wearing armor with negative resistances.
+    type: Add
+  id: 405637
+  time: '2026-06-05T03:48:18.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4649
+- author: wonderfulnewworld
+  changes:
+  - message: Added a section to Proto-Moth's guidebook entry mentioning their severe fire weakness more directly.
+    type: Add
+  id: 405638
+  time: '2026-06-05T03:48:18.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4649
+- author: wonderfulnewworld
+  changes:
+  - message: Renamed Urist McUrister to Urist McHands the Proto-Dwarf.
+    type: Tweak
+  id: 405639
+  time: '2026-06-05T03:48:18.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4649
+- author: wonderfulnewworld
+  changes:
+  - message: The Hermes-Class Protogen frame now correctly increases damage taken by hitscan weapons.
+    type: Fix
+  id: 405640
+  time: '2026-06-05T03:48:18.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4649
+- author: wonderfulnewworld
+  changes:
+  - message: The Nyx-Class Protogen frame now actually counts as barotrauma protection.
+    type: Fix
+  id: 405641
+  time: '2026-06-05T03:48:18.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4649
+- author: wonderfulnewworld
+  changes:
+  - message: Proto-Cyclorites now correctly process poisons like normal Cyclorites.
+    type: Fix
+  id: 405642
+  time: '2026-06-05T03:48:18.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4649
+- author: wonderfulnewworld
+  changes:
+  - message: Proto-Laspi can now eat computer boards.
+    type: Fix
+  id: 405643
+  time: '2026-06-05T03:48:18.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4649
 Order: -1
