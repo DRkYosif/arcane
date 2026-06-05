@@ -1,20 +1,6 @@
 Entries:
 - author: Rinary
   changes:
-  - message: Fixed win message missing for terror spiders.
-    type: Fix
-  id: 405232
-  time: '2026-05-22T12:31:46.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4488
-- author: Rinary
-  changes:
-  - message: Fixed bug when terror spiders ban ignores player count/current gamepreset.
-    type: Fix
-  id: 405233
-  time: '2026-05-22T12:31:46.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4488
-- author: Rinary
-  changes:
   - message: Fixed bug when cocoon drawn under webs, so you can't inject eggs.
     type: Fix
   id: 405234
@@ -2799,4 +2785,18 @@ Entries:
   id: 405631
   time: '2026-06-05T00:29:57.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4598
+- author: wonderfulnewworld
+  changes:
+  - message: Proto-Moths' LED faces now correctly render.
+    type: Fix
+  id: 405632
+  time: '2026-06-05T03:48:16.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4662
+- author: wonderfulnewworld
+  changes:
+  - message: ProtoKins' bodies are now arranged in the same order as a normal Shadekin's.
+    type: Fix
+  id: 405633
+  time: '2026-06-05T03:48:16.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4662
 Order: -1
