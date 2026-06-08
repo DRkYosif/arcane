@@ -1,67 +1,4 @@
 Entries:
-- author: Cvlancer
-  changes:
-  - message: (PLASMA) Added a nuclear reactor north of teg.
-    type: Add
-  id: 405277
-  time: '2026-05-24T08:00:00.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4526
-- author: Cvlancer
-  changes:
-  - message: (PLASMA) Added a poster inside robotics.
-    type: Add
-  id: 405278
-  time: '2026-05-24T08:00:00.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4526
-- author: Cvlancer
-  changes:
-  - message: (PLASMA) Removed the solars north of teg.
-    type: Remove
-  id: 405279
-  time: '2026-05-24T08:00:00.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4526
-- author: wonderfulnewworld
-  changes:
-  - message: The NanoTrasen Encryption key is now unremovable. It's more advanced, after all.
-    type: Tweak
-  id: 405280
-  time: '2026-05-24T08:00:04.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4519
-- author: wonderfulnewworld
-  changes:
-  - message: BSO now has a NanoTrasen Encryption key in their headset.
-    type: Fix
-  id: 405281
-  time: '2026-05-24T08:00:04.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4519
-- author: wonderfulnewworld
-  changes:
-  - message: T3 Scout Xenoborgs are no longer immortal when spawned from the entities menu. (The normal ones can't achieve immortality, but this should prevent admins from accidentally spawning immortality versions (the ones without brains).).
-    type: Fix
-  id: 405282
-  time: '2026-05-24T08:00:04.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4519
-- author: wonderfulnewworld
-  changes:
-  - message: Most coats, softsuits, and scarves now give some degree of Cold resist, to make it not true damage, and to give them a niche for that.
-    type: Tweak
-  id: 405283
-  time: '2026-05-24T08:44:48.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4523
-- author: wonderfulnewworld
-  changes:
-  - message: The Magistrate's Longcoat now has equal stats to NT Representative's Jacket.
-    type: Tweak
-  id: 405284
-  time: '2026-05-24T08:44:48.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4523
-- author: wonderfulnewworld
-  changes:
-  - message: The NT Representative's Jacket and Magistrate's Longcoat are now NanoTrasen contraband.
-    type: Tweak
-  id: 405285
-  time: '2026-05-24T08:44:48.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4523
 - author: wonderfulnewworld
   changes:
   - message: Suit of Life and Skirt of Life now show their zombification resist.
@@ -2799,4 +2736,67 @@ Entries:
   id: 405676
   time: '2026-06-08T17:56:54.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4683
+- author: Caws
+  changes:
+  - message: (Cluster) Added an Electrolyzer to Atmos.
+    type: Add
+  id: 405677
+  time: '2026-06-08T17:56:56.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4682
+- author: Caws
+  changes:
+  - message: (Cluster) Added a Medical Records computer to Medical.
+    type: Add
+  id: 405678
+  time: '2026-06-08T17:56:56.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4682
+- author: Caws
+  changes:
+  - message: (Cluster) Added a condiment dispenser to Kitchen.
+    type: Add
+  id: 405679
+  time: '2026-06-08T17:56:56.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4682
+- author: Caws
+  changes:
+  - message: (Cluster) Added a biogenerator to Botany.
+    type: Add
+  id: 405680
+  time: '2026-06-08T17:56:56.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4682
+- author: Caws
+  changes:
+  - message: (Cluster) Added a reagent grinder to Botany.
+    type: Add
+  id: 405681
+  time: '2026-06-08T17:56:56.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4682
+- author: Caws
+  changes:
+  - message: (Cluster) Magistrate locker is no longer empty.
+    type: Fix
+  id: 405682
+  time: '2026-06-08T17:56:56.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4682
+- author: Caws
+  changes:
+  - message: (Cluster) Floating emergency light in Atmos.
+    type: Fix
+  id: 405683
+  time: '2026-06-08T17:56:56.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4682
+- author: Caws
+  changes:
+  - message: (Cluster) Unpowered firelock in Bar.
+    type: Fix
+  id: 405684
+  time: '2026-06-08T17:56:56.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4682
+- author: Caws
+  changes:
+  - message: (Cluster) Unpowered doors at Evac.
+    type: Fix
+  id: 405685
+  time: '2026-06-08T17:56:56.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4682
 Order: -1
