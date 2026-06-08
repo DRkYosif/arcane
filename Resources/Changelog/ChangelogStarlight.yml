@@ -1,88 +1,4 @@
 Entries:
-- author: wonderfulnewworld, SevenShades
-  changes:
-  - message: Added mittens. They provide some minor cold resist. They can be found in the winter drobe, secdrobe, or as a loadout option for Sec.
-    type: Add
-  id: 405265
-  time: '2026-05-24T07:59:54.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4530
-- author: wonderfulnewworld, SevenShades
-  changes:
-  - message: Removed an unused gloves file.
-    type: Remove
-  id: 405266
-  time: '2026-05-24T07:59:54.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4530
-- author: wonderfulnewworld, SevenShades
-  changes:
-  - message: Removes unused insulated cat paws.
-    type: Remove
-  id: 405267
-  time: '2026-05-24T07:59:54.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4530
-- author: wonderfulnewworld, SevenShades
-  changes:
-  - message: Moved security's gloves to security_officer.yml.
-    type: Tweak
-  id: 405268
-  time: '2026-05-24T07:59:54.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4530
-- author: wonderfulnewworld, SevenShades
-  changes:
-  - message: Cat mittens now inherit the properties of mittens.
-    type: Tweak
-  id: 405269
-  time: '2026-05-24T07:59:54.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4530
-- author: wonderfulnewworld, SevenShades
-  changes:
-  - message: The cat mittens now have different names based on color.
-    type: Tweak
-  id: 405270
-  time: '2026-05-24T07:59:54.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4530
-- author: wonderfulnewworld, korczoczek
-  changes:
-  - message: Xenoborgs can no longer have more than 1 weapon/hypo module at a time.
-    type: Tweak
-  id: 405271
-  time: '2026-05-24T07:59:55.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4532
-- author: wonderfulnewworld
-  changes:
-  - message: T3 Xenoborg Modules and the Advanced Hypo module now cost a little more plastic, and also cost Plasma.
-    type: Tweak
-  id: 405272
-  time: '2026-05-24T07:59:58.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4525
-- author: wonderfulnewworld
-  changes:
-  - message: Bitterfrost Cannon now consumes 50% more charge per shot.
-    type: Tweak
-  id: 405273
-  time: '2026-05-24T07:59:58.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4525
-- author: wonderfulnewworld
-  changes:
-  - message: Extended Nocturine Hypo now only stores up to 18u.
-    type: Tweak
-  id: 405274
-  time: '2026-05-24T07:59:58.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4525
-- author: wonderfulnewworld
-  changes:
-  - message: Licoxide Hypo now only stores up to 8u.
-    type: Tweak
-  id: 405275
-  time: '2026-05-24T07:59:58.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4525
-- author: wonderfulnewworld
-  changes:
-  - message: Advanced Hypo module now has a 12u Licoxide hypo instead of Tazinide and Mute Toxin.
-    type: Tweak
-  id: 405276
-  time: '2026-05-24T07:59:58.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4525
 - author: Cvlancer
   changes:
   - message: (PLASMA) Added a nuclear reactor north of teg.
@@ -2799,4 +2715,88 @@ Entries:
   id: 405664
   time: '2026-06-08T17:56:51.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4684
+- author: Way
+  changes:
+  - message: (Hotel) Added missing document printer to library.
+    type: Add
+  id: 405665
+  time: '2026-06-08T17:56:54.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4683
+- author: Way
+  changes:
+  - message: (Hotel) Moved the service request computer outside of the kitchen for easier access.
+    type: Fix
+  id: 405666
+  time: '2026-06-08T17:56:54.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4683
+- author: Way
+  changes:
+  - message: (Hotel) Linked surgery operating computers to the operating tables.
+    type: Fix
+  id: 405667
+  time: '2026-06-08T17:56:54.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4683
+- author: Way
+  changes:
+  - message: (Hotel) Added a cryo-bed to Genpop.
+    type: Add
+  id: 405668
+  time: '2026-06-08T17:56:54.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4683
+- author: Way
+  changes:
+  - message: (Hotel) Gave CMO a hardsuit storage locker, in replacement of the combined locker.
+    type: Add
+  id: 405669
+  time: '2026-06-08T17:56:54.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4683
+- author: Way
+  changes:
+  - message: (Hotel) Added cryo signs to the cryo storage area.
+    type: Fix
+  id: 405670
+  time: '2026-06-08T17:56:54.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4683
+- author: Way
+  changes:
+  - message: (Hotel) Added missing Pride-O-Mat vending machines.
+    type: Add
+  id: 405671
+  time: '2026-06-08T17:56:54.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4683
+- author: Way
+  changes:
+  - message: (Hotel) Updated decal work in some areas.
+    type: Tweak
+  id: 405672
+  time: '2026-06-08T17:56:54.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4683
+- author: Way
+  changes:
+  - message: (Hotel) Updated tile choices in some areas.
+    type: Tweak
+  id: 405673
+  time: '2026-06-08T17:56:54.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4683
+- author: Way
+  changes:
+  - message: (Hotel) Captain's office has been redesigned. Removed the substation in favor having Caps room tied to Bridge Power.
+    type: Tweak
+  id: 405674
+  time: '2026-06-08T17:56:54.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4683
+- author: Way
+  changes:
+  - message: (Hotel) More required entities added that were previously missing.
+    type: Fix
+  id: 405675
+  time: '2026-06-08T17:56:54.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4683
+- author: Way
+  changes:
+  - message: (Hotel) Replaced handcuffs at bridge with ziptie cuffs.
+    type: Fix
+  id: 405676
+  time: '2026-06-08T17:56:54.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4683
 Order: -1
