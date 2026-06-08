@@ -1,34 +1,6 @@
 Entries:
 - author: Cvlancer.
   changes:
-  - message: (FLAND) Added televisions all over the station.
-    type: Add
-  id: 405330
-  time: '2026-05-24T09:52:36.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4503
-- author: Cvlancer.
-  changes:
-  - message: (FLAND) Added atm to maints bar and a game table near science.
-    type: Add
-  id: 405331
-  time: '2026-05-24T09:52:36.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4503
-- author: Cvlancer.
-  changes:
-  - message: (FLAND) Tweaked linked the operating computer in robotics.
-    type: Tweak
-  id: 405332
-  time: '2026-05-24T09:52:36.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4503
-- author: Cvlancer.
-  changes:
-  - message: (FLAND) Removed some ai cameras in maints.
-    type: Remove
-  id: 405333
-  time: '2026-05-24T09:52:36.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4503
-- author: Cvlancer.
-  changes:
   - message: (FLAND) Fixed roboticist windoor access.
     type: Fix
   id: 405334
@@ -2799,4 +2771,32 @@ Entries:
   id: 405729
   time: '2026-06-08T22:30:26.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4605
+- author: Swonki, Romero
+  changes:
+  - message: Kammerer to be the new low spread shotgun.
+    type: Tweak
+  id: 405730
+  time: '2026-06-08T22:30:28.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4627
+- author: Swonki, Romero
+  changes:
+  - message: Sentiel to be low capacity and semi-automatic.
+    type: Tweak
+  id: 405731
+  time: '2026-06-08T22:30:28.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4627
+- author: Swonki, Romero
+  changes:
+  - message: Riot Shotgun to be magazine fed.
+    type: Tweak
+  id: 405732
+  time: '2026-06-08T22:30:28.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4627
+- author: Swonki, Romero
+  changes:
+  - message: New Riot Shotgun Sprite.
+    type: Add
+  id: 405733
+  time: '2026-06-08T22:30:28.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4627
 Order: -1
