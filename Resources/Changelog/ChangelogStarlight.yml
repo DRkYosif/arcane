@@ -1,20 +1,6 @@
 Entries:
 - author: Cvlancer.
   changes:
-  - message: (CLUSTER) Added ipc repair bay.
-    type: Add
-  id: 405314
-  time: '2026-05-24T09:52:36.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4503
-- author: Cvlancer.
-  changes:
-  - message: (CLUSTER) Added lawyer.
-    type: Add
-  id: 405315
-  time: '2026-05-24T09:52:36.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4503
-- author: Cvlancer.
-  changes:
   - message: (CLUSTER) Added electric grill to kitchen.
     type: Add
   id: 405316
@@ -2799,4 +2785,18 @@ Entries:
   id: 405713
   time: '2026-06-08T19:46:38.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4672
+- author: wonderfulnewworld
+  changes:
+  - message: Protogens are no longer drunk forever.
+    type: Tweak
+  id: 405714
+  time: '2026-06-08T19:46:41.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4673
+- author: wonderfulnewworld
+  changes:
+  - message: The species-specific protogen organs now have different names.
+    type: Tweak
+  id: 405715
+  time: '2026-06-08T19:46:41.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4673
 Order: -1
