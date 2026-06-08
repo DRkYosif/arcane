@@ -1,60 +1,4 @@
 Entries:
-- author: wonderfulnewworld
-  changes:
-  - message: Suit of Life and Skirt of Life now show their zombification resist.
-    type: Fix
-  id: 405286
-  time: '2026-05-24T08:44:48.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4523
-- author: wonderfulnewworld
-  changes:
-  - message: Winter Coat hoods now give Cold resist.
-    type: Fix
-  id: 405287
-  time: '2026-05-24T08:44:48.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4523
-- author: Conflee
-  changes:
-  - message: Added the Robotic Medkit, a medkit stocked with 2 Oil Pack stacks (20 total), 1 HV Cable Coil stack (30 total), 1 Welding Mask, and 1 Welder. Used to repair IPCs.
-    type: Add
-  id: 405288
-  time: '2026-05-24T09:52:32.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4507
-- author: Conflee
-  changes:
-  - message: Updated many shuttles such as ERT, CBURN, NTSF, Decimus, as well as the Nukie Outposts to include 1-2 Robotic Medkits and a source of Welding Fuel (usually a wall mounted fuel dispenser). Can be found either in medical or engineering areas, depending on the shuttle. ERT who roll IPC are no longer totally boned.
-    type: Tweak
-  id: 405289
-  time: '2026-05-24T09:52:32.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4507
-- author: teapoterror
-  changes:
-  - message: Added The Garden, a new Dark Map that can spawn.
-    type: Add
-  id: 405290
-  time: '2026-05-24T09:52:33.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4473
-- author: Cvlancer.
-  changes:
-  - message: (OASIS) Added Lawyer and legaldrobe to courtroom.
-    type: Add
-  id: 405291
-  time: '2026-05-24T09:52:36.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4503
-- author: Cvlancer.
-  changes:
-  - message: (OASIS) Added some more televisions around the station.
-    type: Add
-  id: 405292
-  time: '2026-05-24T09:52:36.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4503
-- author: Cvlancer.
-  changes:
-  - message: (OASIS) Added two mail tech closets.
-    type: Add
-  id: 405293
-  time: '2026-05-24T09:52:36.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4503
 - author: Cvlancer.
   changes:
   - message: (OASIS) Added some more syndicate items to the maints shop.
@@ -2799,4 +2743,60 @@ Entries:
   id: 405685
   time: '2026-06-08T17:56:56.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4682
+- author: Caws
+  changes:
+  - message: (Kiloton) Reagent grinder to Botany.
+    type: Add
+  id: 405686
+  time: '2026-06-08T17:57:00.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4681
+- author: Caws
+  changes:
+  - message: (Kiloton) Added two condensers to Atmos.
+    type: Add
+  id: 405687
+  time: '2026-06-08T17:57:00.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4681
+- author: Caws
+  changes:
+  - message: (Kiloton) Added a Happy Honk vendor between the Clown room and the Boxing Ring.
+    type: Add
+  id: 405688
+  time: '2026-06-08T17:57:00.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4681
+- author: Caws
+  changes:
+  - message: (Kiloton) Added a separate suit storage added to Warden's office rather than having their hardsuit come with their locker.
+    type: Tweak
+  id: 405689
+  time: '2026-06-08T17:57:00.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4681
+- author: Caws
+  changes:
+  - message: (Kiloton) NTR's room now uses NT access.
+    type: Fix
+  id: 405690
+  time: '2026-06-08T17:57:00.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4681
+- author: Caws
+  changes:
+  - message: (Kiloton) BSO's room now uses NT access.
+    type: Fix
+  id: 405691
+  time: '2026-06-08T17:57:00.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4681
+- author: Caws
+  changes:
+  - message: (Kiloton) Door to GenPop processing from Security Lobby is now Brig access (meaning it's now IAA accessible).
+    type: Fix
+  id: 405692
+  time: '2026-06-08T17:57:00.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4681
+- author: Caws
+  changes:
+  - message: (Kiloton) Due to a bluespace accident (four dead, twenty hospitalized), the 'waste Gateway' has been removed from Atmospherics. A water vapor gas miner has been issued to replaced it.
+    type: Remove
+  id: 405693
+  time: '2026-06-08T17:57:00.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4681
 Order: -1
