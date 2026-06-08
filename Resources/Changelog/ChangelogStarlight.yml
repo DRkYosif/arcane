@@ -1,48 +1,6 @@
 Entries:
 - author: Cvlancer.
   changes:
-  - message: (OASIS) Added some more syndicate items to the maints shop.
-    type: Add
-  id: 405294
-  time: '2026-05-24T09:52:36.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4503
-- author: Cvlancer.
-  changes:
-  - message: (OASIS) Added a wall map to gen pop island bar.
-    type: Add
-  id: 405295
-  time: '2026-05-24T09:52:36.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4503
-- author: Cvlancer.
-  changes:
-  - message: (OASIS) Changed courtroom door access to support lawyer.
-    type: Tweak
-  id: 405296
-  time: '2026-05-24T09:52:36.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4503
-- author: Cvlancer.
-  changes:
-  - message: (OASIS) Changed an APC in engie PA room.
-    type: Tweak
-  id: 405297
-  time: '2026-05-24T09:52:36.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4503
-- author: Cvlancer.
-  changes:
-  - message: (OASIS) Fixed duty officer not spawning round start with two officers. (This is currently oasis exclusive).
-    type: Fix
-  id: 405298
-  time: '2026-05-24T09:52:36.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4503
-- author: Cvlancer.
-  changes:
-  - message: (OASIS) Fixed some certain funny posters that got 1984'd but are now back.
-    type: Fix
-  id: 405299
-  time: '2026-05-24T09:52:36.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4503
-- author: Cvlancer.
-  changes:
   - message: (OASIS) Fixed zoo animals dying to weather.
     type: Fix
   id: 405300
@@ -2799,4 +2757,46 @@ Entries:
   id: 405693
   time: '2026-06-08T17:57:00.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4681
+- author: Caws
+  changes:
+  - message: (Manor) Electrolyzer added to Atmos.
+    type: Add
+  id: 405694
+  time: '2026-06-08T18:51:16.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4679
+- author: Caws
+  changes:
+  - message: (Manor) AtmosDrobe added to Atmos' locker room.
+    type: Add
+  id: 405695
+  time: '2026-06-08T18:51:16.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4679
+- author: Caws
+  changes:
+  - message: (Manor) Windoors that lead to GenPop are now Brig access instead of Security access.
+    type: Fix
+  id: 405696
+  time: '2026-06-08T18:51:16.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4679
+- author: Caws
+  changes:
+  - message: (Manor) AI Upload computer linked to AI Core.
+    type: Fix
+  id: 405697
+  time: '2026-06-08T18:51:16.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4679
+- author: Caws
+  changes:
+  - message: (Manor) BSO's room is now NT access.
+    type: Fix
+  id: 405698
+  time: '2026-06-08T18:51:16.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4679
+- author: Caws
+  changes:
+  - message: (Manor) CentComm bedsheet from NTR's room.
+    type: Remove
+  id: 405699
+  time: '2026-06-08T18:51:16.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4679
 Order: -1
