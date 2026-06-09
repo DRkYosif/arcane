@@ -1,13 +1,6 @@
 Entries:
 - author: AllisonKaur and Rhetorica and Fasuh and TheGrinningStoryTeller
   changes:
-  - message: MobThresholdsStatusEffect, ArmorModStatusEffect, SoundStatusEffect, BonusDamageStatusEffect, BonusScalarStatusEffect.
-    type: Add
-  id: 405456
-  time: '2026-05-28T02:56:56.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4389
-- author: AllisonKaur and Rhetorica and Fasuh and TheGrinningStoryTeller
-  changes:
   - message: SpawnAttachedTo, a new entity effect for attaching particles etc to mobs.
     type: Add
   id: 405457
@@ -2799,4 +2792,11 @@ Entries:
   id: 405855
   time: '2026-06-09T07:33:46.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4694
+- author: Caws
+  changes:
+  - message: Lagomorphs metabolism is now correctly 33% faster (was ~43% faster).
+    type: Fix
+  id: 405856
+  time: '2026-06-09T07:33:49.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4691
 Order: -1
