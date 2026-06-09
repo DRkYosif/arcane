@@ -1,20 +1,6 @@
 Entries:
 - author: AllisonKaur and Rhetorica and Fasuh and TheGrinningStoryTeller
   changes:
-  - message: SpawnAttachedTo, a new entity effect for attaching particles etc to mobs.
-    type: Add
-  id: 405457
-  time: '2026-05-28T02:56:56.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4389
-- author: AllisonKaur and Rhetorica and Fasuh and TheGrinningStoryTeller
-  changes:
-  - message: full metamorphic glass prototype for White Gilgamesh.
-    type: Add
-  id: 405458
-  time: '2026-05-28T02:56:56.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4389
-- author: AllisonKaur and Rhetorica and Fasuh and TheGrinningStoryTeller
-  changes:
   - message: Resolved a few stray typos in adjacent drink descriptions.
     type: Fix
   id: 405459
@@ -2799,4 +2785,18 @@ Entries:
   id: 405856
   time: '2026-06-09T07:33:49.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4691
+- author: Caws
+  changes:
+  - message: Arachnids should no longer gasp for breath randomly.
+    type: Fix
+  id: 405857
+  time: '2026-06-09T07:33:52.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4690
+- author: Caws
+  changes:
+  - message: Arachnids no longer have a 50% slower metabolism (that wasn't mentioned in the guidebook!).
+    type: Remove
+  id: 405858
+  time: '2026-06-09T07:33:52.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4690
 Order: -1
