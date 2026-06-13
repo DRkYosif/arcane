@@ -1,39 +1,4 @@
 Entries:
-- author: wonderfulnewworld, Shades, Killer Tamashi, Princess Gurchi, Fasuh, Huaqas
-  changes:
-  - message: Added 6 protogen frames.
-    type: Add
-  id: 405562
-  time: '2026-06-02T10:25:03.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4600
-- author: wonderfulnewworld, Shades, Killer Tamashi, Princess Gurchi, Fasuh, Huaqas
-  changes:
-  - message: Added the battery acid reagent. Protogen can get it by eating computer parts (ram chips), or chemistry can make it with 1u SulfuricAcid and 3u Water. It deals some damage to non-Protogens.
-    type: Add
-  id: 405563
-  time: '2026-06-02T10:25:03.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4600
-- author: wonderfulnewworld, Shades, Killer Tamashi, Princess Gurchi, Fasuh, Huaqas
-  changes:
-  - message: Protogen can now eat computer boards.
-    type: Add
-  id: 405564
-  time: '2026-06-02T10:25:03.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4600
-- author: wonderfulnewworld, Shades, Killer Tamashi, Princess Gurchi, Fasuh, Huaqas
-  changes:
-  - message: Fixed some of the species appearances in the guidebook showing up as human, and made the species follow guidebook alphabetical order.
-    type: Fix
-  id: 405565
-  time: '2026-06-02T10:25:03.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4600
-- author: redmushie
-  changes:
-  - message: Dot matrix fonts for paperwork, see PR for details.
-    type: Add
-  id: 405566
-  time: '2026-06-02T11:42:00.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4626
 - author: redmushie
   changes:
   - message: Fax machines now print metadata like which machine sent the fax and when it was received. Not to worry, antagonists can still tamper with it. See PR for details.
@@ -2799,4 +2764,39 @@ Entries:
   id: 405961
   time: '2026-06-13T14:47:24.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4725
+- author: Johnny
+  changes:
+  - message: Two new chemicals, putrid blood, and mortucussus.
+    type: Add
+  id: 405962
+  time: '2026-06-13T14:47:26.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4747
+- author: Johnny
+  changes:
+  - message: The existence of "zombie blood" (renamed to putrid blood).
+    type: Remove
+  id: 405963
+  time: '2026-06-13T14:47:26.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4747
+- author: Johnny
+  changes:
+  - message: Ambuzols recipe requires mortucussus.
+    type: Tweak
+  id: 405964
+  time: '2026-06-13T14:47:26.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4747
+- author: Johnny
+  changes:
+  - message: Ambuzols both act as a form of opporozine, reducing rot in people that are dead (without the need for temperature).
+    type: Tweak
+  id: 405965
+  time: '2026-06-13T14:47:26.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4747
+- author: Johnny
+  changes:
+  - message: Doxarubixadone works on corpses now.
+    type: Tweak
+  id: 405966
+  time: '2026-06-13T14:47:26.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4747
 Order: -1
