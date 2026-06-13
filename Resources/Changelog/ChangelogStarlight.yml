@@ -1,11 +1,4 @@
 Entries:
-- author: wonderfulnewworld
-  changes:
-  - message: Proto-Reptilians now have their intended 15% heat resist instead of 50%.
-    type: Fix
-  id: 405569
-  time: '2026-06-02T20:15:05.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4637
 - author: Rhetorica
   changes:
   - message: TriggerOnPointedAt. Automation enters the gestural interface era.
@@ -2799,4 +2792,11 @@ Entries:
   id: 405968
   time: '2026-06-13T15:17:40.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4644
+- author: TeddiousbearPA
+  changes:
+  - message: Added experimental plushie in vending machine inventories.
+    type: Add
+  id: 405969
+  time: '2026-06-13T15:37:27.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4628
 Order: -1
