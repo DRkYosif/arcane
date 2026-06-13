@@ -1,11 +1,4 @@
 Entries:
-- author: Johnny
-  changes:
-  - message: Some unnecessary Aghost things.
-    type: Remove
-  id: 405568
-  time: '2026-06-02T13:23:00.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4621
 - author: wonderfulnewworld
   changes:
   - message: Proto-Reptilians now have their intended 15% heat resist instead of 50%.
@@ -2799,4 +2792,11 @@ Entries:
   id: 405967
   time: '2026-06-13T15:17:38.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4652
+- author: Johnny
+  changes:
+  - message: More instruments are now able to be played even when not in an active hand.
+    type: Tweak
+  id: 405968
+  time: '2026-06-13T15:17:40.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4644
 Order: -1
