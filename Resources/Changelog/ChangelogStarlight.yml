@@ -1,13 +1,6 @@
 Entries:
 - author: Caws
   changes:
-  - message: (Prism) +2 suits to Security Armory (total 6).
-    type: Tweak
-  id: 405616
-  time: '2026-06-05T00:29:57.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4598
-- author: Caws
-  changes:
   - message: (Prism) Minor tweaks to Armory layout.
     type: Tweak
   id: 405617
@@ -2799,4 +2792,11 @@ Entries:
   id: 406015
   time: '2026-06-15T17:00:14.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4770
+- author: Mintly-Fresh
+  changes:
+  - message: Added the Mezo Cyborg Chassis line, with 7 dinosaur-themed chassis types. Dino-lovers rejoice!
+    type: Add
+  id: 406016
+  time: '2026-06-15T17:24:22.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4792
 Order: -1
