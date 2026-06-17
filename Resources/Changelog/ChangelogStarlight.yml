@@ -1,13 +1,6 @@
 Entries:
 - author: Caws
   changes:
-  - message: (Manor) AtmosDrobe added to Atmos' locker room.
-    type: Add
-  id: 405695
-  time: '2026-06-08T18:51:16.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4679
-- author: Caws
-  changes:
   - message: (Manor) Windoors that lead to GenPop are now Brig access instead of Security access.
     type: Fix
   id: 405696
@@ -2799,4 +2792,11 @@ Entries:
   id: 406094
   time: '2026-06-17T08:31:55.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4824
+- author: Toxyams
+  changes:
+  - message: Craftable toilets no longer generate infinite water.
+    type: Fix
+  id: 406095
+  time: '2026-06-17T09:05:24.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4755
 Order: -1
