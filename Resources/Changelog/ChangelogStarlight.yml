@@ -1,25 +1,4 @@
 Entries:
-- author: Caws
-  changes:
-  - message: (Starboard) BSO's room is now NT access.
-    type: Fix
-  id: 405710
-  time: '2026-06-08T18:51:18.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4680
-- author: Caws
-  changes:
-  - message: (Starboard) Handcuffs removed from Bridge.
-    type: Remove
-  id: 405711
-  time: '2026-06-08T18:51:18.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4680
-- author: wonderfulnewworld
-  changes:
-  - message: AGhost also sees Protogen health bars.
-    type: Fix
-  id: 405712
-  time: '2026-06-08T19:46:36.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4677
 - author: wonderfulnewworld
   changes:
   - message: Barotrauma protection works again.
@@ -2799,4 +2778,25 @@ Entries:
   id: 406109
   time: '2026-06-18T12:28:03.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4838
+- author: Tjmaxmillion
+  changes:
+  - message: The NTR, Magistrate, IAA and NTCT now start with a flash.
+    type: Add
+  id: 406110
+  time: '2026-06-18T12:28:05.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4578
+- author: Tjmaxmillion
+  changes:
+  - message: NTCT added to Corporate Secrets in Metashield.
+    type: Add
+  id: 406111
+  time: '2026-06-18T12:28:05.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4578
+- author: Tjmaxmillion
+  changes:
+  - message: Flashes are no longer contraband for NT Personnel.
+    type: Tweak
+  id: 406112
+  time: '2026-06-18T12:28:05.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4578
 Order: -1
