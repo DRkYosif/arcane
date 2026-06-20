@@ -1,11 +1,4 @@
 Entries:
-- author: Johnny
-  changes:
-  - message: Made the split between normal ERT prototypes and armed ERT prototypes more apparent in their loadout styles.
-    type: Tweak
-  id: 405728
-  time: '2026-06-08T22:30:24.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4676
 - author: Citrea
   changes:
   - message: Biosuits now properly protect you after death.
@@ -2799,4 +2792,11 @@ Entries:
   id: 406127
   time: '2026-06-20T09:13:14.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4846
+- author: Forrestgod  <br>
+  changes:
+  - message: Added a new mentor Help System Tip!
+    type: Add
+  id: 406128
+  time: '2026-06-20T09:13:15.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4860
 Order: -1
