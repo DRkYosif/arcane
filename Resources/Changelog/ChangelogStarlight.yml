@@ -1,13 +1,6 @@
 Entries:
 - author: Johnny
   changes:
-  - message: A few prototypes of jugs and bags for QoL in loadouts.
-    type: Add
-  id: 405724
-  time: '2026-06-08T22:30:24.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4676
-- author: Johnny
-  changes:
   - message: ERT Medical and engineering hard suits now have specialized actions and modifiers given to them to better help their tasks.
     type: Add
   id: 405725
@@ -2799,4 +2792,11 @@ Entries:
   id: 406123
   time: '2026-06-19T14:29:18.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4749
+- author: Pon
+  changes:
+  - message: Changed modular machine parts to come in stacks of 1 instead of 30.
+    type: Fix
+  id: 406124
+  time: '2026-06-20T08:37:05.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4868
 Order: -1
