@@ -1,13 +1,6 @@
 Entries:
 - author: Mack
   changes:
-  - message: Angel Arms will no longer drain all the chemicals from a container when the wrong injector is used.
-    type: Fix
-  id: 405739
-  time: '2026-06-08T23:11:31.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4661
-- author: Mack
-  changes:
   - message: You can no longer attach cyberlimb tools to limbs.
     type: Fix
   id: 405740
@@ -2799,4 +2792,11 @@ Entries:
   id: 406138
   time: '2026-06-21T12:11:06.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4880
+- author: Johnny
+  changes:
+  - message: Super synths can be played on the neck now.
+    type: Fix
+  id: 406139
+  time: '2026-06-21T12:39:04.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4881
 Order: -1
