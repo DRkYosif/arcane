@@ -1,11 +1,4 @@
 Entries:
-- author: CrazyPhantom
-  changes:
-  - message: Ninja's can now call in Electric Sheep.
-    type: Add
-  id: 405738
-  time: '2026-06-08T23:11:29.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4568
 - author: Mack
   changes:
   - message: Angel Arms will no longer drain all the chemicals from a container when the wrong injector is used.
@@ -2799,4 +2792,11 @@ Entries:
   id: 406137
   time: '2026-06-21T12:11:02.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4869
+- author: Sparlight
+  changes:
+  - message: Borgi cubes no longer produce 'mistake' smart corgis that aren't sentient; all 'mistake' corgis will now be ghost roles.
+    type: Tweak
+  id: 406138
+  time: '2026-06-21T12:11:06.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4880
 Order: -1
