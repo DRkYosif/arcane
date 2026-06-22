@@ -1,27 +1,6 @@
 Entries:
 - author: PON
   changes:
-  - message: (LAGAN) Added a paint gun to cargo in case you wish to remove the decals.
-    type: Add
-  id: 405756
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
-  - message: (LAGAN) Added a material silo to cargo.
-    type: Add
-  id: 405757
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
-  - message: (LAGAN) Added Mass scanner in front of cargo.
-    type: Add
-  id: 405758
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
   - message: (LAGAN) Added sinks to the barber area for shampooing. Two are empty, one is filled.
     type: Add
   id: 405759
@@ -2799,4 +2778,25 @@ Entries:
   id: 406155
   time: '2026-06-22T10:12:59.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4764
+- author: Johnny
+  changes:
+  - message: Recipe to grind a NORMAL stick of butter for liquid butter.
+    type: Add
+  id: 406156
+  time: '2026-06-22T10:35:46.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4825
+- author: Johnny
+  changes:
+  - message: Recipe to grind a slice of butter for liquid butter.
+    type: Add
+  id: 406157
+  time: '2026-06-22T10:35:46.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4825
+- author: Johnny
+  changes:
+  - message: Cannabis butter had... Less butter than a normal stick of butter? Yeah it has same amount of butter now.
+    type: Fix
+  id: 406158
+  time: '2026-06-22T10:35:46.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4825
 Order: -1
