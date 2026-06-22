@@ -1,41 +1,6 @@
 Entries:
 - author: PON
   changes:
-  - message: (LAGAN) Added Civilian NanoMed to Evac west wall.
-    type: Add
-  id: 405751
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
-  - message: (LAGAN) Added fish tank to BSO room.
-    type: Add
-  id: 405752
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
-  - message: (LAGAN) Added a clown spawn to booking.
-    type: Add
-  id: 405753
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
-  - message: (LAGAN) Added firelock to Salvage / Mining dock.
-    type: Add
-  id: 405754
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
-  - message: (LAGAN) Added some cargo tech lockers and a table with playing cards.
-    type: Add
-  id: 405755
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
   - message: (LAGAN) Added a paint gun to cargo in case you wish to remove the decals.
     type: Add
   id: 405756
@@ -2799,4 +2764,39 @@ Entries:
   id: 406150
   time: '2026-06-22T09:40:01.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4888
+- author: redmushie
+  changes:
+  - message: Tamper-sealed cargo orders! Only the department that ordered something can open it without incurring a penalty.
+    type: Add
+  id: 406151
+  time: '2026-06-22T10:12:59.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4764
+- author: redmushie
+  changes:
+  - message: Opening a tamper-sealed order rewards Cargo with 10% of the order price.
+    type: Add
+  id: 406152
+  time: '2026-06-22T10:12:59.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4764
+- author: redmushie
+  changes:
+  - message: Destroying a tamper-sealed order penalizes Cargo for 10% of the order price, and refunds the ordering department 50% at Cargo's expense.
+    type: Add
+  id: 406153
+  time: '2026-06-22T10:12:59.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4764
+- author: redmushie
+  changes:
+  - message: Cyborgs can open tamper-sealed orders belonging to their departments.
+    type: Add
+  id: 406154
+  time: '2026-06-22T10:12:59.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4764
+- author: redmushie
+  changes:
+  - message: The Interstellar Trade Guild will warn the station if a lot of tamper seals are destroyed.
+    type: Add
+  id: 406155
+  time: '2026-06-22T10:12:59.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4764
 Order: -1
