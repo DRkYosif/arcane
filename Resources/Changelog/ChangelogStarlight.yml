@@ -1,13 +1,6 @@
 Entries:
 - author: PON
   changes:
-  - message: (LAGAN) Added more security spawn locations to be more sporadic.
-    type: Add
-  id: 405750
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
   - message: (LAGAN) Added Civilian NanoMed to Evac west wall.
     type: Add
   id: 405751
@@ -2799,4 +2792,11 @@ Entries:
   id: 406149
   time: '2026-06-22T08:47:16.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4889
+- author: Sparlight
+  changes:
+  - message: Critters no longer go permanently blind from unexpected sources.
+    type: Fix
+  id: 406150
+  time: '2026-06-22T09:40:01.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4888
 Order: -1
