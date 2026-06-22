@@ -1,13 +1,6 @@
 Entries:
 - author: PON
   changes:
-  - message: (LAGAN) Added Beep 100 poster next to engineering entrance... o7.
-    type: Add
-  id: 405762
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
   - message: (LAGAN) Added windoors to the chemistry conveyor belt.
     type: Add
   id: 405763
@@ -2799,4 +2792,11 @@ Entries:
   id: 406161
   time: '2026-06-22T15:31:14.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4870
+- author: Kasern
+  changes:
+  - message: Deep-frying a penguin cutlet now makes a nugget.
+    type: Add
+  id: 406162
+  time: '2026-06-22T15:53:47.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4854
 Order: -1
