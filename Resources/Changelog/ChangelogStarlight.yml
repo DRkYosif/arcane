@@ -1,146 +1,6 @@
 Entries:
 - author: PON
   changes:
-  - message: (LAGAN) Removed insulated gloves from robotics.
-    type: Remove
-  id: 405775
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
-  - message: (LAGAN) Removed borg chassis from Borg Bar, added back the hats.
-    type: Remove
-  id: 405776
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
-  - message: (LAGAN) Removed 2 mail tech bags.
-    type: Remove
-  id: 405777
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
-  - message: (LAGAN) Removed medical bed from BSO's room, replaced with a standard bed.
-    type: Remove
-  id: 405778
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
-  - message: (LAGAN) Removed a stasis bed from security, replaced with a medical bed.
-    type: Remove
-  id: 405779
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
-  - message: (LAGAN) Removed 2 Armory cameras.
-    type: Remove
-  id: 405780
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
-  - message: (LAGAN) Removed John Toe camera.
-    type: Remove
-  id: 405781
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
-  - message: (LAGAN) Removed cameras from bedrooms.
-    type: Remove
-  id: 405782
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
-  - message: (LAGAN) Removed one Ripley from Cargo.
-    type: Remove
-  id: 405783
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
-  - message: (LAGAN) Removed 20 pieces of uranium from the engine storage room.
-    type: Remove
-  id: 405784
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
-  - message: (LAGAN) Removed 2 Fire axes from atmos.
-    type: Remove
-  id: 405785
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
-  - message: (LAGAN) Removed t-ray scanners from science.
-    type: Remove
-  id: 405786
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
-  - message: (LAGAN) Tweaked amount of WeaponCapacitorRecharger's, replacing 5 with 3 PowerCellRecharger's.
-    type: Tweak
-  id: 405787
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
-  - message: (LAGAN) Tweaked Roboticist room, shifting over 1 tile.
-    type: Tweak
-  id: 405788
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
-  - message: (LAGAN) Tweaked solitary confinement to use a timer and lead back into brig.
-    type: Tweak
-  id: 405789
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
-  - message: (LAGAN) Moved artifact beacon to the center of room.
-    type: Tweak
-  id: 405790
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
-  - message: (LAGAN) Moved defib case in brigmed closer to the stasis bed.
-    type: Tweak
-  id: 405791
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
-  - message: (LAGAN) Tweaked brigmed to have a body bag box instead of loose bags.
-    type: Tweak
-  id: 405792
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
-  - message: (LAGAN) Tweaked Cameras to have them all named.
-    type: Tweak
-  id: 405793
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
-  - message: (LAGAN) Changed the armory to fit more hardsuits and look like older Lagan.
-    type: Tweak
-  id: 405794
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
   - message: (LAGAN) Tweaked many vents / scrubbers to not be under objects due to the increase of vent based antags.
     type: Tweak
   id: 405795
@@ -2799,4 +2659,144 @@ Entries:
   id: 406174
   time: '2026-06-23T08:34:00.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4893
+- author: Cvlancer
+  changes:
+  - message: (ORWELL) Added reporter to orwell.
+    type: Add
+  id: 406175
+  time: '2026-06-23T08:34:01.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4890
+- author: Cvlancer
+  changes:
+  - message: (ORWELL)  Added support for round start singularity.
+    type: Add
+  id: 406176
+  time: '2026-06-23T08:34:01.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4890
+- author: Cvlancer
+  changes:
+  - message: (ORWELL)  Added some uranium to the shuttle construction bay to build gravity generators.
+    type: Add
+  id: 406177
+  time: '2026-06-23T08:34:01.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4890
+- author: Cvlancer
+  changes:
+  - message: (ORWELL)  Added a connector port at shuttle construction bay to refill canisters with distro air mixture.
+    type: Add
+  id: 406178
+  time: '2026-06-23T08:34:01.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4890
+- author: Cvlancer
+  changes:
+  - message: (ORWELL)  Added fog machine to the chapel. (Check button on walls).
+    type: Add
+  id: 406179
+  time: '2026-06-23T08:34:01.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4890
+- author: Cvlancer
+  changes:
+  - message: (ORWELL) Added black lights and light switches to chapel to toggle which lights you want. (More wall buttons).
+    type: Add
+  id: 406180
+  time: '2026-06-23T08:34:01.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4890
+- author: Cvlancer
+  changes:
+  - message: (ORWELL)  Added a botany holopad to botany.
+    type: Add
+  id: 406181
+  time: '2026-06-23T08:34:01.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4890
+- author: Cvlancer
+  changes:
+  - message: (ORWELL)  Added a maints entrance into chapel maints.
+    type: Add
+  id: 406182
+  time: '2026-06-23T08:34:01.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4890
+- author: Cvlancer
+  changes:
+  - message: (ORWELL) Added a disposal pipe to trans recon.
+    type: Add
+  id: 406183
+  time: '2026-06-23T08:34:01.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4890
+- author: Cvlancer
+  changes:
+  - message: (ORWELL)  Added a firelock under papers please office door.
+    type: Add
+  id: 406184
+  time: '2026-06-23T08:34:01.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4890
+- author: Cvlancer
+  changes:
+  - message: (ORWELL) Added roboticist locker to roboticist.
+    type: Add
+  id: 406185
+  time: '2026-06-23T08:34:01.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4890
+- author: Cvlancer
+  changes:
+  - message: (ORWELL) Added a filled virologist locker to virology entrance.
+    type: Add
+  id: 406186
+  time: '2026-06-23T08:34:01.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4890
+- author: Cvlancer
+  changes:
+  - message: (ORWELL) Added a empty geneticist locker to old virology.
+    type: Add
+  id: 406187
+  time: '2026-06-23T08:34:01.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4890
+- author: Cvlancer
+  changes:
+  - message: (ORWELL) Added a filled surgeon locker to surgery.
+    type: Add
+  id: 406188
+  time: '2026-06-23T08:34:01.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4890
+- author: Cvlancer
+  changes:
+  - message: (ORWELL) Added a filled coroner locker to morgue.
+    type: Add
+  id: 406189
+  time: '2026-06-23T08:34:01.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4890
+- author: Cvlancer
+  changes:
+  - message: (ORWELL) Removed one surgery bag in robotics.
+    type: Remove
+  id: 406190
+  time: '2026-06-23T08:34:01.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4890
+- author: Cvlancer
+  changes:
+  - message: (ORWELL) Removed one body bag box from morgue.
+    type: Remove
+  id: 406191
+  time: '2026-06-23T08:34:01.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4890
+- author: Cvlancer
+  changes:
+  - message: (ORWELL) Changed mail tech locker to the double variant.
+    type: Tweak
+  id: 406192
+  time: '2026-06-23T08:34:01.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4890
+- author: Cvlancer
+  changes:
+  - message: (ORWELL) Changed showroom to reporter moving its content nearby.
+    type: Tweak
+  id: 406193
+  time: '2026-06-23T08:34:01.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4890
+- author: Cvlancer
+  changes:
+  - message: (ORWELL) Fixed robotics windoor not being robotics access.
+    type: Fix
+  id: 406194
+  time: '2026-06-23T08:34:01.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4890
 Order: -1
