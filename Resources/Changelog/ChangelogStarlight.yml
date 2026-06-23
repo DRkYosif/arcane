@@ -1,69 +1,6 @@
 Entries:
 - author: PON
   changes:
-  - message: (LAGAN) Added HonkBot to Solitary.
-    type: Add
-  id: 405766
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
-  - message: (LAGAN) Added the Salvage Magnet to the Cargo Docking Arm.
-    type: Add
-  id: 405767
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
-  - message: (LAGAN) Added the Electrolyzer to Atmos.
-    type: Add
-  id: 405768
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
-  - message: (LAGAN) Added a Psycholigist Room, Job Included.
-    type: Add
-  id: 405769
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
-  - message: (LAGAN) Added a boxing ring, Job Included.
-    type: Add
-  id: 405770
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
-  - message: (LAGAN) Added the HugDispenser in front of the psych room.
-    type: Add
-  id: 405771
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
-  - message: (LAGAN) Added the Pride-O-Mat in front of the library.
-    type: Add
-  id: 405772
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
-  - message: (LAGAN) Added a second detectives locker.
-    type: Add
-  id: 405773
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
-  - message: (LAGAN) Added many departmental animal spawns (Morticia, Polly, McGriff, Smile, Bandito, Alexander, Clown Corgi, Morty, Willow, Generic Cat for Psych).
-    type: Add
-  id: 405774
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
   - message: (LAGAN) Removed insulated gloves from robotics.
     type: Remove
   id: 405775
@@ -2799,4 +2736,67 @@ Entries:
   id: 406165
   time: '2026-06-23T07:53:14.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4906
+- author: Johnny
+  changes:
+  - message: (CC-SC17) Added the science department, no more crying in changelogs for it!
+    type: Add
+  id: 406166
+  time: '2026-06-23T08:34:00.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4893
+- author: Johnny
+  changes:
+  - message: (CC-SC17) Added an arcade to the chill out area to play some games.
+    type: Add
+  id: 406167
+  time: '2026-06-23T08:34:00.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4893
+- author: Johnny
+  changes:
+  - message: (CC-SC17) Added point defense cause of cool factor (not like they are gonna be used).
+    type: Add
+  id: 406168
+  time: '2026-06-23T08:34:00.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4893
+- author: Johnny
+  changes:
+  - message: (CC-SC17) Added a maintenance tunnel connecting the disposals area to the left side of the CC.
+    type: Add
+  id: 406169
+  time: '2026-06-23T08:34:00.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4893
+- author: Johnny
+  changes:
+  - message: (CC-SC17) Added a nitrogen canister for people to refuel their nitrogen at (vox rejoice).
+    type: Add
+  id: 406170
+  time: '2026-06-23T08:34:00.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4893
+- author: Johnny
+  changes:
+  - message: (CC-SC17) Removed the RPGs from the ERT area because 90% of the time they dont need it (also blame lizard they told me to).
+    type: Remove
+  id: 406171
+  time: '2026-06-23T08:34:00.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4893
+- author: Johnny
+  changes:
+  - message: (CC-SC17) Changed the solar area because nobody uses it anyway and the maints needed more space.
+    type: Tweak
+  id: 406172
+  time: '2026-06-23T08:34:00.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4893
+- author: Johnny
+  changes:
+  - message: (CC-SC17) Moved cryopods and its sitting area to an unused evac pod area.
+    type: Tweak
+  id: 406173
+  time: '2026-06-23T08:34:00.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4893
+- author: Johnny
+  changes:
+  - message: (CC-SC17) The checkpoint office wasnt getting gassed before, now it will.
+    type: Fix
+  id: 406174
+  time: '2026-06-23T08:34:00.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4893
 Order: -1
