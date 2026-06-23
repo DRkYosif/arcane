@@ -1,13 +1,6 @@
 Entries:
 - author: PON
   changes:
-  - message: (LAGAN) Added windoors to the chemistry conveyor belt.
-    type: Add
-  id: 405763
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
   - message: (LAGAN) Added many firelocks around the station.
     type: Add
   id: 405764
@@ -2799,4 +2792,11 @@ Entries:
   id: 406162
   time: '2026-06-22T15:53:47.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4854
+- author: Johnny
+  changes:
+  - message: The end parts of benches FINALLY connect to other benches. Bench enjoyers rejoice.
+    type: Fix
+  id: 406163
+  time: '2026-06-23T07:53:10.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4909
 Order: -1
