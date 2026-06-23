@@ -1,13 +1,6 @@
 Entries:
 - author: PON
   changes:
-  - message: (LAGAN) Tweaked belt spawns in cargo. Now 1 filled and 1 empty.
-    type: Tweak
-  id: 405799
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
   - message: (LAGAN) Changed cargo bounty computers replacing with desktop computers.
     type: Tweak
   id: 405800
@@ -2799,4 +2792,11 @@ Entries:
   id: 406198
   time: '2026-06-23T09:28:39.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4894
+- author: redmushie
+  changes:
+  - message: Ripleys with hydraulic clamps can actually pick up tamper-sealed crates.
+    type: Fix
+  id: 406199
+  time: '2026-06-23T16:18:00.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4911
 Order: -1
