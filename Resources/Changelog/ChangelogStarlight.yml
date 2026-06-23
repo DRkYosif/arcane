@@ -1,41 +1,6 @@
 Entries:
 - author: PON
   changes:
-  - message: (LAGAN) Changed cargo bounty computers replacing with desktop computers.
-    type: Tweak
-  id: 405800
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
-  - message: (LAGAN) Tweaked amount of engineering goggles in salvage substation room, now only having 1.
-    type: Tweak
-  id: 405801
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
-  - message: (LAGAN) Tweaked decals and tiles in cargo.
-    type: Tweak
-  id: 405802
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
-  - message: (LAGAN) Tweaked Particle Accelerator so it now starts put together without wires.
-    type: Tweak
-  id: 405803
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
-  - message: (LAGAN) Changed Radiation collector locations, moving three and flatpacking the other three.
-    type: Tweak
-  id: 405804
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
   - message: (LAGAN) Replaced all astro tiles with astro-turf. The lizards shall no longer ash!
     type: Tweak
   id: 405805
@@ -2799,4 +2764,39 @@ Entries:
   id: 406199
   time: '2026-06-23T16:18:00.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4911
+- author: Ohelig
+  changes:
+  - message: 'Cog: Add Science Material Silo.'
+    type: Add
+  id: 406200
+  time: '2026-06-23T17:37:43.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4904
+- author: Ohelig
+  changes:
+  - message: 'Cog: Add spare Intellicard to AI Core.'
+    type: Add
+  id: 406201
+  time: '2026-06-23T17:37:43.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4904
+- author: Ohelig
+  changes:
+  - message: 'Cog: Add a missing distro pipe in Sec.'
+    type: Add
+  id: 406202
+  time: '2026-06-23T17:37:43.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4904
+- author: Ohelig
+  changes:
+  - message: 'Cog: Fix space-weather in Botany, Bee Room, Lizard Enclosure.'
+    type: Fix
+  id: 406203
+  time: '2026-06-23T17:37:43.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4904
+- author: Ohelig
+  changes:
+  - message: 'Cog: Remove hidden tech altar inside the wall of the maints south of AI Core.'
+    type: Remove
+  id: 406204
+  time: '2026-06-23T17:37:43.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4904
 Order: -1
