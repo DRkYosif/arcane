@@ -1,13 +1,6 @@
 Entries:
 - author: PON
   changes:
-  - message: (LAGAN) Replaced all astro tiles with astro-turf. The lizards shall no longer ash!
-    type: Tweak
-  id: 405805
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
   - message: (LAGAN) Moved the NCT Room below arrivals and in front of bridge.
     type: Tweak
   id: 405806
@@ -2799,4 +2792,11 @@ Entries:
   id: 406204
   time: '2026-06-23T17:37:43.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4904
+- author: BlythT
+  changes:
+  - message: Fixed butcher verb popping in by adding client-side verb prediction.
+    type: Fix
+  id: 406205
+  time: '2026-06-24T06:30:13.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4900
 Order: -1
