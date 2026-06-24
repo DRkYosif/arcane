@@ -1,27 +1,6 @@
 Entries:
 - author: PON
   changes:
-  - message: (LAGAN) Tweaked the bar for the boxing ring.
-    type: Tweak
-  id: 405809
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
-  - message: (LAGAN) Changed AI Upload to have a law crate and generators.
-    type: Tweak
-  id: 405810
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
-  - message: (LAGAN) Tweaked the stages, using platforms for depth.
-    type: Tweak
-  id: 405811
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
   - message: (LAGAN) Changed Brigmed slots from 1 to 2, locker being changed to the large locker.
     type: Tweak
   id: 405812
@@ -2799,4 +2778,25 @@ Entries:
   id: 406208
   time: '2026-06-24T14:55:41.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4902
+- author: Kasern
+  changes:
+  - message: Senior Chef Jacket.
+    type: Add
+  id: 406209
+  time: '2026-06-24T16:25:26.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4912
+- author: Kasern
+  changes:
+  - message: Senior Chef Jumpsuit.
+    type: Add
+  id: 406210
+  time: '2026-06-24T16:25:26.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4912
+- author: Kasern
+  changes:
+  - message: Senior Chef loadout options.
+    type: Add
+  id: 406211
+  time: '2026-06-24T16:25:26.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4912
 Order: -1
