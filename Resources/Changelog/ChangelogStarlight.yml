@@ -1,13 +1,6 @@
 Entries:
 - author: PON
   changes:
-  - message: (LAGAN) Tweaked the size of South East solars.
-    type: Tweak
-  id: 405808
-  time: '2026-06-09T06:41:20.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4678
-- author: PON
-  changes:
   - message: (LAGAN) Tweaked the bar for the boxing ring.
     type: Tweak
   id: 405809
@@ -2799,4 +2792,11 @@ Entries:
   id: 406207
   time: '2026-06-24T14:30:13.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4907
+- author: Scarlet Lightweaver and all the space stations.
+  changes:
+  - message: Added a magnet to the material silo departments hooray.
+    type: Add
+  id: 406208
+  time: '2026-06-24T14:55:41.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4902
 Order: -1
