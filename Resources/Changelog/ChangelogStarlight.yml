@@ -1,13 +1,6 @@
 Entries:
 - author: Cvlancer & Caws
   changes:
-  - message: (KILOTON) Added roboticist med kit to ipc repair bay.
-    type: Add
-  id: 405845
-  time: '2026-06-09T07:33:46.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4694
-- author: Cvlancer & Caws
-  changes:
   - message: (KILOTON) Removed the jaws of life from cmo's office.
     type: Remove
   id: 405846
@@ -2799,4 +2792,11 @@ Entries:
   id: 406244
   time: '2026-06-26T13:37:34.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4921
+- author: Johnny
+  changes:
+  - message: Added vox lungs in med vend cuz people want it.
+    type: Add
+  id: 406245
+  time: '2026-06-26T18:04:26.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4940
 Order: -1
