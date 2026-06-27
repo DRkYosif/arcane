@@ -1,13 +1,6 @@
 Entries:
 - author: Cvlancer & Caws
   changes:
-  - message: (KILOTON) Changed wastespace chamber to once again be used as another burn chamber.
-    type: Tweak
-  id: 405850
-  time: '2026-06-09T07:33:46.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4694
-- author: Cvlancer & Caws
-  changes:
   - message: (KILOTON) Changed NTR's room now uses NT access. (Caws).
     type: Tweak
   id: 405851
@@ -2799,4 +2792,11 @@ Entries:
   id: 406249
   time: '2026-06-27T08:23:00.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4950
+- author: Caws
+  changes:
+  - message: Portable cooling units now take 3x3 inventory slots (down from 4x4).
+    type: Tweak
+  id: 406250
+  time: '2026-06-27T09:56:19.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4949
 Order: -1
