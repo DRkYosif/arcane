@@ -1,55 +1,6 @@
 Entries:
 - author: wonderfulnewworld
   changes:
-  - message: Proto-Laspi can now eat foods other than computer boards.
-    type: Fix
-  id: 405901
-  time: '2026-06-11T16:03:16.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4736
-- author: wonderfulnewworld
-  changes:
-  - message: Proto-Arachnids, Proto-Avali, Proto-Cyclorites, Proto-Dwarves, Proto-Resomi, Proto-Laspi, Proto-Vox, and Proto-Diona are no longer poisoned by computer boards/battery acid.
-    type: Fix
-  id: 405902
-  time: '2026-06-11T16:03:16.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4736
-- author: wonderfulnewworld
-  changes:
-  - message: Proto-Dwarves and Proto-Laspi can now process raw meat like other Protogen.
-    type: Fix
-  id: 405903
-  time: '2026-06-11T16:03:16.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4736
-- author: Pon
-  changes:
-  - message: Changed BaseToySword Blunt damage from 0.3 to 0.1.
-    type: Tweak
-  id: 405904
-  time: '2026-06-11T16:03:18.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4731
-- author: wonderfulnewworld
-  changes:
-  - message: Diona/Proto-Diona now restore a little bit of hunger when drinking things with the word "water" in the name. It varies by type, but they're all less than x1.
-    type: Add
-  id: 405905
-  time: '2026-06-11T16:03:21.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4735
-- author: wonderfulnewworld
-  changes:
-  - message: Diona/Proto-Diona now crit at 125 Health, and die at 250 Health. A bit less than Cyclorites.
-    type: Tweak
-  id: 405906
-  time: '2026-06-11T16:03:21.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4735
-- author: wonderfulnewworld
-  changes:
-  - message: Diona now gain Fire Stacks at 20 Heat, and can only gain 5 Fire Stacks from this effect at once.
-    type: Tweak
-  id: 405907
-  time: '2026-06-11T16:03:21.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4735
-- author: wonderfulnewworld
-  changes:
   - message: Proto-Diona now gain Fire Stacks at 30 Heat, and can only gain 3 Fire Stacks from this effect at once.
     type: Tweak
   id: 405908
@@ -2799,4 +2750,53 @@ Entries:
   id: 406300
   time: '2026-06-29T14:58:53.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4903
+- author: Tjmaxmillion
+  changes:
+  - message: CC Job icons now have a darker border.
+    type: Tweak
+  id: 406301
+  time: '2026-06-29T15:36:27.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4952
+- author: Tjmaxmillion
+  changes:
+  - message: CC IDs now have the CC logo rather than the NT logo.
+    type: Tweak
+  id: 406302
+  time: '2026-06-29T15:36:27.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4952
+- author: Tjmaxmillion
+  changes:
+  - message: CCO IDs are now green.
+    type: Tweak
+  id: 406303
+  time: '2026-06-29T15:36:27.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4952
+- author: Tjmaxmillion
+  changes:
+  - message: GSO job icon now match CC and ERT.
+    type: Tweak
+  id: 406304
+  time: '2026-06-29T15:36:27.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4952
+- author: Tjmaxmillion
+  changes:
+  - message: NTSF IDs not use NTSF job icon.
+    type: Tweak
+  id: 406305
+  time: '2026-06-29T15:36:27.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4952
+- author: Tjmaxmillion
+  changes:
+  - message: Marine job icons now match NTSF.
+    type: Tweak
+  id: 406306
+  time: '2026-06-29T15:36:27.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4952
+- author: Tjmaxmillion
+  changes:
+  - message: IDs that had an 8x7 job icon square are now 8x8.
+    type: Tweak
+  id: 406307
+  time: '2026-06-29T15:36:27.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4952
 Order: -1
