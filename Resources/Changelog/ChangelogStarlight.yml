@@ -1,20 +1,6 @@
 Entries:
 - author: wonderfulnewworld, A-Loose-Goose
   changes:
-  - message: (Dev stuff) Shops now support destockTime, allowing items to NOT be purchasable after a certain amount of time passes.
-    type: Add
-  id: 405927
-  time: '2026-06-11T20:35:37.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4501
-- author: wonderfulnewworld, A-Loose-Goose
-  changes:
-  - message: Traitor Borgis now come with 3 Syndicate IDs. (1 Operative [Agent] and 2 Footsoldier [Not Agent]).
-    type: Tweak
-  id: 405928
-  time: '2026-06-11T20:35:37.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4501
-- author: wonderfulnewworld, A-Loose-Goose
-  changes:
   - message: Fixed a lot of typos in the Syndicate Uplink. (Cybersan, missing periods, .50 shotgun ammo).
     type: Fix
   id: 405929
@@ -2799,4 +2785,18 @@ Entries:
   id: 406326
   time: '2026-07-01T08:41:20.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4941
+- author: redmushie
+  changes:
+  - message: Admin chat window can now popout.
+    type: Add
+  id: 406327
+  time: '2026-07-01T08:41:22.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4962
+- author: redmushie
+  changes:
+  - message: When pressing the admin chat hotkey, the admin chat window input gets prioritized while the dedicated window is open.
+    type: Fix
+  id: 406328
+  time: '2026-07-01T08:41:22.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4962
 Order: -1
