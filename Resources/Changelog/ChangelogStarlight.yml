@@ -1,41 +1,6 @@
 Entries:
 - author: wonderfulnewworld, A-Loose-Goose
   changes:
-  - message: Added a Syndicate Footsoldier ID. It's functionally the same as a syndicate ID, but you actually have a job icon. (Not an Agent ID.).
-    type: Add
-  id: 405922
-  time: '2026-06-11T20:35:37.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4501
-- author: wonderfulnewworld, A-Loose-Goose
-  changes:
-  - message: Added a DAGD uplink, for admins to spawn without needing to have the objective.
-    type: Add
-  id: 405923
-  time: '2026-06-11T20:35:37.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4501
-- author: wonderfulnewworld, A-Loose-Goose
-  changes:
-  - message: Added DAGD Bundle variants of the Nukie Borgi/Cyborg Allies that come with 3 Syndicate IDs, so they can actually count as syndicate to them. (1 Operative [Agent] and 2 Footsoldier [Not Agent]).
-    type: Add
-  id: 405924
-  time: '2026-06-11T20:35:37.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4501
-- author: wonderfulnewworld, A-Loose-Goose
-  changes:
-  - message: (Dev stuff) SharedEmitSoundSystem and EmitSoundOnTrigger now support global audio.
-    type: Add
-  id: 405925
-  time: '2026-06-11T20:35:37.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4501
-- author: wonderfulnewworld, A-Loose-Goose
-  changes:
-  - message: (Dev stuff) RattleOnTriggerSystem now supports making announcements on trigger. (Including audio, color, etc).
-    type: Add
-  id: 405926
-  time: '2026-06-11T20:35:37.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4501
-- author: wonderfulnewworld, A-Loose-Goose
-  changes:
   - message: (Dev stuff) Shops now support destockTime, allowing items to NOT be purchasable after a certain amount of time passes.
     type: Add
   id: 405927
@@ -2799,4 +2764,39 @@ Entries:
   id: 406321
   time: '2026-07-01T08:09:46.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4945
+- author: Arkanic
+  changes:
+  - message: Devil to game pool, 5% chance side antag, with a maximum of 2 devils in a round.
+    type: Add
+  id: 406322
+  time: '2026-07-01T08:41:20.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4941
+- author: Arkanic
+  changes:
+  - message: Stink damnation.
+    type: Add
+  id: 406323
+  time: '2026-07-01T08:41:20.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4941
+- author: Arkanic
+  changes:
+  - message: Misspelled contracts now show up as a "misprinted infernal contract", and appear visually duller.
+    type: Tweak
+  id: 406324
+  time: '2026-07-01T08:41:20.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4941
+- author: Arkanic
+  changes:
+  - message: Reworked damnations UI, it now has categories and displays crew you have damned.
+    type: Tweak
+  id: 406325
+  time: '2026-07-01T08:41:20.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4941
+- author: Arkanic
+  changes:
+  - message: Brought back terminator damnation, but now with a limit of 1 use per devil.
+    type: Tweak
+  id: 406326
+  time: '2026-07-01T08:41:20.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4941
 Order: -1
