@@ -1,13 +1,6 @@
 Entries:
 - author: wonderfulnewworld, A-Loose-Goose
   changes:
-  - message: DAGD Traitors now get 15 more TC and get access to the entire Nuclear Operative/Lone Op uplink, minus Zombies and some duplicate redundancies.
-    type: Add
-  id: 405921
-  time: '2026-06-11T20:35:37.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4501
-- author: wonderfulnewworld, A-Loose-Goose
-  changes:
   - message: Added a Syndicate Footsoldier ID. It's functionally the same as a syndicate ID, but you actually have a job icon. (Not an Agent ID.).
     type: Add
   id: 405922
@@ -2799,4 +2792,11 @@ Entries:
   id: 406320
   time: '2026-07-01T08:09:44.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4946
+- author: Hot_Mic
+  changes:
+  - message: Replace NTS 'Kickstart' Ingeniator with NTS 'Jumpstart' Mini-Ingeniator on Shipyard Console with a new pricing of 85,000 Spesos.
+    type: Tweak
+  id: 406321
+  time: '2026-07-01T08:09:46.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4945
 Order: -1
