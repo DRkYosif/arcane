@@ -1,67 +1,4 @@
 Entries:
-- author: Pon
-  changes:
-  - message: Changed the fixtures size of the Butcher's Cleaver.
-    type: Tweak
-  id: 405912
-  time: '2026-06-11T17:04:00.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4724
-- author: Pon
-  changes:
-  - message: Changed the fixtures size of the Throwing Knife.
-    type: Tweak
-  id: 405913
-  time: '2026-06-11T17:04:00.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4724
-- author: Johnny
-  changes:
-  - message: Observers cant be used by aghosts as a mass scanner.
-    type: Fix
-  id: 405914
-  time: '2026-06-11T17:04:03.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4729
-- author: Johnny
-  changes:
-  - message: (Reach) Mega chad mega thrusters.
-    type: Add
-  id: 405915
-  time: '2026-06-11T17:30:34.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4702
-- author: Johnny
-  changes:
-  - message: (Reach) Theres an actual armoury and nuke now.
-    type: Add
-  id: 405916
-  time: '2026-06-11T17:30:34.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4702
-- author: Johnny
-  changes:
-  - message: (Reach) Itty bitty STUPID thrusters.
-    type: Remove
-  id: 405917
-  time: '2026-06-11T17:30:34.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4702
-- author: Johnny
-  changes:
-  - message: (Reach) Piping reworked to use pipe layering system.
-    type: Tweak
-  id: 405918
-  time: '2026-06-11T17:30:34.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4702
-- author: Johnny
-  changes:
-  - message: (Reach) Departments have been moved around to make it less cramped.
-    type: Tweak
-  id: 405919
-  time: '2026-06-11T17:30:34.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4702
-- author: salarua
-  changes:
-  - message: 'AAC tablet software has been updated: There are now buttons for aielith, IPC, and protogen in the Species tab.'
-    type: Add
-  id: 405920
-  time: '2026-06-11T20:35:35.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4726
 - author: wonderfulnewworld, A-Loose-Goose
   changes:
   - message: DAGD Traitors now get 15 more TC and get access to the entire Nuclear Operative/Lone Op uplink, minus Zombies and some duplicate redundancies.
@@ -2799,4 +2736,67 @@ Entries:
   id: 406311
   time: '2026-06-30T15:27:36.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4956
+- author: Johnny
+  changes:
+  - message: (Reach) Added a parallax to the background that looks nice!
+    type: Add
+  id: 406312
+  time: '2026-07-01T08:09:44.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4946
+- author: Johnny
+  changes:
+  - message: (Reach) Multiple heads of staffs offices, such as CMO and QM.
+    type: Add
+  id: 406313
+  time: '2026-07-01T08:09:44.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4946
+- author: Johnny
+  changes:
+  - message: (Reach) Station anchor in the back incase the shuttle needs to anchor in place.
+    type: Add
+  id: 406314
+  time: '2026-07-01T08:09:44.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4946
+- author: Johnny
+  changes:
+  - message: (Reach) Reach is now able to FTL, do with this information what you will.
+    type: Add
+  id: 406315
+  time: '2026-07-01T08:09:44.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4946
+- author: Johnny
+  changes:
+  - message: (Reach) Reach's main orientation faces north instead of east, meaning bridge is up engineering is down.
+    type: Tweak
+  id: 406316
+  time: '2026-07-01T08:09:44.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4946
+- author: Johnny
+  changes:
+  - message: (Reach) Medical has been changed to hopefully be better.
+    type: Tweak
+  id: 406317
+  time: '2026-07-01T08:09:44.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4946
+- author: Johnny
+  changes:
+  - message: (Reach) Engineering has been altered to hopefully be better.
+    type: Tweak
+  id: 406318
+  time: '2026-07-01T08:09:44.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4946
+- author: Johnny
+  changes:
+  - message: (Reach) Multiple rooms have been expanded to hopefully be better.
+    type: Tweak
+  id: 406319
+  time: '2026-07-01T08:09:44.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4946
+- author: Johnny
+  changes:
+  - message: (Reach) Some pipes and cables were missing, nothing too bad but its fixed now.
+    type: Fix
+  id: 406320
+  time: '2026-07-01T08:09:44.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4946
 Order: -1
