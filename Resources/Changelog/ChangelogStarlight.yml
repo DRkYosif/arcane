@@ -1,18 +1,4 @@
 Entries:
-- author: RenMeow1
-  changes:
-  - message: Replaced all protogen sub species audio clips.
-    type: Add
-  id: 405942
-  time: '2026-06-12T10:37:59.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4715
-- author: RenMeow1
-  changes:
-  - message: Updated attributions files with updated details as the file were recreated and not the original protogen sub species audio clips.
-    type: Tweak
-  id: 405943
-  time: '2026-06-12T10:37:59.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4715
 - author: wonderfulnewworld, Princess-Cheeseballs
   changes:
   - message: Rebalanced the syndicate reinforcement specializations to be more effective at their roles.
@@ -2799,4 +2785,18 @@ Entries:
   id: 406341
   time: '2026-07-02T14:15:01.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4979
+- author: Conflee
+  changes:
+  - message: Updated Basilisk, Goliath, and Hivelord/Brood sprites. Basilisk and Goliath use the newer TGstation sprites, while Hivelord/Brood is an edit by myself.
+    type: Tweak
+  id: 406342
+  time: '2026-07-02T20:33:04.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4966
+- author: Conflee
+  changes:
+  - message: Updated the Goliath Meat, Goliath Steak, Goliath Hide, and Goliath Cloak/Hood sprites, to use newer TGstation sprites.
+    type: Tweak
+  id: 406343
+  time: '2026-07-02T20:33:04.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4966
 Order: -1
