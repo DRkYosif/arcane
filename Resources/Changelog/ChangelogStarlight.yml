@@ -1,18 +1,4 @@
 Entries:
-- author: wonderfulnewworld, A-Loose-Goose
-  changes:
-  - message: Fixed a lot of typos in the Syndicate Uplink. (Cybersan, missing periods, .50 shotgun ammo).
-    type: Fix
-  id: 405929
-  time: '2026-06-11T20:35:37.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4501
-- author: pmjanus
-  changes:
-  - message: The Corporate Frontier, Fringe, Hunted, Paradox Clone, and USSP backgrounds now apply correctly instead of silently doing nothing.
-    type: Fix
-  id: 405930
-  time: '2026-06-11T21:20:06.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4723
 - author: Caws
   changes:
   - message: Shadekin now actually die when using the 'Succumb' or 'Say Last Words' actions while critically injured.
@@ -2799,4 +2785,18 @@ Entries:
   id: 406328
   time: '2026-07-01T08:41:22.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4962
+- author: redmushie
+  changes:
+  - message: The Arrivals and Evacuation shuttles now actually try to dock to the station instead of just the largest grid.
+    type: Fix
+  id: 406329
+  time: '2026-07-02T08:16:05.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4969
+- author: redmushie
+  changes:
+  - message: The Arrivals shuttle now actually prefers Arrivals docking ports.
+    type: Fix
+  id: 406330
+  time: '2026-07-02T08:16:05.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4969
 Order: -1
