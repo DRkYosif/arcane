@@ -1,13 +1,6 @@
 Entries:
 - author: Vincolan
   changes:
-  - message: Added Reporter Press vest.
-    type: Add
-  id: 406014
-  time: '2026-06-15T17:00:14.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4770
-- author: Vincolan
-  changes:
   - message: Added Reporter Time requirement of 4 Hours.
     type: Add
   id: 406015
@@ -2799,4 +2792,11 @@ Entries:
   id: 406413
   time: '2026-07-04T09:06:07.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/5004
+- author: Sparlight
+  changes:
+  - message: Revised random smart corgi name datasets to align with a consistent naming theme.
+    type: Tweak
+  id: 406414
+  time: '2026-07-04T09:06:09.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4990
 Order: -1
