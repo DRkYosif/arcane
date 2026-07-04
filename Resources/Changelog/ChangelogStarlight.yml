@@ -1,20 +1,6 @@
 Entries:
 - author: Vincolan
   changes:
-  - message: Added Holopin.
-    type: Add
-  id: 406012
-  time: '2026-06-15T17:00:14.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4770
-- author: Vincolan
-  changes:
-  - message: Added Reporter Stamp.
-    type: Add
-  id: 406013
-  time: '2026-06-15T17:00:14.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4770
-- author: Vincolan
-  changes:
   - message: Added Reporter Press vest.
     type: Add
   id: 406014
@@ -2799,4 +2785,18 @@ Entries:
   id: 406411
   time: '2026-07-04T08:35:30.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4984
+- author: wonderfulnewworld
+  changes:
+  - message: DAGDs will no longer roll story objectives.
+    type: Fix
+  id: 406412
+  time: '2026-07-04T09:06:07.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/5004
+- author: wonderfulnewworld
+  changes:
+  - message: DAGDs can no longer accidentally be targets of help objectives.
+    type: Fix
+  id: 406413
+  time: '2026-07-04T09:06:07.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/5004
 Order: -1
