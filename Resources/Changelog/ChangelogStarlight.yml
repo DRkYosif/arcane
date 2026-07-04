@@ -1,13 +1,6 @@
 Entries:
 - author: wonderfulnewworld
   changes:
-  - message: Protogen can now heal Cellular and Poison with Uranium Glass/Reinforced Uranium Glass. (2.5 and 5 respectively.). This has also been added to the guidebook.
-    type: Add
-  id: 405951
-  time: '2026-06-12T12:10:35.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4739
-- author: wonderfulnewworld
-  changes:
   - message: Protogen organs now appear in the spawn menu.
     type: Tweak
   id: 405952
@@ -2799,4 +2792,11 @@ Entries:
   id: 406350
   time: '2026-07-03T15:59:07.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4999
+- author: Johnny
+  changes:
+  - message: Added some trait restrictions to both command and NT staff.
+    type: Add
+  id: 406351
+  time: '2026-07-04T06:44:35.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4976
 Order: -1
