@@ -1,13 +1,6 @@
 Entries:
 - author: wonderfulnewworld
   changes:
-  - message: Tweaked abductor scaling, to try and get the additional ones to spawn more often.
-    type: Tweak
-  id: 406038
-  time: '2026-06-16T10:27:36.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4794
-- author: wonderfulnewworld
-  changes:
   - message: Vampires and Changelings now have an equal chance to show up on gamemodes they're both allowed to show up in.
     type: Tweak
   id: 406039
@@ -2799,4 +2792,11 @@ Entries:
   id: 406437
   time: '2026-07-05T15:10:14.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4992
+- author: Musikly
+  changes:
+  - message: Changed name of the speed cyberlimb from "speg" to "speed leg".
+    type: Tweak
+  id: 406438
+  time: '2026-07-05T15:48:37.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/5017
 Order: -1
