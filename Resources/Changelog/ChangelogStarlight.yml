@@ -1,13 +1,6 @@
 Entries:
 - author: Way
   changes:
-  - message: (Hotel) More decal and tile tweaks.
-    type: Tweak
-  id: 406030
-  time: '2026-06-16T10:27:03.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4791
-- author: Way
-  changes:
   - message: (Bagel) Added new fax machines.
     type: Add
   id: 406031
@@ -2799,4 +2792,11 @@ Entries:
   id: 406429
   time: '2026-07-05T13:16:01.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/5009
+- author: Mack
+  changes:
+  - message: Cyberarm tool icons not showing for some species.
+    type: Fix
+  id: 406430
+  time: '2026-07-05T14:08:25.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4986
 Order: -1
