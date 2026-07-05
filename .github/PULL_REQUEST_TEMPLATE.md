@@ -1,29 +1,54 @@
-## Short description
-<!-- What do you propose to change with your PR? -->
+<!-- Текст между стрелками - это комментарии - они не будут видны в вашем PR. -->
 
-## Why we need to add this
-<!-- What is the reason for adding these changes? Please post links to Discussions as well as Bug Reports here. Please describe how this will change the game balance. -->
+# Описание PR
+<!-- Опишите здесь ваш Pull Request (PR). Что он изменяет? На что еще это может повлиять? -->
 
-## Media (Video/Screenshots)
-<!--
-If your PR contains in-game changes you must provide screenshots/videos of the changes.
+## Медиа
+<!-- Добавьте скриншоты/видео, для демонстрации вашего PR. Если ваш PR представляет собой визуальное изменение, добавьте скриншоты, иначе он может быть закрыт. -->
+
+<!-- Место для вашего чек-листа, здесь можно составить список, к примеру того, что вы хотите сделать.
+## Чек-лист
+
+- [x] Я сделаю хорошее
 -->
 
-## Checks
-<!-- check boxes for faster reviewing of your PR -->
+## Тип PR
+<!-- Подходите ответственно к пометке этих пунктов, для этого необходимо поставить английскую "x" между квадратных скобок -->
 
-- [ ] I do not require assistance to complete the PR.
-- [ ] Before posting/requesting review of a PR, I have verified that the changes work.
-- [ ] I have added screenshots/videos of the changes, or this PR does not change in-game mechanics.
-- [ ] I affirm that my changes are licensed under the [MIT License](https://github.com/ss14Starlight/space-station-14/blob/Starlight/LICENSE.TXT) and grant permission for use in this repository under its conditions.
+- [ ] Feature
+- [ ] Fix
+- [ ] Tweak
+- [ ] Balance
+- [ ] Refactor
+- [ ] Port
+- [ ] Translate
+- [ ] Resprite
 
-**Changelog**
+## Лицензионное соглашение
+<!-- Согласие с CLA означает: Arcane14 Organization получает право использовать, модифицировать и распространять внесённые изменения в рамках условий лицензии -->
+<!-- ⚠️ Отказ от лицензионного соглашения может повлечь за собой закрытие вашего PR ⚠️ -->
+
+- [x] Я согласен с лицензионным соглашением Contributor License Agreement, для Arcane14 Organization.
+
+**Изменения**
 <!--
-If you want the players to know about changes made in this PR, specify them using the template outside the comment. Short and informative.
+Здесь вы можете написать список изменений, который будет автоматически добавлен в игру, когда ваш PR будет принят
+Для записей в списке изменений есть 4 значка: add, remove, tweak, fix. Думаю, вы сможете разобраться с остальным.
 
-:cl: STARLIGHT TEAM
-- add: Added Starlight.
-- remove: Removed SS13.
-- tweak: Changed SS14.
-- fix: Fixed Rinary.
+Вы можете поставить свой ник после символа :cl:, чтобы изменить ник, который будет отображаться в журнале изменений (в противном случае будет использоваться ник вашего аккаунта GitHub)
+Например: ":cl: PuroSlavKing".
+
+Как правило, в журналы изменений следует помещать только то, что действительно важно игрокам. Вещи вроде "Рефактор системы X, но изменений вы не увидите" - не должны быть в журнале изменений, эти изменения обычные игроки не смогут заметить.
+
+При написании списка изменений НЕ считайте суффикс типа записи (например, add) "частью" предложения:
+Плохо: - add: Хирургия может вырезать яйца.
+Хорошо: - add: Добавлена хирургическая операция, которая позволяет вырезать яйца.
+-->
+
+<!-- Не забудьте убрать стрелки, что-бы changelog отображался, если вы считаете, что он нужен.
+:cl:
+- add: Добавлено веселье.
+- remove: Убрано веселье.
+- tweak: Изменено веселье.
+- fix: Исправлено веселье.
 -->
