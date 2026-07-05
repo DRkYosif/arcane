@@ -1,11 +1,4 @@
 Entries:
-- author: CrazyPhantom
-  changes:
-  - message: The rules tab is now near the top of the guidebook.
-    type: Tweak
-  id: 406045
-  time: '2026-06-16T12:07:12.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4820
 - author: AegisShield
   changes:
   - message: Fixed Xenoroaches having flash immunity.
@@ -2799,4 +2792,11 @@ Entries:
   id: 406444
   time: '2026-07-05T17:08:24.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/4970
+- author: ku-mo
+  changes:
+  - message: Rodentia's glowing hair now properly displaces.
+    type: Fix
+  id: 406445
+  time: '2026-07-05T17:08:26.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/4994
 Order: -1
