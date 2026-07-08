@@ -1,13 +1,6 @@
 Entries:
 - author: Johnny
   changes:
-  - message: Added the Pioneer as a buyable ship in the shipyard.
-    type: Add
-  id: 406065
-  time: '2026-06-17T08:31:53.000000+00:00'
-  url: https://github.com/ss14Starlight/space-station-14/pull/4810
-- author: Johnny
-  changes:
   - message: Added the Breaker as a buyable ship in the shipyard.
     type: Add
   id: 406066
@@ -2799,4 +2792,11 @@ Entries:
   id: 406464
   time: '2026-07-08T09:15:52.000000+00:00'
   url: https://github.com/ss14Starlight/space-station-14/pull/5040
+- author: OMEGA
+  changes:
+  - message: Air alarms can now be labeled.
+    type: Tweak
+  id: 406465
+  time: '2026-07-08T11:11:30.000000+00:00'
+  url: https://github.com/ss14Starlight/space-station-14/pull/5037
 Order: -1
