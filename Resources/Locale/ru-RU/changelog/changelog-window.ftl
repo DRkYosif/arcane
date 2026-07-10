@@ -11,7 +11,7 @@ changelog-version-tag = { $fork }/{ $version }
 changelog-button = Обновления
 changelog-button-new-entries = Обновления (!)
 
-changelog-tab-title-Changelog = Список изменений
+changelog-tab-title-Changelog = WizDen изменения
 changelog-tab-title-Admin = Админское
 changelog-tab-title-Maps = Карты
 changelog-tab-title-Rules = Правила
