@@ -6,9 +6,11 @@ namespace Content.IntegrationTests.Tests._Starlight.Localization;
 public sealed class PluralizationTests
 {
     [Test]
-    [TestCase(3, "cow", "There were 3 cows.")]
-    [TestCase(3, "thief", "There were 3 thieves.")]
-    [TestCase(3, "carp", "There were 3 carp.")]
+    // Arcane-loc-start
+    [TestCase(3, "cow", "Было 3 cow.")]
+    [TestCase(3, "thief", "Было 3 thief.")]
+    [TestCase(3, "carp", "Было 3 carp.")]
+    // Arcane-loc-end
     public async Task EORPluralizationTest(int count, string antag, string expected)
     {
         await using var pair = await PoolManager.GetServerClient();

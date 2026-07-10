@@ -3,7 +3,8 @@ name: Update Changelog
 on:
   push:
     branches:
-      - master
+      - arcane-dev
+      - arcane
 
 
 permissions:

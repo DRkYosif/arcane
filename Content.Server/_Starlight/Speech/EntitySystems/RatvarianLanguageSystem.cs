@@ -28,11 +28,12 @@ public sealed partial class RatvarianLanguageSystem : SharedRatvarianLanguageSys
         * This only applies if they're being used as a proper noun: armorer/Nezbere
      */
 
-    [GeneratedRegex(@"ti\B", RegexOptions.IgnoreCase | RegexOptions.Compiled, "en-US")]
+    // Arcane-locale-start
+    [GeneratedRegex(@"ti\B", RegexOptions.IgnoreCase | RegexOptions.Compiled, "ru-RU")]
     private static partial Regex TIPattern();
-    [GeneratedRegex(@"\b(\s)(and)(\s)", RegexOptions.IgnoreCase | RegexOptions.Compiled, "en-US")]
+    [GeneratedRegex(@"\b(\s)(and)(\s)", RegexOptions.IgnoreCase | RegexOptions.Compiled, "ru-RU")]
     private static partial Regex ANDPattern();
-    [GeneratedRegex(@"(gu)(a)", RegexOptions.IgnoreCase | RegexOptions.Compiled, "en-US")]
+    [GeneratedRegex(@"(gu)(a)", RegexOptions.IgnoreCase | RegexOptions.Compiled, "ru-RU")]
     private static partial Regex GUAPattern();
     [GeneratedRegex(@"(\s)(of)")]
     private static partial Regex OFPattern();
@@ -40,11 +41,12 @@ public sealed partial class RatvarianLanguageSystem : SharedRatvarianLanguageSys
     private static partial Regex TEPattern();
     [GeneratedRegex(@"\Bet", RegexOptions.Compiled)]
     private static partial Regex ETPattern();
-    [GeneratedRegex(@"th\w\B", RegexOptions.IgnoreCase | RegexOptions.Compiled, "en-US")]
+    [GeneratedRegex(@"th\w\B", RegexOptions.IgnoreCase | RegexOptions.Compiled, "ru-RU")]
     private static partial Regex THPattern();
-    [GeneratedRegex(@"(to|my)\s", RegexOptions.IgnoreCase | RegexOptions.Compiled, "en-US")]
+    [GeneratedRegex(@"(to|my)\s", RegexOptions.IgnoreCase | RegexOptions.Compiled, "ru-RU")]
     private static partial Regex TOMYPattern();
-    [GeneratedRegex(@"(ratvar)|(nezbere)|(sevtuq)|(nzcrentr)|(inath-neq)", RegexOptions.IgnoreCase | RegexOptions.Compiled, "en-US")]
+    [GeneratedRegex(@"(ratvar)|(nezbere)|(sevtuq)|(nzcrentr)|(inath-neq)", RegexOptions.IgnoreCase | RegexOptions.Compiled, "ru-RU")]
+    // Arcane-locale-end
     private static partial Regex ProperNouns();
 
     public override void Initialize() =>

@@ -20,7 +20,7 @@ public sealed partial class PreWrittenDocumentManager: IEntityEventSubscriber
     private Dictionary<string, string> _nameToDocument = new();
 
     private const string DocumentsPath = "/Documents/";
-    private const string FallbackLocalization = "en-US";
+    private const string FallbackLocalization = "ru-RU"; // Arcane-locale
 
     private const string ValidExtension = "txt";
 

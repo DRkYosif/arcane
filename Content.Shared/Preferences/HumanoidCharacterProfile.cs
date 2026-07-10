@@ -31,7 +31,7 @@ namespace Content.Shared.Preferences
     [Serializable, NetSerializable]
     public sealed partial class HumanoidCharacterProfile : ICharacterProfile
     {
-        private static readonly Regex RestrictedNameRegex = new(@"[^A-Za-z0-9 '\-,]"); //Starlight edit, allow commas
+        private static readonly Regex RestrictedNameRegex = new(@"[^\p{L}\p{M}\p{N} '\-,]"); // Arcane loc
         private static readonly Regex ICNameCaseRegex = new(@"^(?<word>\w)|\b(?<word>\w)(?=\w*$)");
 
         /// <summary>
@@ -624,6 +624,7 @@ namespace Content.Shared.Preferences
             if (configManager.GetCVar(CCVars.RestrictedNames))
             {
                 name = RestrictedNameRegex.Replace(name, string.Empty);
+                name = name.Trim(); // Arcane loc
             }
 
             if (configManager.GetCVar(CCVars.ICNameCase))
