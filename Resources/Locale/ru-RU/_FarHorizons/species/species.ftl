@@ -1,25 +1,25 @@
-species-name-ipc = IPC
+species-name-ipc = МПК
 
-species-name-protogen = Protogen
-guidebook-armor-protogen = Protogen Frames
+species-name-protogen = Протоген
+guidebook-armor-protogen = Корпусы протогенов
 # Starlight, Protogen Frames, True Protogen, Proto Laspi, Human, Felionoid, Dwarf, and Cyclorite renamed
-subspecies-name-trueprotogen = True Protogen
-subspecies-name-protovulp = Proto-Vulpkanin
-subspecies-name-protovox = Proto-Vox
-subspecies-name-protothaven = Proto-Thaven
-subspecies-name-protoslimeperson = Proto-Laspi
-subspecies-name-protokin = Proto-Kin
-subspecies-name-protoresomi = Proto-Resomi
-subspecies-name-protoreptilian = Proto-Reptilian
-subspecies-name-protomoth = Proto-Moth
-subspecies-name-protohuman = Proto-Human
-subspecies-name-protofelionoid = Proto-Felionoid
-subspecies-name-protodwarf = Proto-Dwarf
-subspecies-name-protodiona = Proto-Diona
-subspecies-name-protocyclorite = Proto-Cyclorite
-subspecies-name-protoavali = Proto-Avali
-subspecies-name-protoarachnid = Proto-Arachnid
+subspecies-name-trueprotogen = Истинный протоген
+subspecies-name-protovulp = Прото-вульпканин
+subspecies-name-protovox = Прото-вокс
+subspecies-name-protothaven = Прото-тейвен
+subspecies-name-protoslimeperson = Прото-слаймолюд
+subspecies-name-protokin = Прото-кин
+subspecies-name-protoresomi = Прото-резоми
+subspecies-name-protoreptilian = Прото-унатх
+subspecies-name-protomoth = Прото-ниан
+subspecies-name-protohuman = Прото-человек
+subspecies-name-protofelionoid = Прото-фелинид
+subspecies-name-protodwarf = Прото-дворф
+subspecies-name-protodiona = Прото-диона
+subspecies-name-protocyclorite = Прото-циклорит
+subspecies-name-protoavali = Прото-авали
+subspecies-name-protoarachnid = Прото-арахнид
 
 # Starlight Species added after Protogens
-subspecies-name-protoelf = Proto-Aielithii
-subspecies-name-protolagomorph = Proto-Lagomorph
+subspecies-name-protoelf = Прото-айелит
+subspecies-name-protolagomorph = Прото-зайцеморф

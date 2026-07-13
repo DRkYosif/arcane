@@ -40,3 +40,39 @@ names-borg-dataset-39 = Хонкер
 names-borg-dataset-40 = Это-Робот
 names-borg-dataset-41 = 9 из 7
 names-borg-dataset-42 = Промозглый бот
+
+names-borg-dataset-43 = сырой бот
+
+names-borg-dataset-44 = Килобит
+
+names-borg-dataset-45 = Гигабитный
+
+names-borg-dataset-46 = Мегабит
+
+names-borg-dataset-47 = Рисоварка
+
+names-borg-dataset-48 = Чип
+
+names-borg-dataset-49 = Сервопривод
+
+names-borg-dataset-50 = ФуБар
+
+names-borg-dataset-51 = Последователь
+
+names-borg-dataset-52 = Рука помощи
+
+names-borg-dataset-53 = Борг-сан
+
+names-borg-dataset-54 = Килобайт
+
+names-borg-dataset-55 = минус 32
+
+names-borg-dataset-56 = Эль Борго
+
+names-borg-dataset-57 = Погремушка
+
+names-borg-dataset-58 = Твердая сталь
+
+names-borg-dataset-59 = Клак
+
+names-borg-dataset-60 = Сеньор Борго

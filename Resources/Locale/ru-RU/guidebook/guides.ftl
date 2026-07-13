@@ -136,6 +136,7 @@ guide-entry-secret-recipes = Секретные
 guide-entry-lawsets = Наборы законов синтетиков
 
 guide-entry-antagonists = Антагонисты
+guide-entry-changelings = Генокрады
 guide-entry-nuclear-operatives = Ядерные оперативники
 guide-entry-traitors = Предатели
 guide-entry-zombies = Зомби
@@ -145,6 +146,11 @@ guide-entry-space-ninja = Космический ниндзя
 guide-entry-thieves = Воры
 guide-entry-wizard = Волшебник
 guide-entry-xenoborgs = Ксеноборги
+guide-entry-vampires = Вампиры
+guide-entry-vampire-hemomancer = Гемомант
+guide-entry-vampire-umbrae = Умбра
+guide-entry-vampire-dantalion = Данталион
+guide-entry-vampire-gargantua = Гаргантюа
 
 guide-entry-rules = Правила сервера
 guide-entry-rules-core-only = Только основные правила

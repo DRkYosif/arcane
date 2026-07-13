@@ -1,28 +1,28 @@
-roles-req-any-role-required-pass = You require any of the following roles on {$discord}: [color=limegreen]{$roles}[/color].
-roles-req-any-role-required-fail = You require any of the following roles on {$discord}: [color=yellow]{$roles}[/color].
+roles-req-any-role-required-pass = Требуется одна из следующих ролей в {$discord}: [color=limegreen]{$roles}[/color].
+roles-req-any-role-required-fail = Требуется одна из следующих ролей в {$discord}: [color=yellow]{$roles}[/color].
 
 requirements-playtime =
     { $tracker ->
-        [overall] You still need {$time} of total gameplay time on the {$server} server.
-       *[other] You still need {$time} of gameplay time for {$tracker} on the {$server} server.
+        [overall] Вам не хватает {$time} общего игрового времени на сервере {$server}.
+       *[other] Вам не хватает {$time} игрового времени в категории «{$tracker}» на сервере {$server}.
     }
 
 roles-req-discord-starlight = 🌟 STARLIGHT 🌟
-roles-req-discord-wizden = Wizden
+roles-req-discord-wizden = Визден
 
-roles-req-mentor-roles = mentor
-roles-req-all-roles = staff or mentor
-roles-req-ext-roles = staff, mentor, or ExtRoles
-roles-req-tester-roles = alfa or beta tester (It’s no longer possible to retrieve)
-roles-req-gold-event-winner = gold event winner
-roles-req-staff-roles = staff
-roles-req-manager-roles = --Server Leadership--
-roles-req-patron-roles = patron
-roles-req-carpgames-roles = Carp Games Winner
-roles-req-ticketsadministrator-roles = Tickets Administrator
-roles-req-first-writing-roles = First Writing Contest Winner
-roles-req-senior-developer = Senior Developer
-roles-req-developer = Developer
+roles-req-mentor-roles = наставник
+roles-req-all-roles = администрация или наставник
+roles-req-ext-roles = администрация, наставник или внешняя роль
+roles-req-tester-roles = альфа- или бета-тестер (эту роль больше нельзя получить)
+roles-req-gold-event-winner = победитель золотого события
+roles-req-staff-roles = администрация
+roles-req-manager-roles = --Руководство сервера--
+roles-req-patron-roles = покровитель
+roles-req-carpgames-roles = Победитель Карповых игр
+roles-req-ticketsadministrator-roles = администратор тикетов
+roles-req-first-writing-roles = Победитель первого конкурса сочинений
+roles-req-senior-developer = старший разработчик
+roles-req-developer = разработчик
 
-triesteport-main = TRIESTEPORT
-overall = overall
+triesteport-main = ТРИЕСТПОРТ
+overall = общее

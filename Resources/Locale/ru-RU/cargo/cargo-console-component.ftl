@@ -98,3 +98,9 @@ cargo-acquisition-slip-body = [head=3]Детали актива[/head] { "[bold]
     { "[head=3]Детали покупки[/head]" }
     { "[bold]Заказчик:[/bold]" } { $orderer }
     { "[bold]Причина:[/bold]" } { $reason }
+
+cargo-console-menu-order-reason-description = Причина: {$reason}
+
+cargo-console-menu-cargo-order-row-approve-button = Подтвердить
+
+cargo-console-menu-cargo-order-row-cancel-button = Отмена

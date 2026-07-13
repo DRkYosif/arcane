@@ -1,5 +1,5 @@
 # Funky atmos - /tg/ gases
-gases-bz = БЖ
+gases-bz = БЗ
 gases-healium = Хелиум
 gases-nitrium = Нитрий
 gases-pluoxium = Плуоксий

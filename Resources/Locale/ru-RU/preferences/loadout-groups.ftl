@@ -222,3 +222,5 @@ loadout-group-brigmedic-jumpsuit = комбинезон бригмедика
 loadout-group-brigmedic-outerclothing = верхняя одежда бригмедика
 loadout-group-captain-eyewear = очки капитана
 loadout-group-security-eyewear = очки службы безопасности
+
+loadout-group-security-weapon = Оружие безопасности

@@ -55,3 +55,7 @@ station-ai-hologram-male = Мужской образ
 station-ai-hologram-face = Бестелесная голова
 station-ai-hologram-cat = Форма кота
 station-ai-hologram-dog = Форма корги
+
+station-ai-customization-menu-label-rename = Новое имя:
+
+station-ai-customization-name = Переименовать

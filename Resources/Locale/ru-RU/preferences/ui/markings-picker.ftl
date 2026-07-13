@@ -1,4 +1,14 @@
 markings-search = Поиск
+markings-used = Выбранные маркинги
+markings-unused = Доступные маркинги
+markings-add = Добавить маркинг
+markings-remove = Удалить маркинг
+markings-rank-up = Выше
+markings-rank-down = Ниже
+marking-points-remaining = Осталось маркингов: { $points }
+marking-slot-add = Добавить
+marking-slot-remove = Удалить
+marking-slot = Слот { $number }
 -markings-selection = { $selectable ->
     [0] Вы больше не можете выбрать черту.
     [one] Вы можете выбрать еще одну черту.
@@ -27,6 +37,20 @@ humanoid-marking-modifier-enable = Включить
 humanoid-marking-modifier-prototype-id = ID прототипа:
 
 # Categories
+
+markings-category-Hair = Волосы
+markings-category-FacialHair = Растительность на лице
+markings-category-Head = Голова
+markings-category-HeadTop = Верх головы
+markings-category-HeadSide = Боковая часть головы
+markings-category-Snout = Морда
+markings-category-Chest = Туловище
+markings-category-UndergarmentTop = Верхнее нижнее бельё
+markings-category-UndergarmentBottom = Нижнее бельё
+markings-category-Arms = Руки
+markings-category-Legs = Ноги
+markings-category-Tail = Хвост
+markings-category-Overlay = Наложение
 
 markings-organ-Torso = Туловище
 markings-organ-Head = Голова
@@ -65,3 +89,16 @@ markings-layer-LFoot = Левая стопа
 markings-layer-Overlay = Наложение
 markings-layer-TailOverlay = Наложение
 
+marking-used = {$marking-name}
+
+marking-used-forced = {$marking-name} (принудительно)
+
+humanoid-marking-modifier-force = Принудительно
+
+humanoid-marking-modifier-ignore-species = Игнорировать расу
+
+markings-category-Special = Особенный
+
+markings-category-Eyes = Глаза
+
+markings-category-SnoutCover = Морда (Наложение)

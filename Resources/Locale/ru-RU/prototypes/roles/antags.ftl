@@ -6,6 +6,8 @@ roles-antag-generic-team-antagonist-name = Командный антагонис
 
 roles-antag-generic-silicon-antagonist-name = Синтетик антагонист
 
+roles-antag-changeling-description = Используйте способности к изменению облика, чтобы выполнить свои задачи.
+
 roles-antag-syndicate-agent-name = Агент Синдиката
 roles-antag-syndicate-agent-objective = Выполните свои задачи и не попадитесь.
 

@@ -1,17 +1,17 @@
-signal-port-name-nuclear-reactor-data-receiver = Reactor Monitor
-signal-port-description-nuclear-reactor-data-receiver = Receiving info about a nuclear reactor.
+signal-port-name-nuclear-reactor-data-receiver = Данные реактора
+signal-port-description-nuclear-reactor-data-receiver = Получает данные о состоянии ядерного реактора для отображения на мониторе.
 
-signal-port-name-nuclear-reactor-receiver-insert = Control Rods In
-signal-port-description-nuclear-reactor-receiver-insert = Increases the insertion level of the control rods.
+signal-port-name-nuclear-reactor-receiver-insert = Погрузить стержни
+signal-port-description-nuclear-reactor-receiver-insert = Увеличивает глубину погружения регулирующих стержней.
 
-signal-port-name-nuclear-reactor-receiver-retract = Control Rods Out
-signal-port-description-nuclear-reactor-receiver-retract = Decreases the insertion level of the control rods.
+signal-port-name-nuclear-reactor-receiver-retract = Извлечь стержни
+signal-port-description-nuclear-reactor-receiver-retract = Уменьшает глубину погружения регулирующих стержней.
 
-signal-port-name-gas-turbine-data-receiver = Turbine Monitor
-signal-port-description-gas-turbine-data-receiver = Receiving info about a gas turbine.
+signal-port-name-gas-turbine-data-receiver = Данные турбины
+signal-port-description-gas-turbine-data-receiver = Получает данные о состоянии газовой турбины для отображения на мониторе.
 
-signal-port-name-gas-turbine-receiver-increase = Increase Load
-signal-port-description-gas-turbine-receiver-increase = Increases the stator load of the turbine.
+signal-port-name-gas-turbine-receiver-increase = Увеличить нагрузку
+signal-port-description-gas-turbine-receiver-increase = Увеличивает нагрузку статора турбины.
 
-signal-port-name-gas-turbine-receiver-decrease = Decrease Load
-signal-port-description-gas-turbine-receiver-decrease = Decreases the stator load of the turbine.
+signal-port-name-gas-turbine-receiver-decrease = Уменьшить нагрузку
+signal-port-description-gas-turbine-receiver-decrease = Уменьшает нагрузку статора турбины.

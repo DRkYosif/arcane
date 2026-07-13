@@ -1,5 +1,5 @@
-ghost-role-information-eeeplet-name = Eeeplet
-ghost-role-information-eeeplet-desc = As a baby electric sheep your favourite food is power sourced from your local station, and you're very hungry.
+ghost-role-information-eeeplet-name = Детёныш электрической овцы
+ghost-role-information-eeeplet-desc = Будучи детёнышем электрической овцы, ваша любимая еда — это энергия, получаемая от местной электростанции, и вы очень голодны.
 
-ghost-role-information-eeep-name = Eeep
-ghost-role-information-eeep-desc = A bad-tempered and fully grown Electric sheep.
+ghost-role-information-eeep-name = Электрическая овца
+ghost-role-information-eeep-desc = Злая и взрослая электрическая овца.

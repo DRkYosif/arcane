@@ -1,46 +1,46 @@
 ### Popups
-reactor-smoke-start = {CAPITALIZE(THE($owner))} begins to smoke!
-reactor-smoke-stop = {CAPITALIZE(THE($owner))} stops smoking.
-reactor-fire-start = {CAPITALIZE(THE($owner))} begins to burn!
-reactor-fire-stop = {CAPITALIZE(THE($owner))} stops burning.
+reactor-smoke-start = {CAPITALIZE(THE($owner))} начинает дымиться!
+reactor-smoke-stop = {CAPITALIZE(THE($owner))} перестает дымиться.
+reactor-fire-start = {CAPITALIZE(THE($owner))} начинает гореть!
+reactor-fire-stop = {CAPITALIZE(THE($owner))} перестает гореть.
 
-reactor-unanchor-melted = You cannot unanchor {THE($owner)}, it's melted into the hull!
-reactor-unanchor-warning = You cannot unanchor {THE($owner)} while it's not empty or hotter than 80C!
-reactor-anchor-warning = Invalid anchor position.
+reactor-unanchor-melted = Вы не можете отсоединить {THE($owner)}, он вплавился в корпус!
+reactor-unanchor-warning = Вы не можете отсоединить {THE($owner)}, пока он не пуст и не нагрелся выше 80C!
+reactor-anchor-warning = Неверное положение привязки.
 
 ### Messages
-reactor-smoke-start-message = ALERT: {CAPITALIZE(THE($owner))} has reached a dangerous temperature: {$temperature}K. Intervene immediately to prevent meltdown.
-reactor-smoke-stop-message = {CAPITALIZE(THE($owner))} has cooled below dangerous temperature. Have a nice day.
-reactor-fire-start-message = ALERT: {CAPITALIZE(THE($owner))} has reached CRITICAL temperature: {$temperature}K. MELTDOWN IMMINENT.
-reactor-fire-stop-message = {CAPITALIZE(THE($owner))} has cooled below critical temperature. Meltdown averted.
+reactor-smoke-start-message = ПРЕДУПРЕЖДЕНИЕ: {CAPITALIZE(THE($owner))} достиг опасной температуры: {$temperature}K. Немедленно вмешайтесь, чтобы предотвратить расплавние.
+reactor-smoke-stop-message = {CAPITALIZE(THE($owner))} остыл ниже опасной температуры. Хорошего дня.
+reactor-fire-start-message = ПРЕДУПРЕЖДЕНИЕ: {CAPITALIZE(THE($owner))} достиг КРИТИЧЕСКОЙ температуры: {$temperature}K. РАСПЛАВЛЕНИЕ НЕИЗБЕЖНО.
+reactor-fire-stop-message = {CAPITALIZE(THE($owner))} остыл ниже критической температуры. Крах предотвращен.
 
-reactor-temperature-dangerous-message = {CAPITALIZE(THE($owner))} is at dangerous temperature: {$temperature}K.
-reactor-temperature-critical-message = {CAPITALIZE(THE($owner))} is at critical temperature: {$temperature}K.
-reactor-temperature-cooling-message = {CAPITALIZE(THE($owner))} is cooling: {$temperature}K.
+reactor-temperature-dangerous-message = {CAPITALIZE(THE($owner))} имеет опасную температуру: {$temperature}K.
+reactor-temperature-critical-message = {CAPITALIZE(THE($owner))} имеет критическую температуру: {$temperature}K.
+reactor-temperature-cooling-message = {CAPITALIZE(THE($owner))} охлаждается: {$temperature}K.
 
-reactor-melting-announcement = A nuclear reactor aboard the station is beginning to meltdown. Evacuation of the surrounding area is advised.
-reactor-melting-announcement-sender = Nuclear Emergency
+reactor-melting-announcement = Ядерный реактор на борту станции начинает выходить из строя. Рекомендуется эвакуироваться с ближайшей к станции территории.
+reactor-melting-announcement-sender = Ядерная чрезвычайная ситуация
 
-reactor-meltdown-announcement = A nuclear reactor aboard the station has catastrophically overloaded. Radioactive debris, nuclear fallout, and coolant fires are likely. Immediate evacuation of the surrounding area is strongly advised.
-reactor-meltdown-announcement-sender = Nuclear Meltdown
+reactor-meltdown-announcement = Ядерный реактор на борту станции катастрофически перегрузился. Вероятны радиоактивный мусор, ядерные осадки и пожары охлаждающей жидкости. Настоятельно рекомендуется немедленно покинуть прилегающую территорию.
+reactor-meltdown-announcement-sender = Ядерный кризис
 
 ### UI
-comp-nuclear-reactor-ui-locked = Locked
-comp-nuclear-reactor-ui-insert-button = Insert
-comp-nuclear-reactor-ui-remove-button = Remove
-comp-nuclear-reactor-ui-eject-button = Eject
+comp-nuclear-reactor-ui-locked = Заблокировано
+comp-nuclear-reactor-ui-insert-button = Вставить
+comp-nuclear-reactor-ui-remove-button = Удалить
+comp-nuclear-reactor-ui-eject-button = Извлечь
 
-comp-nuclear-reactor-ui-view-change = Change View
-comp-nuclear-reactor-ui-view-temp = Temperature View
-comp-nuclear-reactor-ui-view-neutron = Neutron View
-comp-nuclear-reactor-ui-view-fuel = Fuel View
+comp-nuclear-reactor-ui-view-change = Изменить вид
+comp-nuclear-reactor-ui-view-temp = Просмотр температуры
+comp-nuclear-reactor-ui-view-neutron = Нейтронный вид
+comp-nuclear-reactor-ui-view-fuel = Вид топлива
 
-comp-nuclear-reactor-ui-status-panel = Reactor Status
-comp-nuclear-reactor-ui-reactor-temp = Temperature
-comp-nuclear-reactor-ui-reactor-rads = Radiation
-comp-nuclear-reactor-ui-reactor-therm = Thermal Power
-comp-nuclear-reactor-ui-reactor-control = Control Rods
+comp-nuclear-reactor-ui-status-panel = Статус реактора
+comp-nuclear-reactor-ui-reactor-temp = Температура
+comp-nuclear-reactor-ui-reactor-rads = Радиация
+comp-nuclear-reactor-ui-reactor-therm = Тепловая энергия
+comp-nuclear-reactor-ui-reactor-control = Управление стержнями
 comp-nuclear-reactor-ui-therm-format = { POWERWATTS($power) }t
 
-comp-nuclear-reactor-ui-footer-left = Danger: high radiation.
-comp-nuclear-reactor-ui-footer-right = 1.0 REV 1
+comp-nuclear-reactor-ui-footer-left = Опасность: высокая радиация.
+comp-nuclear-reactor-ui-footer-right = 1.0 ОБ. 1

@@ -347,3 +347,6 @@ flavor-complex-punishment = как наказание
 flavor-complex-artifact-glue = как дроблённые артефакты
 flavor-weh = как вех
 flavor-hew = как хев
+
+flavor-complex-irish-car-bomb = как поплавок из-под колы с шипами
+flavor-dogfood = как корм для собак

@@ -1,1 +1,1 @@
-loadout-group-protogen-cybernetics = Protogen Frames
+loadout-group-protogen-cybernetics = Корпусы протогенов

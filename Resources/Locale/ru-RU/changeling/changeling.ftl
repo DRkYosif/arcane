@@ -47,3 +47,5 @@ changeling-sting-success = Мы незаметно жалим {THE($target)}!
 
 # other
 changeling-paused-map-name = Карта хранения личностей генокрада
+
+changeling-devour-consume-failed-not-dead = Это тело еще живо! Мы не можем съесть его живьем!

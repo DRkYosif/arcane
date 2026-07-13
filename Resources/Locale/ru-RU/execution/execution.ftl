@@ -15,3 +15,37 @@ execution-popup-self-initial-internal = Вы прикладываете { $weapo
 execution-popup-self-initial-external = { CAPITALIZE($attacker) } прикладывает свой { $weapon } к своему горлу.
 execution-popup-self-complete-internal = Вы перерезаете себе горло!
 execution-popup-self-complete-external = { CAPITALIZE($attacker) } перерезает себе горло!
+
+suicide-verb-name = Самоубийство
+
+suicide-verb-message = Используйте свое оружие для самоубийства.
+
+execution-popup-gun-initial-internal = Вы направляете дуло {THE($weapon)} на голову {THE($victim)}.
+
+execution-popup-gun-initial-external  = { CAPITALIZE(THE($attacker)) } направляет дуло {POSS-ADJ($attacker)} {$weapon} на голову {THE($victim)}.
+
+execution-popup-gun-complete-internal = Вы стреляете {THE($victim)} в голову!
+
+execution-popup-gun-complete-external = { CAPITALIZE(THE($attacker)) } стреляет {THE($victim)} в голову!
+
+execution-popup-gun-clumsy-internal = Вы не попадаете в голову {THE($victim)} и вместо этого стреляете себе в ногу!
+
+execution-popup-gun-clumsy-external = { CAPITALIZE(THE($attacker)) } не попадает в {THE($victim)} и вместо этого стреляет себе в ногу!
+
+execution-popup-gun-empty = { CAPITALIZE(THE($weapon)) } щёлкает.
+
+execution-popup-self-melee-initial-internal = Вы подносите {THE($weapon)} к собственному горлу.
+
+execution-popup-self-gun-initial-internal = Вы кладете дуло {THE($weapon)} в рот.
+
+execution-popup-self-melee-initial-external = { CAPITALIZE(THE($attacker)) } прикладывает {POSS-ADJ($attacker)} {$weapon} к собственному горлу.
+
+execution-popup-self-gun-initial-external = { CAPITALIZE(THE($attacker)) } суёт дуло {POSS-ADJ($attacker)} {$weapon} в рот.
+
+execution-popup-self-melee-complete-internal = Ты перерезал себе горло!
+
+execution-popup-self-gun-complete-internal = Ты стреляешь себе в голову!
+
+execution-popup-self-melee-complete-external = { CAPITALIZE(THE($attacker)) } перерезает себе горло!
+
+execution-popup-self-gun-complete-external = { CAPITALIZE(THE($attacker)) } стреляет себе в голову!

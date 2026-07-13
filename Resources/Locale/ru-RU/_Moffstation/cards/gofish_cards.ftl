@@ -1,202 +1,200 @@
-﻿gofish-card-name-reverse = gofish card
-gofish-card-desc-reverse = You can't tell what is on the other side of that fish card.
+gofish-card-name-reverse = карта «Рыбалки»
+gofish-card-desc-reverse = По рубашке не определить, что это за карта.
 
-gofish-card-name = { gofish-card-value-name } Card
+gofish-card-name = Карта { gofish-card-value-name }
 gofish-card-value-name = { $card ->
-    [rules] Rules
-    [carp] Space Carp
-    [magic] Magic Carp
-    [holo] Holocarp
-    [rainbowcarp] Rainbow Carp
-    [acmeco] AcmeCo
-    [dromedaryco] DromedaryCo
-    [nomads] Nomads
-    [spessman] Spessman
-    [ian] Ian
-    [lisa] Lisa
-    [puppy] Puppy Ian
-    [oldian] Old Ian
-    [appledonut] Apple Donut
-    [bungodonut] Bungo Donut
-    [chocolatedonut] Chocolate Donut
-    [pinkdonut] Pink Donut
-    [ertengineer] ERT Engineer
-    [ertleader] ERT Leader
-    [ertmedic] ERT Medic
-    [ertsecurity] ERT Security
-    [bingus] Bingus
-    [exception] Exception
-    [floppa] Floppa
-    [runtime] Runtime
-    [apple] Apple
-    [banana] Banana
-    [grapes] Grapes
-    [orange] Orange
-    [brown] Brown Mouse
-    [grey] Grey Mouse
-    [real] Real Mouse
-    [white] White Mouse
-    [deathshead] Deathshead Mothroach
-    [moproach] Moproach
-    [mothroach] Regular Mothroach
-    [rosy] Rosy Mothroach
-    [nukieelite] Elite Nukie
-    [nukiejuggernaut] Nukie Juggernaut
-    [nukiemedic] Nukie Medic
-    [nukieoperative] Nukie Operative
-    [drazil] Drazil Plushie
-    [lizard] Lizard Plushie
-    [rainbowlizard] Rainbow Lizard Plushie
-    [spacelizard] Space Lizard Plushie
-    [fourteenloko] Fourteen Loko
-    [grape] Grape Soda
-    [smitecranberry] Smite Cranberry Soda
-    [spacecola] Space Cola
-    [bloodbag] Blood Bag
-    [bruisepack] Bruise Pack
-    [gauze] Gauze
-    [ointment] Ointment
-    [clown] Clown
-    [mime] Mime
-    [passenger] Passenger
-    [skeleton] Skeleton
+    [rules] Правила
+    [carp] Космический карп
+    [magic] Мэджикарп
+    [holo] Голокарп
+    [rainbowcarp] Радужный карп
+    [acmeco] АкмеКо
+    [dromedaryco] ДромадериКо
+    [nomads] Номадс
+    [spessman] Спессманс Смоукс
+    [ian] Иан
+    [lisa] Лиза
+    [puppy] Щенок Иан
+    [oldian] Старый Иан
+    [appledonut] Яблочный пончик
+    [bungodonut] Пончик Бунго
+    [chocolatedonut] Шоколадный пончик
+    [pinkdonut] Розовый пончик
+    [ertengineer] Инженер ОБР
+    [ertleader] Командир ОБР
+    [ertmedic] Медик ОБР
+    [ertsecurity] Боец ОБР
+    [bingus] Бингус
+    [exception] Эксепшен
+    [floppa] Шлёпа
+    [runtime] Рантайм
+    [apple] Яблоко
+    [banana] Банан
+    [grapes] Виноград
+    [orange] Апельсин
+    [brown] Коричневая мышь
+    [grey] Серая мышь
+    [real] Настоящая мышь
+    [white] Белая мышь
+    [deathshead] Таракамоль «Мёртвая голова»
+    [moproach] Швабракан
+    [mothroach] Обычная таракамоль
+    [rosy] Розовая таракамоль
+    [nukieelite] Элитный ядерный оперативник
+    [nukiejuggernaut] Джаггернаут Cybersun
+    [nukiemedic] Медик ядерных оперативников
+    [nukieoperative] Ядерный оперативник
+    [drazil] Плюшевый Дразил
+    [lizard] Плюшевый унатх
+    [rainbowlizard] Радужная плюшевая рептилия
+    [spacelizard] Плюшевый космический унатх
+    [fourteenloko] Фоуртин Локо
+    [grape] Виноградная сода
+    [smitecranberry] Клюквенный Смайт
+    [spacecola] Спейс Кола
+    [bloodbag] Пакет крови
+    [bruisepack] Набор для лечения ушибов
+    [gauze] Марлевый бинт
+    [ointment] Мазь
+    [clown] Клоун
+    [mime] Мим
+    [passenger] Пассажир
+    [skeleton] Скелет
    *[other] {$card}
 }
 
 gofish-card-desc =
-    The border of this card is { $suit }.
-    It belongs to the { gofish-card-group-name } group of cards!
+    Граница этой карты — { $suit }.
+    Она принадлежит к группе карт { gofish-card-group-name }!
 
 gofish-card-suit-name = { $suit ->
-    [gofishblue] Blue
-    [gofishgreen] Green
-    [gofishred] Red
-    [gofishyellow] Yellow
+    [gofishblue] Синий
+    [gofishgreen] Зеленый
+    [gofishred] Красный
+    [gofishyellow] Желтый
    *[other] {$suit}
 }
 
 gofish-card-group-name = { $id ->
-    [carp] Carp
-    [magic] Carp
-    [holo] Carp
-    [rainbowcarp] Carp
-    [acmeco] Cigarette
-    [dromedaryco] Cigarette
-    [nomads] Cigarette
-    [spessman] Cigarette
-    [ian] Corgi
-    [lisa] Corgi
-    [puppy] Corgi
-    [oldian] Corgi
-    [appledonut] Donut
-    [bungodonut] Donut
-    [chocolatedonut] Donut
-    [pinkdonut] Donut
-    [ertengineer] ERT
-    [ertleader] ERT
-    [ertmedic] ERT
-    [ertsecurity] ERT
-    [bingus] Cat
-    [exception] Cat
-    [floppa] Cat
-    [runtime] Cat
-    [apple] Fruit
-    [banana] Fruit
-    [grapes] Fruit
-    [orange] Fruit
-    [brown] Mice
-    [grey] Mice
-    [real] Mice
-    [white] Mice
-    [deathshead] Mothroach
-    [moproach] Mothroach
-    [mothroach] Mothroach
-    [rosy] Mothroach
-    [nukieelite] Nukie
-    [nukiejuggernaut] Nukie
-    [nukiemedic] Nukie
-    [nukieoperative] Nukie
-    [drazil] Plushie
-    [lizard] Plushie
-    [rainbowlizard] Plushie
-    [spacelizard] Plushie
-    [fourteenloko] Soda
-    [grape] Soda
-    [smitecranberry] Soda
-    [spacecola] Soda
-    [bloodbag] Topical
-    [bruisepack] Topical
-    [gauze] Topical
-    [ointment] Topical
-    [clown] Troublemaker
-    [mime] Troublemaker
-    [passenger] Troublemaker
-    [skeleton] Troublemaker
-   *[other] !!Brother you should not be seeing this...!!
+    [carp] Карпы
+    [magic] Карпы
+    [holo] Карпы
+    [rainbowcarp] Карпы
+    [acmeco] Сигареты
+    [dromedaryco] Сигареты
+    [nomads] Сигареты
+    [spessman] Сигареты
+    [ian] Корги
+    [lisa] Корги
+    [puppy] Корги
+    [oldian] Корги
+    [appledonut] Пончики
+    [bungodonut] Пончики
+    [chocolatedonut] Пончики
+    [pinkdonut] Пончики
+    [ertengineer] ОБР
+    [ertleader] ОБР
+    [ertmedic] ОБР
+    [ertsecurity] ОБР
+    [bingus] Коты
+    [exception] Коты
+    [floppa] Коты
+    [runtime] Коты
+    [apple] Фрукты
+    [banana] Фрукты
+    [grapes] Фрукты
+    [orange] Фрукты
+    [brown] Мыши
+    [grey] Мыши
+    [real] Мыши
+    [white] Мыши
+    [deathshead] Таракамоли
+    [moproach] Таракамоли
+    [mothroach] Таракамоли
+    [rosy] Таракамоли
+    [nukieelite] Ядерные оперативники
+    [nukiejuggernaut] Ядерные оперативники
+    [nukiemedic] Ядерные оперативники
+    [nukieoperative] Ядерные оперативники
+    [drazil] Плюшевые игрушки
+    [lizard] Плюшевые игрушки
+    [rainbowlizard] Плюшевые игрушки
+    [spacelizard] Плюшевые игрушки
+    [fourteenloko] Газировка
+    [grape] Газировка
+    [smitecranberry] Газировка
+    [spacecola] Газировка
+    [bloodbag] Медикаменты
+    [bruisepack] Медикаменты
+    [gauze] Медикаменты
+    [ointment] Медикаменты
+    [clown] Нарушители спокойствия
+    [mime] Нарушители спокойствия
+    [passenger] Нарушители спокойствия
+    [skeleton] Нарушители спокойствия
+   *[other] !!Вы не должны это видеть...!!
 }
 
 gofish-card-rules-content = [color=#1b67a5]
-                                                  {"[head=1]                  Go Fish![/head]"}
-                                                  {"[head=4]               Card Game Rules & How to Play[/head]"}[/color]
+                                                  {"[head=1]                  Рыбалка![/head]"}
+                                                  {"[head=4]             Правила карточной игры[/head]"}[/color]
 
     ════════════════════════════════════════
 
-    {"[head=2]    Introduction:[/head]"}
+    {"[head=2]    Введение:[/head]"}
 
-    Go Fish is a classic card game designed to be played by 2-6 players. The goal of Go Fish! is to collect all four cards from the same group to score points.
-    To start a game of Go Fish, begin by shuffling the deck. The amount of cards you would then deal depends on the number of players...
-
-    ════════════════════════════════════════
-
-    {"[head=2]    Setup:[/head]"}
-
-     • {"[bold]2-3 players:[/bold]"} Deal 7 cards each.
-     • {"[bold]4-6 players:[/bold]"} Deal 5 cards each.
-    Once the cards have been dealt, return the deck to the middle of the table face down.
+    «Рыбалка» — классическая карточная игра для 2–6 игроков. Чтобы заработать очки, собирайте наборы из четырёх карт одной группы.
+    Перед началом игры перетасуйте колоду. Количество карт при раздаче зависит от числа игроков.
 
     ════════════════════════════════════════
 
-    {"[head=2]    Gameplay:[/head]"}
+    {"[head=2]    Подготовка:[/head]"}
 
-    Players will take turn asking another player if they have a card belonging to a specific group. The asking player may only asks for cards from a specific group, if they hold one of those cards in their hand.
-        {"[bold]        Player 1:[/bold]"} Hey Player 2, got any Mothroaches?
-    Player 2 must surrender all Mothroach cards to Player 1 if they have any in their possesion. If this is the case, Player 1 can continue their turn and ask another player, repeating until they get one wrong.
-        {"[bold]        Player 1:[/bold]"} Hey Player 3, got any Mothroaches?
-    If the player doesn't have the a card belonging to that group, they must respond with "Go Fish!", forcing the player to draw a card.
-        {"[bold]                                                  Player 2:[/bold]"} Nope! Go Fish!
-    Player 1 would then draw a card from the deck. If they manage to draw a card belonging to a group they just asked for, then they must announce that and continue their turn.
-        {"[bold]        Player 1:[/bold]"} I drew a Mothroach! I get to go again!
-    If the card does not match the group they asked for, then the next player in the turn order begins their turn.
+     • {"[bold]2–3 игрока:[/bold]"} раздайте каждому по 7 карт.
+     • {"[bold]4–6 игроков:[/bold]"} раздайте каждому по 5 карт.
+    Оставшуюся колоду положите рубашкой вверх в центре стола.
 
     ════════════════════════════════════════
 
-    {"[head=2]    How To Win:[/head]"}
+    {"[head=2]    Ход игры:[/head]"}
 
-    If a player manages to collect all four cards belonging to the same group, the player must place the four cards face up on the table and announce it to the other players.
-    For every set a player collects, they score one point.
-
-    The game ends when there are no cards left in the deck and all groups have been united. The player who has the most points will be declared the winner!
+    Игроки по очереди спрашивают друг у друга карты определённой группы. Просить карты группы можно лишь тогда, когда у вас уже есть хотя бы одна карта этой группы.
+        {"[bold]        Игрок 1:[/bold]"} Игрок 2, у тебя есть мотараканы?
+    Если у игрока 2 есть такие карты, он обязан отдать их все игроку 1. Получив карты, игрок 1 продолжает ход и снова задаёт вопрос любому игроку.
+        {"[bold]        Игрок 1:[/bold]"} Игрок 3, у тебя есть мотараканы?
+    Если запрошенных карт нет, игрок отвечает: «Иди рыбачить!», после чего спрашивающий вытягивает карту из колоды.
+        {"[bold]                                                  Игрок 2:[/bold]"} Нет! Иди рыбачить!
+    Если вытянутая карта относится к запрошенной группе, игрок объявляет об этом и продолжает свой ход.
+        {"[bold]        Игрок 1:[/bold]"} Мне попался мотаракан! Я хожу ещё раз!
+    В противном случае ход переходит к следующему игроку.
 
     ════════════════════════════════════════
 
-    {"[head=2]    Tips for Playing Go Fish![/head]"}
+    {"[head=2]    Как победить:[/head]"}
 
-    There are 13 groups in a standard Go Fish! deck.
-    Each group has four cards, with each card having a border color of either {"[bold][color=Red]Red[/color][/bold], [bold][color=DodgerBlue]Blue[/color][/bold], [bold][color=LimeGreen]Green[/color][/bold] or [bold][color=GoldenRod]Yellow[/color][/bold]"}.
+    Собрав четыре карты одной группы, игрок выкладывает их на стол лицом вверх и объявляет об этом остальным.
+    Каждый собранный набор приносит одно очко.
 
-    The 13 groups are as follows...
-    {"[mono][bold]1:[/bold] Carp         [bold]6:[/bold] Cats       [bold]11:[/bold] Plushies"}
-    {"[bold]2:[/bold] Cigarettes   [bold]7:[/bold] Fruit      [bold]12:[/bold] Soda"}
-    {"[bold]3:[/bold] Corgis       [bold]8:[/bold] Mice       [bold]13:[/bold] Troublemakers"}
-    {"[bold]4:[/bold] Donuts       [bold]9:[/bold] Mothroachs"}
-    {"[bold]5:[/bold] ERT         [bold]10:[/bold] Nukies"}[/mono]
+    Игра заканчивается, когда колода опустеет и все группы будут собраны. Побеждает игрок, набравший больше всего очков!
 
-    {"  • Remember to [bold]pay attention[/bold] to what other players ask for!"}
+    ════════════════════════════════════════
 
-    {"  • [bold]Remember who has which cards[/bold] so your guesses can be"}
-        more successful!
+    {"[head=2]    Советы по игре:[/head]"}
 
-    {"  • [bold]Avoid exposing cards[/bold] which you are a close to completing"}
-        a set with!
+    В стандартной колоде «Рыбалки» 13 групп.
+    Каждая группа состоит из четырёх карт с рамками разных цветов: {"[bold][color=Red]красной[/color][/bold], [bold][color=DodgerBlue]синей[/color][/bold], [bold][color=LimeGreen]зелёной[/color][/bold] и [bold][color=GoldenRod]жёлтой[/color][/bold]"}.
 
-    {"  • [bold]Remember to have fun![/bold]"}
+    В колоде представлены следующие группы:
+    {"[mono][bold]1:[/bold] Карпы       [bold]6:[/bold] Коты        [bold]11:[/bold] Плюшевые игрушки"}
+    {"[bold]2:[/bold] Сигареты     [bold]7:[/bold] Фрукты      [bold]12:[/bold] Газировка"}
+    {"[bold]3:[/bold] Корги        [bold]8:[/bold] Мыши        [bold]13:[/bold] Нарушители спокойствия"}
+    {"[bold]4:[/bold] Пончики      [bold]9:[/bold] Мотараканы"}
+    {"[bold]5:[/bold] ОБР         [bold]10:[/bold] Ядерные оперативники"}[/mono]
+
+    {"  • [bold]Следите[/bold] за тем, какие карты спрашивают другие игроки!"}
+
+    {"  • [bold]Запоминайте, у кого какие карты[/bold], чтобы чаще угадывать!"}
+
+    {"  • [bold]Не раскрывайте карты[/bold] группы, которую почти собрали!"}
+
+    {"  • [bold]И не забывайте веселиться![/bold]"}

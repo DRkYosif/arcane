@@ -1,2 +1,2 @@
-reagent-name-batteryacid = Battery Acid
-reagent-desc-batteryacid = A mildly corrosive liquid commonly found in electronic devices that carry batteries, including machine boards.
+reagent-name-batteryacid = Аккумуляторная кислота
+reagent-desc-batteryacid = Слегка коррозионная жидкость, обычно встречающаяся в электронных устройствах с батарейками, в том числе в платах машин.

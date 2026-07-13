@@ -1,4 +1,4 @@
-nuclear-centrifuge-insert-item = {CAPITALIZE(THE($user))} inserted {THE($item)} into {THE($machine)}.
+nuclear-centrifuge-insert-item = {CAPITALIZE(THE($user))} вставил {THE($item)} в {THE($machine)}.
 
-nuclear-centrifuge-wrong-item = You can't put {THE($item)} in here, it doesn't fit.
-nuclear-centrifuge-unfit-item = {THE($item)} isn't ready for reprocessing.
+nuclear-centrifuge-wrong-item = Сюда нельзя поместить {THE($item)}, он не подходит.
+nuclear-centrifuge-unfit-item = {THE($item)} не готов к повторной обработке.

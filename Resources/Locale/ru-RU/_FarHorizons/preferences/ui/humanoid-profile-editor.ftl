@@ -1,3 +1,3 @@
-humanoid-profile-editor-subspecies-label = Subspecies:
+humanoid-profile-editor-subspecies-label = Подвиды:
 
-humanoid-profile-editor-species-loadout = Species Loadout:
+humanoid-profile-editor-species-loadout = Расовый Лодаут:

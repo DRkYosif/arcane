@@ -527,3 +527,39 @@ uplink-energycrossbow-desc = Незаменимое личное оружие к
 #Objective items
 uplink-hijack-beacon-name = Маяк взлома
 uplink-hijack-beacon-desc = Это маяк взлома, разработанный Синдикатом для обхода брандмауэров автоматизированных торговых станций Nanotrasen. Для срабатывания требуется 200 секунд и торговые станции объявляют о взломе, поэтому подготовьтесь соответствующим образом.
+
+uplink-estoc-name = Эсток ДМР
+
+uplink-estoc-desc = Специальная стрелковая винтовка с оптикой среднего радиуса действия для боя на дальних дистанциях.
+
+uplink-grenade-launcher-frag-ammo-name = Патрон осколочной гранаты (China Lake)
+
+uplink-grenade-launcher-frag-ammo-desc = В упаковке 6 патронов осколочных гранат. Совместим с гранатометом China Lake.
+
+uplink-grenade-launcher-blast-ammo-name = Патрон взрывной гранаты (China Lake)
+
+uplink-grenade-launcher-blast-ammo-desc = В упаковке 6 патронов взрывных гранат. Совместим с гранатометом China Lake.
+
+uplink-reinforcement-radio-assault-cyborg-name = Телепортер киборг Синдиката
+
+uplink-reinforcement-radio-assault-cyborg-desc = Радио в штурмовом киборге синдиката, оснащенном модифицированным L6, двойным мечом и базовыми хакерскими инструментами.
+
+uplink-mech-teleporter-heavy-name = Телепортер тяжелых мехов
+
+uplink-mech-teleporter-heavy-desc = Включает тяжелого бронированного робота Cybersun со встроенным цепным мечом, Ultra AC-2, LBX AC 10 «Scattershot», ракетную стойку BRM-6 и пушку P-X Tesla.
+
+uplink-mech-teleporter-assault-name = Телепорт штурмового меха
+
+uplink-mech-teleporter-assault-desc = Включает легкобронированный робот Cybersun со встроенным цепным мечом, LBX AC 10 «Scattershot», легкую ракетную стойку SRM-8 и пушку P-X Tesla.
+
+uplink-chameleon-bundle-name = Ящик с набором хамелеона
+
+uplink-chameleon-bundle-desc = Ящик с рюкзаком, полным предметов, содержащих технологию хамелеона, позволяющую замаскировать практически Все!
+
+uplink-hardsuit-infiltration-name = Комбинезон для проникновения Синдиката
+
+uplink-hardsuit-infiltration-desc = Самый любимый костюм Синдиката для специальных операций. Этот жесткий костюм, а также долговечность, был создан с использованием интегрированной технологии хамелеон.
+
+uplink-energy-dome-name = Персональный энергетический купол
+
+uplink-energy-dome-desc = Генератор личного щита, который защищает владельца от лазеров и пуль, но не позволяет самому использовать оружие дальнего боя. Поставляется с небольшим аккумулятором.

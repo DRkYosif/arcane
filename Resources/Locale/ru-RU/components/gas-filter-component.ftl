@@ -7,3 +7,9 @@ comp-gas-filter-ui-filter-gas-confirm = Выбрать газ
 comp-gas-filter-ui-filter-gas-none = Нет
 
 comp-gas-filter-ui-needs-anchor = Сначала закрепите его!
+
+comp-gas-filter-ui-filter-status = Статус:
+
+comp-gas-filter-ui-status-enabled = Включено
+
+comp-gas-filter-ui-status-disabled = Выключено
