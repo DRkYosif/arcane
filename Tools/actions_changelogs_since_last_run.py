@@ -8,6 +8,7 @@ Automatically figures out the last run and changelog contents with the GitHub AP
 
 import itertools
 import os
+import sys
 from pathlib import Path
 from typing import Any, Iterable
 
@@ -99,7 +100,11 @@ def get_last_changelog() -> str:
     session.headers["Accept"] = "Accept: application/vnd.github+json"
     session.headers["X-GitHub-Api-Version"] = "2022-11-28"
 
-    most_recent = get_most_recent_workflow(session, github_repository, github_run)
+    try:
+        most_recent = get_most_recent_workflow(session, github_repository, github_run)
+    except RuntimeError:
+        print("No previous successful publish run; publishing the current changelog.")
+        return "Entries: []\n"
     last_sha = most_recent["head_commit"]["id"]
     print(f"Last successful publish job was {most_recent['id']}: {last_sha}")
     return get_last_changelog_by_sha(session, last_sha, github_repository)
