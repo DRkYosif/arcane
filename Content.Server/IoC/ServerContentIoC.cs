@@ -112,7 +112,7 @@ internal static class ServerContentIoC
         deps.Register<IBugReportManager, BugReportManager>();
         deps.Register<IAchievementRewardManager, NullLinkPlayerManager>();
         deps.Register<PreWrittenDocumentManager>();
-        deps.Register<IDiscordOAuthManager, DiscordOAuthManager>();
+        deps.Register<IDiscordOAuthManager, DiscordOAuthManager>(); // Arcane
         // 🌟Starlight🌟 end
         // nulllink start
         deps.Register<IActorRouter, ActorRouter>();

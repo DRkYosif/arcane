@@ -17,7 +17,9 @@ namespace Content.Client.Info
     {
         private readonly IConfigurationManager _cfg;
 
-        private readonly IClientDiscordOAuthManager _discordOAuth;
+        // private readonly INullLinkPlayerRolesManager _playerRoles;// NullLink
+
+        private readonly IClientDiscordOAuthManager _discordOAuth; // Arcane
 
         private ValueList<(CVarDef<string> cVar, Button button)> _infoLinks;
 
@@ -31,7 +33,7 @@ namespace Content.Client.Info
 
             var uriOpener = IoCManager.Resolve<IUriOpener>();
             _cfg = IoCManager.Resolve<IConfigurationManager>();
-            _discordOAuth = IoCManager.Resolve<IClientDiscordOAuthManager>();
+            _discordOAuth = IoCManager.Resolve<IClientDiscordOAuthManager>(); // Arcane
             var rulesButton = new Button() {Text = Loc.GetString("server-info-rules-button")};
             rulesButton.OnPressed += args => new RulesAndInfoWindow().Open();
             buttons.AddChild(rulesButton);
@@ -44,9 +46,11 @@ namespace Content.Client.Info
 
             // NullLink start
             var button = new Button { Text = Loc.GetString("server-info-connect-discord-button") };
+            // Arcane-Start
             button.OnPressed += _ =>
             {
                 _discordOAuth.RequestLink();
+            // Arcane-End
             };
 
             buttons.AddChild(button);
