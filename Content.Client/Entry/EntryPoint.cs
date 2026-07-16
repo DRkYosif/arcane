@@ -1,7 +1,7 @@
 using Content.Client._Starlight.Managers;
 using Content.Client._Starlight.Achievement;
 using Content.Client._NullLink; // NullLink
-using Content.Client._OpenSpace;
+using Content.Client._Arcane;
 using Content.Client.Administration.Managers;
 using Content.Client.Changelog;
 using Content.Client.Chat.Managers;
@@ -89,7 +89,7 @@ namespace Content.Client.Entry
         [Dependency] private ISharedNullLinkPlayerRolesReqManager _sharedNullLinkPlayer = default!; //NullLink
         [Dependency] private PreWrittenDocumentManager _documentManager = default!; // Starlight
         [Dependency] private IClientAchievementManager _achievementManager = default!; // Starlight
-        [Dependency] private IClientDiscordOAuthManager _discordAuthManager = default!; // OpenSpace
+        [Dependency] private IClientDiscordOAuthManager _discordAuthManager = default!; // Arcane
 
         public override void PreInit()
         {

@@ -1,4 +1,4 @@
-﻿using Content.Client._OpenSpace;
+﻿using Content.Client._Arcane;
 using Content.Client._Starlight.Managers;
 using Content.Client.Administration.Managers;
 using Content.Client.Changelog;
@@ -48,7 +48,7 @@ namespace Content.Client.Info
             {
                 _discordOAuth.RequestLink();
             };
-            
+
             buttons.AddChild(button);
             // NullLink end
 

@@ -2,7 +2,7 @@ using Content.Server._NullLink;
 using Content.Server._NullLink.Core;
 using Content.Server._NullLink.EventBus;
 using Content.Server._NullLink.PlayerData;
-using Content.Server._OpenSpace;
+using Content.Server._Arcane;
 using Content.Server._Starlight;
 using Content.Server._Starlight.BugReports; // Staright
 using Content.Server._Starlight.TextToSpeech;
@@ -103,7 +103,7 @@ namespace Content.Server.Entry
         [Dependency] private INullLinkPlayerManager _nullLinkPlayerManager = default!;
 #endregion Nulllink
 
-        #region OpenSpace
+        #region Arcane
 
         [Dependency] private readonly IDiscordOAuthManager _discordOAuthManager = default!;
 
@@ -170,7 +170,7 @@ namespace Content.Server.Entry
 			_preWrittenDocument.Initialize();
             //🌟Starlight🌟 end
 
-            // OpenSpace
+            // Arcane
             _discordOAuthManager.Initialize();
         }
 

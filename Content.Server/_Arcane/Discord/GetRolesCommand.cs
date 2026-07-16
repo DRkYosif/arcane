@@ -3,7 +3,7 @@ using Content.Shared.Administration;
 using Robust.Server.Player;
 using Robust.Shared.Console;
 
-namespace Content.Server._OpenSpace.Discord;
+namespace Content.Server._Arcane.Discord;
 
 [AdminCommand(AdminFlags.Admin)]
 public sealed class GetRolesCommand : LocalizedCommands

@@ -1,4 +1,4 @@
-namespace Content.Client._OpenSpace;
+namespace Content.Client._Arcane;
 
 public interface IClientDiscordOAuthManager
 {
