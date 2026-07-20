@@ -73,5 +73,15 @@ Entries:
   id: 701
   time: '2026-07-20T10:13:27.000000+00:00'
   url: https://github.com/ArcaneSS14/arcane/pull/7
+- author: Vecortys
+  changes:
+  - message: Портировано улучшенное окно описания.
+    type: Add
+  - message: Добавлена настройка изображения персонажа, которое будет отображаться
+      в окне описания.
+    type: Add
+  id: 2501
+  time: '2026-07-20T17:11:28.000000+00:00'
+  url: https://github.com/ArcaneSS14/arcane/pull/25
 Order: -1
 
