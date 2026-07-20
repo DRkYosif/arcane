@@ -82,8 +82,6 @@ public sealed class DateTimeTagHandler : IMarkupTagHandler
         var btn = new Button
         {
             Text = Loc.GetString("paper-datetime-button"),
-            MinSize = new Vector2(120, FontLineHeight + 4),
-            MaxSize = new Vector2(120, FontLineHeight + 4),
             Margin = new Thickness(1, 2, 1, 2),
             StyleClasses = { "ButtonSquare" },
             TextAlign = Label.AlignMode.Center

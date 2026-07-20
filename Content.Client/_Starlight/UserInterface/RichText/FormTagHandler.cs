@@ -102,9 +102,7 @@ public sealed class FormTagHandler : IMarkupTagHandler
     {
         var btn = new Button
         {
-            Text = "Fill",
-            MinSize = new Vector2(32, FontLineHeight + 2),
-            MaxSize = new Vector2(32, FontLineHeight + 2),
+            Text = Loc.GetString("paper-form-fill-button"), // Arc Loc
             Margin = new Thickness(1, 0, 1, 0),
             StyleClasses = { "ButtonSquare" },
             TextAlign = Label.AlignMode.Center

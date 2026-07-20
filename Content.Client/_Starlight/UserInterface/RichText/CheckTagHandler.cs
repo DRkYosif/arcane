@@ -79,8 +79,6 @@ public sealed class CheckTagHandler : IMarkupTagHandler
         var btn = new Button
         {
             Text = "☐",
-            MinSize = new Vector2(FontLineHeight + 2, FontLineHeight + 2),
-            MaxSize = new Vector2(FontLineHeight + 2, FontLineHeight + 2),
             Margin = new Thickness(1, 0, 1, 0),
             StyleClasses = { "ButtonSquare" },
             TextAlign = Label.AlignMode.Center
