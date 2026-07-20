@@ -645,6 +645,7 @@ namespace Content.Client.Lobby.UI
             TabContainer.SetTabTitle(5, Loc.GetString("humanoid-profile-editor-cybernetics-tab"));
             TabContainer.SetTabTitle(6, Loc.GetString("humanoid-profile-editor-ic-info-tab"));
             TabContainer.SetTabTitle(7, Loc.GetString("humanoid-profile-editor-ooc-info-tab"));
+            TabContainer.SetTabTitle(8, Loc.GetString("arcane-character-image-editor-tab")); // Arcane
         }
         // Cosmatic Drift Record System-start: Build the CD record editor tab and hook persistence callbacks
         private RecordEditorGui CreateRecordEditorTab()
@@ -699,6 +700,7 @@ namespace Content.Client.Lobby.UI
 
             OOCInfoEditor.PersonalNotesInput.OnTextChanged += OnPersonalNotesChanged;
             OOCInfoEditor.OOCNotesInput.OnTextChanged += OnOOCNotesChanged;
+            CharacterImageEditor.OnUrlChanged += OnCharacterImageUrlChanged; // Arcane
         }
 
         /// <summary>
@@ -1526,6 +1528,17 @@ namespace Content.Client.Lobby.UI
             IsDirty = true;
         }
 
+        // Arcane-start
+        private void OnCharacterImageUrlChanged(string imageUrl)
+        {
+            if (Profile is null)
+                return;
+
+            Profile = Profile.WithCharacterImageUrl(imageUrl);
+            IsDirty = true;
+        }
+        // Arcane-end
+
         //starlight end
 
         private void OnMarkingChange(MarkingSet markings)
@@ -1748,6 +1761,7 @@ namespace Content.Client.Lobby.UI
 
         private void UpdateCharacterInfoEditorText()
         {
+            CharacterImageEditor.SetUrl(Profile?.CharacterImageUrl ?? string.Empty); // Arcane
             if (!_allowFlavorText)
                 return;
             ICInfoEditor.PhysicalDescInput.TextRope = new Rope.Leaf(Profile?.PhysicalDescription ?? "");
