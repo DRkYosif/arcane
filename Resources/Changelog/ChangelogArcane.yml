@@ -66,5 +66,12 @@ Entries:
   id: 1801
   time: '2026-07-20T08:15:14.000000+00:00'
   url: https://github.com/ArcaneSS14/arcane/pull/18
+- author: '[PuroSlavKing](https://github.com/PuroSlavKing), UmbiMax'
+  changes:
+  - message: Портирован индикатор боевого режима со звуками перехода в/из него.
+    type: Add
+  id: 701
+  time: '2026-07-20T10:13:27.000000+00:00'
+  url: https://github.com/ArcaneSS14/arcane/pull/7
 Order: -1
 
