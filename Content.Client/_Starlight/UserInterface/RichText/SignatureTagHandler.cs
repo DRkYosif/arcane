@@ -82,6 +82,8 @@ public sealed class SignatureTagHandler : IMarkupTagHandler
         var btn = new Button
         {
             Text = Loc.GetString("paper-signature-sign-button"), // Arc Loc
+          /*MinSize = new Vector2(48, FontLineHeight + 4),
+            MaxSize = new Vector2(48, FontLineHeight + 4), */// Arcane dynamic size
             Margin = new Thickness(1, 2, 1, 2),
             StyleClasses = { "ButtonSquare" },
             TextAlign = Label.AlignMode.Center
