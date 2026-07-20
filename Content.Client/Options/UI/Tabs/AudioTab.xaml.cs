@@ -63,6 +63,7 @@ public sealed partial class AudioTab : Control
             _cfg.GetCVar(CCVars.MaxMaxAmbientSourcesConfigured));
 
         // Arcane-start
+        Control.AddOptionCheckBox(CCVars.CombatModeSoundEnabled, CombatModeSoundCheckBox); // Arcane
         Control.AddOptionPercentSlider(
             ACCVars.TTSVolume,
             SliderArcaneTts,
